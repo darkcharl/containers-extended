@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="602" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>        
+                <!-- Container for books -->
+				<node id="GameObjects">
+					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('BOOK') and not Tagged('SCROLL')" />
+					<attribute id="MapKey" type="FixedString" value="2626e4de-979a-4c2a-b59a-7e7f89e8e18e" />
+					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_BookBag" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="56427fbf-a074-45eb-9e98-81ef6e377a2c" />
+					<attribute id="DisplayName" type="TranslatedString" handle="e4948cf4-5360-46b7-8cf4-1ae8362dd596" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="e3cc3864-3b6c-41d7-9be5-3feb145ed7b0" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_BOOK_GEN_Books_Row_Multiple_D" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

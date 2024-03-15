@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="602" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>        
+                <!-- Container for books -->
+				<node id="GameObjects">
+					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('GRENADE')" />
+					<attribute id="MapKey" type="FixedString" value="14415b1f-47cf-4672-b2cf-dd8db20a37e4" />
+					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_GrenadeContainer" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="854da6d0-ecfd-450d-82b4-cdff387c4349" />
+					<attribute id="DisplayName" type="TranslatedString" handle="950d53ae-436a-4ba7-89a7-66852e30f36b" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="69f7abc1-aed5-4cdd-b93d-6b7728d1be45" version="1" />
+					<attribute id="Stats" type="FixedString" value="OBJ_ContainersExtended_GrenadeContainer" />
+					<attribute id="Icon" type="FixedString" value="Item_UNI_UND_Runepowder_Barrel" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,633 @@
+
+new equipment "EQP_CC_Barbarian"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Greataxe"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "ARM_Shoes_Barbarian"
+add equipmentgroup
+add equipment entry "ARM_Barbarian"
+add equipmentgroup
+add equipment entry "WPN_Handaxe"
+add equipmentgroup
+add equipment entry "WPN_Handaxe"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BookBag"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoatingsCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_PotionCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Quiver"
+
+new equipment "EQP_CC_Bard"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Rapier"
+add equipmentgroup
+add equipment entry "WPN_HandCrossbow"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "ARM_Bard"
+add equipmentgroup
+add equipment entry "ARM_Boots_Leather"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BookBag"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoatingsCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_PotionCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Quiver"
+
+new equipment "EQP_CC_Cleric"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Mace"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "ARM_Shield"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "ARM_Boots_Leather"
+add equipmentgroup
+add equipment entry "ARM_ChainShirt_Body"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BookBag"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoatingsCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_PotionCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Quiver"
+
+new equipment "EQP_CC_Druid"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Quarterstaff_Druid"
+add equipmentgroup
+add equipment entry "ARM_Leather_Body_Druid"
+add equipmentgroup
+add equipment entry "ARM_Boots_Leather_Druid"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BookBag"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoatingsCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_PotionCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Quiver"
+
+new equipment "EQP_CC_Fighter"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Longsword"
+add equipmentgroup
+add equipment entry "WPN_Shortbow"
+add equipmentgroup
+add equipment entry "ARM_Boots_Leather"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "ARM_ScaleMail_Body"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BookBag"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoatingsCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_PotionCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Quiver"
+
+new equipment "EQP_CC_Paladin"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Warhammer"
+add equipmentgroup
+add equipment entry "ARM_Shield_C"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "ARM_Boots_Leather"
+add equipmentgroup
+add equipment entry "ARM_ScaleMail_Body"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "WPN_Javelin"
+add equipmentgroup
+add equipment entry "WPN_Javelin"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Book_Paladin"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BookBag"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoatingsCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_PotionCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Quiver"
+
+new equipment "EQP_CC_Paladin_Ancients"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Warhammer"
+add equipmentgroup
+add equipment entry "ARM_Shield_C"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "ARM_Boots_Leather"
+add equipmentgroup
+add equipment entry "ARM_ScaleMail_Body_Paladin_Ancients"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "WPN_Javelin"
+add equipmentgroup
+add equipment entry "WPN_Javelin"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Book_Paladin"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BookBag"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoatingsCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_PotionCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Quiver"
+
+new equipment "EQP_CC_Paladin_Devotion"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Warhammer"
+add equipmentgroup
+add equipment entry "ARM_Shield_C"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "ARM_Boots_Leather"
+add equipmentgroup
+add equipment entry "ARM_ScaleMail_Body_Paladin_Devotion"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "WPN_Javelin"
+add equipmentgroup
+add equipment entry "WPN_Javelin"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Book_Paladin"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BookBag"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoatingsCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_PotionCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Quiver"
+
+new equipment "EQP_CC_Ranger"
+add initialweaponset "Ranged"
+add equipmentgroup
+add equipment entry "WPN_Shortbow"
+add equipmentgroup
+add equipment entry "WPN_Shortsword"
+add equipmentgroup
+add equipment entry "ARM_Boots_Leather"
+add equipmentgroup
+add equipment entry "OBJ_ArrowOfIce"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "ARM_Leather_Body"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BookBag"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoatingsCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_PotionCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Quiver"
+
+new equipment "EQP_CC_Rogue"
+add initialweaponset "Ranged"
+add equipmentgroup
+add equipment entry "WPN_Shortbow"
+add equipmentgroup
+add equipment entry "WPN_Shortsword"
+add equipmentgroup
+add equipment entry "OBJ_Kit_ThievesTools"
+add equipmentgroup
+add equipment entry "OBJ_GreaseBottle"
+add equipmentgroup
+add equipment entry "OBJ_GreaseBottle"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "ARM_Boots_Leather"
+add equipmentgroup
+add equipment entry "ARM_Leather_Body_Rogue"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BookBag"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoatingsCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_PotionCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Quiver"
+
+new equipment "EQP_CC_Sorcerer"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Quarterstaff"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "ARM_Shoes"
+add equipmentgroup
+add equipment entry "ARM_Robe_Body_Sorcerer"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BookBag"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoatingsCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_PotionCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Quiver"
+
+new equipment "EQP_CC_Sorcerer_DraconicAncestry"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Quarterstaff"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "ARM_Shoes"
+add equipmentgroup
+add equipment entry "ARM_Robe_Body_Sorcerer_DraconicAncestry"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BookBag"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoatingsCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_PotionCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Quiver"
+
+new equipment "EQP_CC_Sorcerer_StormSorcery"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Quarterstaff"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "ARM_Shoes"
+add equipmentgroup
+add equipment entry "ARM_Robe_Body_Sorcerer_StormSorcery"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BookBag"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoatingsCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_PotionCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Quiver"
+
+new equipment "EQP_CC_Warlock"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Dagger"
+add equipmentgroup
+add equipment entry "ARM_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "ARM_Padded_Body"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BookBag"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoatingsCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_PotionCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Quiver"
+
+new equipment "EQP_CC_Wizard"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Quarterstaff"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Potion_Healing"
+add equipmentgroup
+add equipment entry "ARM_Shoes"
+add equipmentgroup
+add equipment entry "ARM_Robe_Body"
+add equipmentgroup
+add equipment entry "OBJ_Scroll_Revivify"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BookBag"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoatingsCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_PotionCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Quiver"
