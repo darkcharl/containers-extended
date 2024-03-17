@@ -19,12 +19,7 @@ new treasuretable "DEN_Entrance_Trade"
 CanMerge 1
 new subtable "1,1" "T_ContainersExtended_Full",1,0,0,0,0,0,0,0
 
-new treasuretable "DEN_Entrance_Trade"
-CanMerge 1
-new subtable "1,1" 
-object category "T_ContainersExtended_Full",1,0,0,0,0,0,0,0
-
-new treasuretable "UND_SocietyOfBrilliance_Hobgoblin"
+new treasuretable "DEN_Weaponsmith_Trade"
 CanMerge 1
 new subtable "1,1" 
 object category "T_ContainersExtended_Full",1,0,0,0,0,0,0,0
@@ -34,7 +29,12 @@ CanMerge 1
 new subtable "1,1" 
 object category "T_ContainersExtended_Full",1,0,0,0,0,0,0,0
 
-new treasuretable "DEN_Weaponsmith_Trade"
+new treasuretable "UND_SocietyOfBrilliance_Hobgoblin"
+CanMerge 1
+new subtable "1,1" 
+object category "T_ContainersExtended_Full",1,0,0,0,0,0,0,0
+
+new treasuretable "WYR_Danthelon_Trader"
 CanMerge 1
 new subtable "1,1" 
 object category "T_ContainersExtended_Full",1,0,0,0,0,0,0,0
