@@ -7,7 +7,7 @@
                 <!-- Container for potions -->
 				<node id="GameObjects">
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('POTION')" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('POTION') or Tagged('ALCH_SOLUTION_POTION') or Tagged('ALCH_SOLUTION_ELIXIR')" />
 					<attribute id="MapKey" type="FixedString" value="9624d2e7-ab93-49df-9f34-90dcead9e5d7" />
 					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_PotionCase" />
 					<attribute id="LevelName" type="FixedString" value="" />
