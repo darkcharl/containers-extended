@@ -1,4 +1,8 @@
 new treasuretable "ContainersExtended_Full"
+new subtable "1,1"
+object category "T_ContainersExtended_PlayerContainers",1,0,0,0,0,0,0,0
+
+new treasuretable "ContainersExtended_PlayerContainers"
 CanMerge 1
 new subtable "1,1"
 object category "I_OBJ_ContainersExtended_BookBag",1,0,0,0,0,0,0,0
@@ -14,6 +18,11 @@ new subtable "1,1"
 object category "I_OBJ_ContainersExtended_ScrollCase",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_ContainersExtended_Quiver",1,0,0,0,0,0,0,0
+
+new treasuretable "ContainersExtended_CampContainers"
+CanMerge 1
+new subtable "1,1"
+object category "I_OBJ_ContainersExtended_ExplosivesBarrel",1,0,0,0,0,0,0,0
 
 new treasuretable "DEN_Entrance_Trade"
 CanMerge 1
@@ -37,4 +46,9 @@ object category "T_ContainersExtended_Full",1,0,0,0,0,0,0,0
 new treasuretable "WYR_Danthelon_Trader"
 CanMerge 1
 new subtable "1,1" 
+object category "T_ContainersExtended_Full",1,0,0,0,0,0,0,0
+
+new treasuretable "DLC_DD_Adventurers_Pack"
+CanMerge 1
+new subtable "1,1"
 object category "T_ContainersExtended_Full",1,0,0,0,0,0,0,0

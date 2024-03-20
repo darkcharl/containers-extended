@@ -60,6 +60,13 @@ data "GameSize" "Tiny"
 data "Weight" "0.1"
 data "Vitality" "-1"
 
+new entry "OBJ_ContainersExtended_ExplosivesBarrel"
+type "Object"
+using "OBJ_Chest_Wood"
+data "RootTemplate" "224730ad-64e0-4de6-aaec-3668e77dace2"
+data "Weight" "0.5"
+data "Vitality" "-1"
+
 new entry "OBJ_ContainersExtended_GrenadeContainer"
 type "Object"
 using "OBJ_Chest_Wood"

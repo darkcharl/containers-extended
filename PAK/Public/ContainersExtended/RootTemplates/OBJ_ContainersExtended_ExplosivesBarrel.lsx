@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="602" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>        
+                <!-- Container for books -->
+				<node id="GameObjects">
+					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('EXPLOSIVES') and not Tagged('GRENADE')" />
+					<attribute id="MapKey" type="FixedString" value="224730ad-64e0-4de6-aaec-3668e77dace2" />
+					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_ExplosivesBarrel" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1849ce97-45ac-43ea-9518-9f80aaa0c005" />
+					<attribute id="DisplayName" type="TranslatedString" handle="379d8fb5-2f42-4a1c-8d92-fd08804e111d" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="105f6ceb-a267-4191-9359-1d9063375675" version="1" />
+					<attribute id="Stats" type="FixedString" value="OBJ_ContainersExtended_ExplosivesBarrel" />
+					<attribute id="Icon" type="FixedString" value="Item_CONT_Barrel_Smokepowder_A" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
