@@ -109,6 +109,13 @@ data "RootTemplate" "e6ae8c31-f079-4aea-8e87-3b35463518cc"
 data "Weight" "0.1"
 data "Vitality" "-1"
 
+new entry "OBJ_ContainersExtended_ShieldsCrate"
+type "Object"
+using "OBJ_Chest_Wood"
+data "RootTemplate" "c56debec-7e08-4efd-8a75-3841ec448033"
+data "Weight" "0.1"
+data "Vitality" "-1"
+
 new entry "OBJ_ContainersExtended_TeddyBear"
 type "Object"
 using "OBJ_Bag"
