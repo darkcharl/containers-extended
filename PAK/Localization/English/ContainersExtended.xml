@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
+	<content contentuid="1b6de193-d786-478b-8197-2901ae7eb956" version="1">Armor Crate</content>
+	<content contentuid="cb80460a-7586-42c9-87f7-3eaf8b1410ef" version="1">Built to accommodate items too large for a standard crate.</content>
 	<content contentuid="e4948cf4-5360-46b7-8cf4-1ae8362dd596" version="1">Book Bag</content>
 	<content contentuid="e3cc3864-3b6c-41d7-9be5-3feb145ed7b0" version="1">The musty yellow smell of old paper and crumbling scrolls wafts glumly from this bag.</content>
 	<content contentuid="ae3e464e-584c-4fde-bbdc-14e673b5896a" version="1">Coatings Case</content>
@@ -8,6 +10,8 @@
 	<content contentuid="9d5bfc6e-1ac6-47eb-8f19-0245cd1407f0" version="1">This small leather sack contains valuables.</content>
 	<content contentuid="950d53ae-436a-4ba7-89a7-66852e30f36b" version="1">Grenade Container</content>
 	<content contentuid="69f7abc1-aed5-4cdd-b93d-6b7728d1be45" version="1">This metal container is crammed with items that can be lobbed at others. Given the volatility of its contents, this box ought to be handled carefully.</content>
+	<content contentuid="bf1d65de-1c2a-44fd-bd61-447700896ee2" version="1">Instruments Case</content>
+	<content contentuid="3c650c9a-223f-4ca2-b6e3-a25de2de7c78" version="1">This exquisitely-crafted chest, ornamented with gems and lined with cushioned velvet, is fit for storing the finest instruments of Faerun securely.</content>
 	<content contentuid="379d8fb5-2f42-4a1c-8d92-fd08804e111d" version="1">Explosives Barrel</content>
 	<content contentuid="105f6ceb-a267-4191-9359-1d9063375675" version="1">A strong sulphurous smell emanates from this barrel, packed to the brim with smokepowder and other volatile elements.</content>
 	<content contentuid="c5703fa8-930d-4174-a344-bcef1ac38c60" version="1">Potion Case</content>

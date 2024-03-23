@@ -7,17 +7,17 @@
                 <!-- Container for toys -->
 				<node id="GameObjects">
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="IsWeaponOfProficiencyGroup('SimpleWeapons|MartialWeapons')" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="IsOfProficiencyGroup('LightArmor') or IsOfProficiencyGroup('MediumArmor') or IsOfProficiencyGroup('HeavyArmor')" />
 					<attribute id="InventoryType" type="uint8" value="11" />
-					<attribute id="MapKey" type="FixedString" value="dcff4f7d-aae1-4c2f-ad95-5fd9c4bb0b79" />
-					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_WeaponsCrate" />
+					<attribute id="MapKey" type="FixedString" value="13adf152-2273-4dd8-a5f6-a9c4e00d6f40" />
+					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_ArmorCrate" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="ParentTemplateId" type="FixedString" value="f403ec67-ba4b-4320-983a-60a8de9e3492" />
-					<attribute id="DisplayName" type="TranslatedString" handle="7ea07650-d104-403e-a75e-f0879ffbb26f" version="1" />
-					<attribute id="Description" type="TranslatedString" handle="6167d229-c12d-4d67-ac88-8edafcd3d2c6" version="1" />
-					<attribute id="Stats" type="FixedString" value="OBJ_ContainersExtended_WeaponsCrate" />
-					<attribute id="Icon" type="FixedString" value="GEN_Weapon" />
+					<attribute id="DisplayName" type="TranslatedString" handle="1b6de193-d786-478b-8197-2901ae7eb956" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="cb80460a-7586-42c9-87f7-3eaf8b1410ef" version="1" />
+					<attribute id="Stats" type="FixedString" value="OBJ_ContainersExtended_ArmorCrate" />
+					<attribute id="Icon" type="FixedString" value="Item_ARM_Breastplate" />
 					<children>
 						<node id="InventoryList">
 							<children>
