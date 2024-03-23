@@ -88,6 +88,13 @@ data "RootTemplate" "e6ae8c31-f079-4aea-8e87-3b35463518cc"
 data "Weight" "0.1"
 data "Vitality" "-1"
 
+new entry "OBJ_ContainersExtended_TeddyBear"
+type "Object"
+using "OBJ_Bag"
+data "RootTemplate" "2062cd5f-3725-46b0-8f12-75e7dad9078a"
+data "Weight" "0.1"
+data "Vitality" "-1"
+
 new entry "OBJ_ContainersExtended_Quiver"
 type "Object"
 using "OBJ_Bag"
