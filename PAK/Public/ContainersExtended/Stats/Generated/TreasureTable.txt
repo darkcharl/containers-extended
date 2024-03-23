@@ -1,4 +1,5 @@
 new treasuretable "ContainersExtended_Full"
+CanMerge 1
 new subtable "1,1"
 object category "T_ContainersExtended_PlayerContainers",1,0,0,0,0,0,0,0
 
@@ -44,6 +45,11 @@ new subtable "1,1"
 object category "T_ContainersExtended_Full",1,0,0,0,0,0,0,0
 
 new treasuretable "WYR_Danthelon_Trader"
+CanMerge 1
+new subtable "1,1" 
+object category "T_ContainersExtended_Full",1,0,0,0,0,0,0,0
+
+new treasuretable "HAV_HarperQuarterMaster_Magic_Trade"
 CanMerge 1
 new subtable "1,1" 
 object category "T_ContainersExtended_Full",1,0,0,0,0,0,0,0
