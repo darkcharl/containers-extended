@@ -67,6 +67,13 @@ data "GameSize" "Tiny"
 data "Weight" "0.1"
 data "Vitality" "-1"
 
+new entry "OBJ_ContainersExtended_Coffin"
+type "Object"
+using "OBJ_Chest_Wood"
+data "RootTemplate" "ef5f3356-c1ca-4a24-a28a-2fce0e699e57"
+data "Weight" "0.1"
+data "Vitality" "-1"
+
 new entry "OBJ_ContainersExtended_ExplosivesBarrel"
 type "Object"
 using "OBJ_Chest_Wood"

@@ -20,6 +20,8 @@ CanMerge 1
 new subtable "1,1"
 object category "I_OBJ_ContainersExtended_ArmorCrate",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_OBJ_ContainersExtended_Coffin",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_OBJ_ContainersExtended_ExplosivesBarrel",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_ContainersExtended_InstrumentsCase",1,0,0,0,0,0,0,0
