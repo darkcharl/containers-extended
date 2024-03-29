@@ -1,8 +1,3 @@
-new treasuretable "ContainersExtended_Full"
-CanMerge 1
-new subtable "1,1"
-object category "T_ContainersExtended_PlayerContainers",1,0,0,0,0,0,0,0
-
 new treasuretable "ContainersExtended_PlayerContainers"
 CanMerge 1
 new subtable "1,1"
@@ -32,6 +27,13 @@ new subtable "1,1"
 object category "I_OBJ_ContainersExtended_ShieldsCrate",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_ContainersExtended_WeaponsCrate",1,0,0,0,0,0,0,0
+
+new treasuretable "ContainersExtended_Full"
+CanMerge 1
+new subtable "1,1"
+object category "T_ContainersExtended_PlayerContainers",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_ContainersExtended_CampContainers",1,0,0,0,0,0,0,0
 
 new treasuretable "DEN_Entrance_Trade"
 CanMerge 1
