@@ -7,7 +7,7 @@
 	<content contentuid="ae3e464e-584c-4fde-bbdc-14e673b5896a" version="1">Coatings Case</content>
 	<content contentuid="469c4a74-c42c-4596-a4ae-eed61b55c70c" version="1">This leather pouch is filled with vials of toxins, powders, and extracts, as well as spoons for measuring correct dosages.</content>
 	<content contentuid="f8bf3695-a188-4b44-ae2d-1072980e5fde" version="1">Coin Sack</content>
-	<content contentuid="9d5bfc6e-1ac6-47eb-8f19-0245cd1407f0" version="1">This small leather sack contains valuables.</content>
+	<content contentuid="9d5bfc6e-1ac6-47eb-8f19-0245cd1407f0" version="1">This small leather sack keeps valuables such as coins and gems protected from the elements during travel.</content>
 	<content contentuid="f21f4308-e5ec-44b3-95b5-c930fcc9f696" version="1">Coffin</content>
 	<content contentuid="353ee050-b3d9-46ff-8cf7-ea3490faf599" version="1">This richly decorated wooden casket allows for the dignified storage of dead bodies, preserving them for a long time.</content>
 	<content contentuid="950d53ae-436a-4ba7-89a7-66852e30f36b" version="1">Grenade Container</content>
@@ -28,6 +28,8 @@
 	<content contentuid="ec93792c-769f-41c0-bf22-c81e8ec72068" version="1">A cushioned teddy bear with seemingly endless stuffing, wearable with hands that fold around your body. Huggable!</content>
 	<content contentuid="7ea07650-d104-403e-a75e-f0879ffbb26f" version="1">Weapons Crate</content>
 	<content contentuid="6167d229-c12d-4d67-ac88-8edafcd3d2c6" version="1">Built to accommodate items too large for a standard crate. Enhanced with a bit of magic for better weight reduction.</content>
+	<content contentuid="6cef480d-d55e-4fa9-bc3d-7147bbbab9dd" version="1">GEM</content>
+	<content contentuid="04466289-a024-42c7-9457-6b3c0628d0bd" version="1">GEM tooltip</content>
 	<content contentuid="733c6676-da56-40e1-97d2-9eafe73450af" version="1">WEAPON</content>
 	<content contentuid="ed82f4bb-0767-426c-aea8-b287f3bbc15f" version="1">WEAPON tooltip</content>
 </contentList>

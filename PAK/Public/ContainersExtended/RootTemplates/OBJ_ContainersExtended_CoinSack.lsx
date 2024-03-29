@@ -7,7 +7,7 @@
                 <!-- Container for books -->
 				<node id="GameObjects">
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('LOOT_GOLD')" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('LOOT_GOLD') or Tagged('GEM')" />
 					<attribute id="MapKey" type="FixedString" value="0e356085-617d-44a5-bedb-256d31647b86" />
 					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_CoinSack" />
 					<attribute id="LevelName" type="FixedString" value="" />
