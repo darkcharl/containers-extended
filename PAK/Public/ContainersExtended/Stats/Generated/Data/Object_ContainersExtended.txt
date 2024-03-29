@@ -95,6 +95,13 @@ data "RootTemplate" "64fbb743-26d2-434a-8a00-d4bac4835da7"
 data "Weight" "0.1"
 data "Vitality" "-1"
 
+new entry "OBJ_ContainersExtended_JewelryBox"
+type "Object"
+using "OBJ_Chest_Wood"
+data "RootTemplate" "a5c85fc6-c7bf-49a8-b74b-5832d7e39d42"
+data "Weight" "0.1"
+data "Vitality" "-1"
+
 new entry "OBJ_ContainersExtended_PotionCase"
 type "Object"
 using "OBJ_Bag"

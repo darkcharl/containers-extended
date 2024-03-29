@@ -10,12 +10,14 @@
 	<content contentuid="9d5bfc6e-1ac6-47eb-8f19-0245cd1407f0" version="1">This small leather sack keeps valuables such as coins and gems protected from the elements during travel.</content>
 	<content contentuid="f21f4308-e5ec-44b3-95b5-c930fcc9f696" version="1">Coffin</content>
 	<content contentuid="353ee050-b3d9-46ff-8cf7-ea3490faf599" version="1">This richly decorated wooden casket allows for the dignified storage of dead bodies, preserving them for a long time.</content>
+	<content contentuid="379d8fb5-2f42-4a1c-8d92-fd08804e111d" version="1">Explosives Barrel</content>
+	<content contentuid="105f6ceb-a267-4191-9359-1d9063375675" version="1">A strong sulphurous smell emanates from this barrel, packed to the brim with smokepowder and other volatile elements.</content>
 	<content contentuid="950d53ae-436a-4ba7-89a7-66852e30f36b" version="1">Grenade Container</content>
 	<content contentuid="69f7abc1-aed5-4cdd-b93d-6b7728d1be45" version="1">This metal container is crammed with items that can be lobbed at others. Given the volatility of its contents, this box ought to be handled carefully.</content>
 	<content contentuid="bf1d65de-1c2a-44fd-bd61-447700896ee2" version="1">Instruments Case</content>
 	<content contentuid="3c650c9a-223f-4ca2-b6e3-a25de2de7c78" version="1">This exquisitely-crafted chest, ornamented with gems and lined with cushioned velvet, is fit for storing the finest instruments of Faerun securely. Enhanced with a bit of magic for better weight reduction.</content>
-	<content contentuid="379d8fb5-2f42-4a1c-8d92-fd08804e111d" version="1">Explosives Barrel</content>
-	<content contentuid="105f6ceb-a267-4191-9359-1d9063375675" version="1">A strong sulphurous smell emanates from this barrel, packed to the brim with smokepowder and other volatile elements.</content>
+	<content contentuid="f3aaee67-6333-4735-a37e-00c5d0a02d9e" version="1">Jewelry Box</content>
+	<content contentuid="dbe1e4bc-c21b-4f96-8c44-b97611c80972" version="1">Made of precious stone and covered in gold, this chest is both sturdy and pleasing to the eye. There is enough space in it to hold several precious items such as necklaces and rings.</content>
 	<content contentuid="c5703fa8-930d-4174-a344-bcef1ac38c60" version="1">Potion Case</content>
 	<content contentuid="87f81d30-4146-4934-9e9e-66440534824c" version="1">Typically carried by traveling healers, this case allows the user to strap delicate potion bottles to its cushioned side with numerous leather thongs for safe storage during travel.</content>
 	<content contentuid="9c1660a3-50c5-4933-b9e4-adce318d15cc" version="1">Quiver</content>
@@ -30,6 +32,8 @@
 	<content contentuid="6167d229-c12d-4d67-ac88-8edafcd3d2c6" version="1">Built to accommodate items too large for a standard crate. Enhanced with a bit of magic for better weight reduction.</content>
 	<content contentuid="6cef480d-d55e-4fa9-bc3d-7147bbbab9dd" version="1">GEM</content>
 	<content contentuid="04466289-a024-42c7-9457-6b3c0628d0bd" version="1">GEM tooltip</content>
-	<content contentuid="733c6676-da56-40e1-97d2-9eafe73450af" version="1">WEAPON</content>
-	<content contentuid="ed82f4bb-0767-426c-aea8-b287f3bbc15f" version="1">WEAPON tooltip</content>
+	<content contentuid="795d3085-bb01-4962-a1df-ebf748cf5a26" version="1">JEWELRY</content>
+	<content contentuid="9bc1f829-754d-4f0e-85d0-90cef3cd4bdf" version="1">JEWELRY tooltip</content>
+	<content contentuid="8bf29c59-5939-4e76-a4ab-e9b2175291d9" version="1">MAGICAL</content>
+	<content contentuid="6dfd5be3-8c63-42c0-85ce-794ac01f76bd" version="1">MAGICAL tooltip</content>
 </contentList>

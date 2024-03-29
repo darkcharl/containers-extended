@@ -9,6 +9,8 @@ object category "I_OBJ_ContainersExtended_CoinSack",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_ContainersExtended_GrenadeContainer",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_OBJ_ContainersExtended_JewelryBox",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_OBJ_ContainersExtended_PotionCase",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_ContainersExtended_ScrollCase",1,0,0,0,0,0,0,0
