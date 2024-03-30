@@ -1,0 +1,4 @@
+new entry "EXTRAPLANAR_STORAGE"
+type "StatusData"
+data "StatusType" "BOOST"
+data "Boosts" "Weight(-500)"
