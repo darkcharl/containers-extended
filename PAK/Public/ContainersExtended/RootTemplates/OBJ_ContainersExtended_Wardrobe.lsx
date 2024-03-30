@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="602" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>        
+                <!-- Container for toys -->
+				<node id="GameObjects">
+					<attribute id="CanBeMoved" type="bool" value="True" />
+					<attribute id="CanBePickedUp" type="bool" value="True" />
+					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('CLOTHING') and not IsOfProficiencyGroup('LightArmor') and not IsOfProficiencyGroup('MediumArmor') and not IsOfProficiencyGroup('HeavyArmor')" />
+					<attribute id="InventoryType" type="uint8" value="25" />
+					<attribute id="FreezeGravity" type="bool" value="False" />
+					<attribute id="MapKey" type="FixedString" value="8c3d8b21-0fb9-44be-ad00-ef0531fa2f1d" />
+					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_Wardrobe" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="fce10ddc-e7d1-441e-b599-0e4041ba40a7" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="DisplayName" type="TranslatedString" handle="76c5404d-cc8a-4c59-a780-2d61509d2bfe" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="297718fb-42e9-4f13-b467-7d4d7ae23ba3" version="1" />
+					<attribute id="Stats" type="FixedString" value="OBJ_ContainersExtended_Wardrobe" />
+					<attribute id="Icon" type="FixedString" value="Interactitem_Cupboard" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="1" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

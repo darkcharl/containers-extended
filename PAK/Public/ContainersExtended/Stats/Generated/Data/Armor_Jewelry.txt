@@ -1,4 +1,4 @@
-ew entry "ARM_Amulet"
+new entry "ARM_Amulet"
 type "Armor"
 using "_Amulet"
 data "RootTemplate" "51873c0d-f319-45e6-a6a2-79164cd8f3db"

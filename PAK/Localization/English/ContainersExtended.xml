@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
 	<content contentuid="1b6de193-d786-478b-8197-2901ae7eb956" version="1">Armor Crate</content>
-	<content contentuid="cb80460a-7586-42c9-87f7-3eaf8b1410ef" version="1">Built to accommodate items too large for a standard crate. Enhanced with a bit of magic for better weight reduction.</content>
+	<content contentuid="cb80460a-7586-42c9-87f7-3eaf8b1410ef" version="1">Built to accommodate items too large for a standard crate. Reinforced with a bit of magic to withstand frequent travels</content>
 	<content contentuid="e4948cf4-5360-46b7-8cf4-1ae8362dd596" version="1">Book Bag</content>
 	<content contentuid="e3cc3864-3b6c-41d7-9be5-3feb145ed7b0" version="1">The musty yellow smell of old paper and crumbling scrolls wafts glumly from this bag.</content>
 	<content contentuid="ae3e464e-584c-4fde-bbdc-14e673b5896a" version="1">Coatings Case</content>
@@ -25,11 +25,15 @@
 	<content contentuid="a14cbbd5-bb6a-445b-b0b1-2bd1f729a111" version="1">Scroll Case</content>
 	<content contentuid="182dfdf3-c467-490c-8cea-d3bd8dae7c37" version="1">This sturdy container allows dozens of scrolls to be placed in it, safe from exposure to fire, rain, or lighting; common hazards faced by any adventuring wizard.</content>
 	<content contentuid="a469abb5-2e3f-47b5-94f7-28518f66b666" version="1">Shields Crate</content>
-	<content contentuid="5810fb8b-2f71-499b-9016-aa5c7679ada4" version="1">Built to accommodate items too large for a standard crate. Enhanced with a bit of magic for better weight reduction.</content>
+	<content contentuid="5810fb8b-2f71-499b-9016-aa5c7679ada4" version="1">Built to accommodate items too large for a standard crate. Reinforced with a bit of magic to withstand frequent travels.</content>
 	<content contentuid="7712a567-2887-4d56-a752-4e7595b78485" version="1">Stuffed Teddy</content>
 	<content contentuid="ec93792c-769f-41c0-bf22-c81e8ec72068" version="1">A cushioned teddy bear with seemingly endless stuffing, wearable with hands that fold around your body. Huggable!</content>
+	<content contentuid="76c5404d-cc8a-4c59-a780-2d61509d2bfe" version="1">Wardrobe</content>
+	<content contentuid="297718fb-42e9-4f13-b467-7d4d7ae23ba3" version="1">Made of mahogany, this formidable wardrobe is spacious to hold all the cloaks, gloves, robes and undergarments that you have.</content>
 	<content contentuid="7ea07650-d104-403e-a75e-f0879ffbb26f" version="1">Weapons Crate</content>
-	<content contentuid="6167d229-c12d-4d67-ac88-8edafcd3d2c6" version="1">Built to accommodate items too large for a standard crate. Enhanced with a bit of magic for better weight reduction.</content>
+	<content contentuid="6167d229-c12d-4d67-ac88-8edafcd3d2c6" version="1">Built to accommodate items too large for a standard crate. Reinforced with a bit of magic to withstand frequent travels</content>
+	<content contentuid="4f14214f-2fa5-4f5f-96d4-99d54f27caf7" version="1">CLOTHING</content>
+	<content contentuid="fbe89b73-e913-49ee-b936-650a453ce3a9" version="1">CLOTHING tooltip</content>
 	<content contentuid="6cef480d-d55e-4fa9-bc3d-7147bbbab9dd" version="1">GEM</content>
 	<content contentuid="04466289-a024-42c7-9457-6b3c0628d0bd" version="1">GEM tooltip</content>
 	<content contentuid="795d3085-bb01-4962-a1df-ebf748cf5a26" version="1">JEWELRY</content>

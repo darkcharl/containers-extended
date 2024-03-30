@@ -30,6 +30,8 @@ object category "I_OBJ_ContainersExtended_InstrumentsCase",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_ContainersExtended_ShieldsCrate",1,0,0,0,0,0,0,0
 new subtable "1,1"
+object category "I_OBJ_ContainersExtended_Wardrobe",1,0,0,0,0,0,0,0
+new subtable "1,1"
 object category "I_OBJ_ContainersExtended_WeaponsCrate",1,0,0,0,0,0,0,0
 
 new treasuretable "ContainersExtended_Full"

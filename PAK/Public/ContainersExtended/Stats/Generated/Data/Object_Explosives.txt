@@ -1,0 +1,21 @@
+
+new entry "OBJ_Barrel_Filled_Alcohol"
+type "Object"
+using "OBJ_Barrel_Filled"
+data "RootTemplate" "79050068-7ce3-43f9-a9a3-1646f5eb39c3"
+data "DefaultBoosts" "Tag(EXPLOSIVES)"
+
+new entry "OBJ_Barrel_Filled_Oil"
+type "Object"
+using "OBJ_Barrel_Filled"
+data "RootTemplate" "72e3f454-5a68-4bb2-acef-7b8d595b5015"
+data "DefaultBoosts" "Tag(EXPLOSIVES)"
+
+new entry "OBJ_VolatileBladder"
+type "Object"
+using "_Container"
+data "RootTemplate" "24e01b77-0a74-410d-869f-919918f20278"
+data "Weight" "25"
+data "GameSize" "Small"
+data "Vitality" "1"
+data "DefaultBoosts" "Tag(EXPLOSIVES)"

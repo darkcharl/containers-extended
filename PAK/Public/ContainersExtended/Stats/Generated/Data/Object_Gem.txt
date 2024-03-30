@@ -1,0 +1,7 @@
+new entry "OBJ_GemGeneric"
+type "Object"
+using "_Loot"
+data "ValueLevel" "1"
+data "ValueUUID" "f2e027f7-e7bf-475e-9143-44c8bf5a5d40"
+data "Weight" "0.01"
+data "DefaultBoosts" "Tag(GEM)"

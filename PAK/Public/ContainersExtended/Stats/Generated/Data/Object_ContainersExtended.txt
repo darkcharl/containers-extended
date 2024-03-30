@@ -136,10 +136,16 @@ data "RootTemplate" "2062cd5f-3725-46b0-8f12-75e7dad9078a"
 data "Weight" "0.1"
 data "Vitality" "-1"
 
+new entry "OBJ_ContainersExtended_Wardrobe"
+type "Object"
+using "OBJ_Wardrobe"
+data "RootTemplate" "8c3d8b21-0fb9-44be-ad00-ef0531fa2f1d"
+data "Weight" "50"
+data "Vitality" "-1"
+
 new entry "OBJ_ContainersExtended_WeaponsCrate"
 type "Object"
 using "OBJ_Chest_Wood"
 data "RootTemplate" "dcff4f7d-aae1-4c2f-ad95-5fd9c4bb0b79"
 data "Weight" "5"
 data "Vitality" "-1"
-
