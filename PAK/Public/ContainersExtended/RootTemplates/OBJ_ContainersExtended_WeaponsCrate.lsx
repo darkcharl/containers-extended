@@ -7,7 +7,7 @@
                 <!-- Container for toys -->
 				<node id="GameObjects">
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="IsWeaponOfProficiencyGroup('SimpleWeapons|MartialWeapons')" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="IsWeaponOfProficiencyGroup('SimpleWeapons|MartialWeapons') and not Tagged('TOY')" />
 					<attribute id="InventoryType" type="uint8" value="11" />
 					<attribute id="MapKey" type="FixedString" value="dcff4f7d-aae1-4c2f-ad95-5fd9c4bb0b79" />
 					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_WeaponsCrate" />

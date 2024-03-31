@@ -7,7 +7,7 @@
                 <!-- Container for toys -->
 				<node id="GameObjects">
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="IsOfProficiencyGroup('Shields')" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="IsOfProficiencyGroup('Shields') and not Tagged('TOY')" />
 					<attribute id="InventoryType" type="uint8" value="11" />
 					<attribute id="MapKey" type="FixedString" value="c56debec-7e08-4efd-8a75-3841ec448033" />
 					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_ShieldsCrate" />
