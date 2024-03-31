@@ -28,9 +28,9 @@
  27 ls.thoth.shared.ActionType.Constrain
  28 ls.thoth.shared.ActionType.Recipe
  29 ls.thoth.shared.ActionType.StoryUseInInventoryOnly
- 30 ??
- 31 ??
+ 30 ?? Learn Recipe
+ 31 ?? Tadpole Jar
  32 ls.thoth.shared.ActionType.Throw
  33 ls.thoth.shared.ActionType.LearnSpell
- ?? ls.thoth.shared.ActionType.CloseUI
- ?? ls.thoth.shared.ActionType.StoryFallback
+ 34 ls.thoth.shared.ActionType.CloseUI
+ 35 ls.thoth.shared.ActionType.StoryFallback (Teleport Hole)
