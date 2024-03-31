@@ -7,7 +7,7 @@
                 <!-- Container for toys -->
 				<node id="GameObjects">
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('TOY')" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('TOY') and not IsStoryItem()" />
 					<attribute id="InventoryType" type="uint8" value="11" />
 					<attribute id="MapKey" type="FixedString" value="2062cd5f-3725-46b0-8f12-75e7dad9078a" />
 					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_TeddyBear" />

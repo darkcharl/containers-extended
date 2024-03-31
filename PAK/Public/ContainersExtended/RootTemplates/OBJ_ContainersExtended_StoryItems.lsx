@@ -6,18 +6,21 @@
 			<children>        
                 <!-- Container for toys -->
 				<node id="GameObjects">
+					<attribute id="StoryItem" type="bool" value="False" />
+					<attribute id="CanBeMoved" type="bool" value="True" />
+					<attribute id="CanBePickedUp" type="bool" value="True" />
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('JEWELRY') and not IsStoryItem()" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="IsStoryItem()" />
 					<attribute id="InventoryType" type="uint8" value="11" />
-					<attribute id="MapKey" type="FixedString" value="a5c85fc6-c7bf-49a8-b74b-5832d7e39d42" />
-					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_JewelryBox" />
+					<attribute id="MapKey" type="FixedString" value="4ad1445d-dafc-456e-84e9-4c71c1ca03a9" />
+					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_StoryItems" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="ParentTemplateId" type="FixedString" value="9f61d4c0-92f0-48f5-97bc-e4b8a5482a03" />
-					<attribute id="DisplayName" type="TranslatedString" handle="f3aaee67-6333-4735-a37e-00c5d0a02d9e" version="1" />
-					<attribute id="Description" type="TranslatedString" handle="dbe1e4bc-c21b-4f96-8c44-b97611c80972" version="1" />
-					<attribute id="Stats" type="FixedString" value="OBJ_ContainersExtended_JewelryBox" />
-					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_Chest_Jewel_A" />
+					<attribute id="ParentTemplateId" type="FixedString" value="c31abb6f-c81e-4184-81b6-10a8f8b71caa" />
+					<attribute id="DisplayName" type="TranslatedString" handle="456dea93-e621-4dfe-8595-bc6daaac6881" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="79465a2a-f44b-41a4-812d-51cd3314ce08" version="1" />
+					<attribute id="Stats" type="FixedString" value="OBJ_ContainersExtended_StoryItems" />
+					<attribute id="Icon" type="FixedString" value="Item_Quest_Mysterious_Puzzlebox" />
 					<children>
 						<node id="InventoryList">
 							<children>
