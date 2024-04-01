@@ -1,3 +1,12 @@
+new entry "CONS_DRINK_Oil"
+type "Object"
+using "_DRINK_NonAlcoholic"
+data "RootTemplate" "cbbfb594-d3ba-4519-8c15-5c35df5892e0"
+data "ValueOverride" "4"
+data "Weight" "0.07"
+data "SupplyValue" ""
+data "DefaultBoosts" "Tag(GRENADE)"
+
 new entry "CONS_DRINK_Water_Bottle"
 type "Object"
 using "_DRINK_NonAlcoholic"
