@@ -74,6 +74,13 @@ data "RootTemplate" "ef5f3356-c1ca-4a24-a28a-2fce0e699e57"
 data "Weight" "30"
 data "Vitality" "-1"
 
+new entry "OBJ_ContainersExtended_DyeRack"
+type "Object"
+using "_Container"
+data "RootTemplate" "6333d107-fc3d-43d3-a2bb-b29f76d434d8"
+data "Weight" "1"
+data "Vitality" "-1"
+
 new entry "OBJ_ContainersExtended_ExplosivesBarrel"
 type "Object"
 using "OBJ_Chest_Wood"
