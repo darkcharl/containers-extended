@@ -36,9 +36,13 @@ add equipment entry "OBJ_ContainersExtended_CoinSack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
 
@@ -77,9 +81,13 @@ add equipment entry "OBJ_ContainersExtended_CoinSack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
 
@@ -120,9 +128,13 @@ add equipment entry "OBJ_ContainersExtended_CoinSack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
 
@@ -159,9 +171,13 @@ add equipment entry "OBJ_ContainersExtended_CoinSack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
 
@@ -200,9 +216,13 @@ add equipment entry "OBJ_ContainersExtended_CoinSack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
 
@@ -247,9 +267,13 @@ add equipment entry "OBJ_ContainersExtended_CoinSack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
 
@@ -294,9 +318,13 @@ add equipment entry "OBJ_ContainersExtended_CoinSack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
 
@@ -341,9 +369,13 @@ add equipment entry "OBJ_ContainersExtended_CoinSack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
 
@@ -384,9 +416,13 @@ add equipment entry "OBJ_ContainersExtended_CoinSack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
 
@@ -431,9 +467,13 @@ add equipment entry "OBJ_ContainersExtended_CoinSack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
 
@@ -470,9 +510,13 @@ add equipment entry "OBJ_ContainersExtended_CoinSack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
 
@@ -509,9 +553,13 @@ add equipment entry "OBJ_ContainersExtended_CoinSack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
 
@@ -548,9 +596,13 @@ add equipment entry "OBJ_ContainersExtended_CoinSack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
 
@@ -587,9 +639,13 @@ add equipment entry "OBJ_ContainersExtended_CoinSack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
 
@@ -626,9 +682,13 @@ add equipment entry "OBJ_ContainersExtended_CoinSack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
 
@@ -669,9 +729,13 @@ add equipment entry "OBJ_ContainersExtended_CoinSack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
 add equipmentgroup
@@ -710,9 +774,13 @@ add equipment entry "OBJ_ContainersExtended_CoinSack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
 add equipmentgroup
@@ -757,9 +825,13 @@ add equipment entry "OBJ_ContainersExtended_CoinSack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
 add equipmentgroup
@@ -808,9 +880,13 @@ add equipment entry "OBJ_ContainersExtended_CoinSack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
 add equipmentgroup
@@ -851,9 +927,13 @@ add equipment entry "OBJ_ContainersExtended_CoinSack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
 add equipmentgroup
@@ -890,9 +970,13 @@ add equipment entry "OBJ_ContainersExtended_CoinSack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
 add equipmentgroup
@@ -937,9 +1021,13 @@ add equipment entry "OBJ_ContainersExtended_CoinSack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
 add equipmentgroup
@@ -969,9 +1057,13 @@ add equipment entry "OBJ_ContainersExtended_CoinSack"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_PotionCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
 add equipmentgroup
