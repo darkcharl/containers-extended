@@ -4,7 +4,7 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>        
-                <!-- Container for toys -->
+                <!-- Container for jewelry -->
 				<node id="GameObjects">
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
 					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('JEWELRY') and not IsStoryItem()" />
