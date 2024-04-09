@@ -15,6 +15,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="56427fbf-a074-45eb-9e98-81ef6e377a2c" />
 					<attribute id="DisplayName" type="TranslatedString" handle="e4948cf4-5360-46b7-8cf4-1ae8362dd596" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="e3cc3864-3b6c-41d7-9be5-3feb145ed7b0" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="b4401175-9b76-4347-806b-0f5828aac514" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_BOOK_GEN_Books_Row_Multiple_D" />
 				</node>
 			</children>

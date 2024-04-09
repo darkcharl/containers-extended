@@ -15,6 +15,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="43adcbd6-1473-42f9-86f8-9e8037a4ab68" />
 					<attribute id="DisplayName" type="TranslatedString" handle="c5703fa8-930d-4174-a344-bcef1ac38c60" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="87f81d30-4146-4934-9e9e-66440534824c" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="39643efb-1776-49c8-8d56-ea093c982d4f" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_LAB_GEN_Bottle_Rack_C" />
 				</node>
 			</children>

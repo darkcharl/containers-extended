@@ -18,6 +18,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="3b6f8349-57ff-4a58-88b0-a247a40f1f53" />
 					<attribute id="DisplayName" type="TranslatedString" handle="f21f4308-e5ec-44b3-95b5-c930fcc9f696" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="353ee050-b3d9-46ff-8cf7-ea3490faf599" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="b9f236f9-d013-486d-b610-d44d19dd2d92" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_DEC_CEM_Coffin_Wood_Rich_A" />
 					<children>
 						<node id="InventoryList">

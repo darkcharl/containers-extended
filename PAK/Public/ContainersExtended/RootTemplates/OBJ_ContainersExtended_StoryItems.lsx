@@ -19,6 +19,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="c31abb6f-c81e-4184-81b6-10a8f8b71caa" />
 					<attribute id="DisplayName" type="TranslatedString" handle="456dea93-e621-4dfe-8595-bc6daaac6881" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="79465a2a-f44b-41a4-812d-51cd3314ce08" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="d05b511e-8343-4659-b72a-f28c654e811d" version="1" />
 					<attribute id="Stats" type="FixedString" value="OBJ_ContainersExtended_StoryItems" />
 					<attribute id="Icon" type="FixedString" value="Item_Quest_Mysterious_Puzzlebox" />
 					<children>

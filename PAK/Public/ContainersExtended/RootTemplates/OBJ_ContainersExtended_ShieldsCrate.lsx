@@ -16,6 +16,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="f403ec67-ba4b-4320-983a-60a8de9e3492" />
 					<attribute id="DisplayName" type="TranslatedString" handle="a469abb5-2e3f-47b5-94f7-28518f66b666" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="5810fb8b-2f71-499b-9016-aa5c7679ada4" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="4cb5f2f8-d8b9-41c3-96d2-8643ea15fb1d" version="1" />
 					<attribute id="Stats" type="FixedString" value="OBJ_ContainersExtended_ShieldsCrate" />
 					<attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Shield_C_0" />
 					<children>

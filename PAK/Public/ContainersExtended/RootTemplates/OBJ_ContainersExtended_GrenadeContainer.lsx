@@ -15,6 +15,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="854da6d0-ecfd-450d-82b4-cdff387c4349" />
 					<attribute id="DisplayName" type="TranslatedString" handle="950d53ae-436a-4ba7-89a7-66852e30f36b" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="69f7abc1-aed5-4cdd-b93d-6b7728d1be45" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="a649b96d-5079-4489-a892-727f47fcfb24" version="1" />
 					<attribute id="Stats" type="FixedString" value="OBJ_ContainersExtended_GrenadeContainer" />
 					<attribute id="Icon" type="FixedString" value="Item_UNI_UND_Runepowder_Barrel" />
 					<children>

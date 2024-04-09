@@ -20,6 +20,7 @@
 					<attribute id="ReadinessFlags" type="uint32" value="128" />
 					<attribute id="DisplayName" type="TranslatedString" handle="76c5404d-cc8a-4c59-a780-2d61509d2bfe" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="297718fb-42e9-4f13-b467-7d4d7ae23ba3" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="0f168c89-2b2f-480d-9325-72d98cf78ec0" version="1" />
 					<attribute id="Stats" type="FixedString" value="OBJ_ContainersExtended_Wardrobe" />
 					<attribute id="Icon" type="FixedString" value="Interactitem_Cupboard" />
 					<children>

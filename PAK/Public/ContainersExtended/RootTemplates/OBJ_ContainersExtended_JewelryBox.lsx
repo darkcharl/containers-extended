@@ -16,6 +16,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="9f61d4c0-92f0-48f5-97bc-e4b8a5482a03" />
 					<attribute id="DisplayName" type="TranslatedString" handle="f3aaee67-6333-4735-a37e-00c5d0a02d9e" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="dbe1e4bc-c21b-4f96-8c44-b97611c80972" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="32c9bc74-a404-4a9b-b189-37f0af612a6a" version="1" />
 					<attribute id="Stats" type="FixedString" value="OBJ_ContainersExtended_JewelryBox" />
 					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_Chest_Jewel_A" />
 					<children>

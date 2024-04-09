@@ -16,6 +16,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="f403ec67-ba4b-4320-983a-60a8de9e3492" />
 					<attribute id="DisplayName" type="TranslatedString" handle="1b6de193-d786-478b-8197-2901ae7eb956" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="cb80460a-7586-42c9-87f7-3eaf8b1410ef" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="c9dc909e-cc92-455b-98a7-2b3061a53a4d" version="1" />
 					<attribute id="Stats" type="FixedString" value="OBJ_ContainersExtended_ArmorCrate" />
 					<attribute id="Icon" type="FixedString" value="Item_ARM_Breastplate" />
 					<children>

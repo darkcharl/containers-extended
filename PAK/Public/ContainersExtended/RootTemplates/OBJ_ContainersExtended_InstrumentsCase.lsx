@@ -16,6 +16,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="0e600db2-aa76-4c98-b4d5-a55c0853e7f1" />
 					<attribute id="DisplayName" type="TranslatedString" handle="bf1d65de-1c2a-44fd-bd61-447700896ee2" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="3c650c9a-223f-4ca2-b6e3-a25de2de7c78" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="5fff972f-a659-4dfe-856f-43d1393e1e58" version="1" />
 					<attribute id="Stats" type="FixedString" value="OBJ_ContainersExtended_InstrumentsCase" />
 					<attribute id="Icon" type="FixedString" value="Item_TOOL_GEN_Music_Guitar_Lute_B" />
 					<children>
