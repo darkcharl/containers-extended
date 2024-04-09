@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="16" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="Barrel" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="f834d692-28b8-4ff8-9112-23339ed79614" version="0" />
+			<attribute id="DisplayName" type="TranslatedString" handle="ef4ce6b4-6b38-4048-bf1c-1aa79c9442a6" version="0" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="BARREL" />
+			<attribute id="UUID" type="guid" value="e6c6fbc8-96c1-4369-9998-73dd04ddddb8" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
