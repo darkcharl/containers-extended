@@ -4,7 +4,7 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>
-                <!-- Container for ammunition -->
+                <!-- Container for weapon coating -->
 				<node id="GameObjects">
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
 					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('COATING') or Tagged('ALCH_SOLUTION_COATING') and not IsStoryItem()" />

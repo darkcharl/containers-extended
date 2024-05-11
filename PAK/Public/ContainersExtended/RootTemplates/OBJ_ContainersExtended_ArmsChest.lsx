@@ -4,20 +4,21 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>        
-                <!-- Container for scrolls -->
+                <!-- Container for armaments and shields -->
 				<node id="GameObjects">
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('SCROLL') and not IsStoryItem()" />
-					<attribute id="MapKey" type="FixedString" value="e6ae8c31-f079-4aea-8e87-3b35463518cc" />
-					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_ScrollCase" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="IsOfProficiencyGroup('SimpleWeapons') or IsOfProficiencyGroup('MartialWeapons') or IsOfProficiencyGroup('Shields') and not IsStoryItem()" />
 					<attribute id="InventoryType" type="uint8" value="11" />
+					<attribute id="MapKey" type="FixedString" value="2e850e24-0c13-49ff-bf51-29948baaf7f4" />
+					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_ArmsChest" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="ParentTemplateId" type="FixedString" value="c97f9697-6480-4204-94d1-628b1c49aa89" />
-					<attribute id="DisplayName" type="TranslatedString" handle="a14cbbd5-bb6a-445b-b0b1-2bd1f729a111" version="1" />
-					<attribute id="Description" type="TranslatedString" handle="182dfdf3-c467-490c-8cea-d3bd8dae7c37" version="1" />
-					<attribute id="TechnicalDescription" type="TranslatedString" handle="98a600ed-86ca-421a-beb1-e1c36713cc6f" version="1" />
-					<attribute id="Icon" type="FixedString" value="Item_BOOK_GEN_Scroll_Parchment_C_Single_B" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0e600db2-aa76-4c98-b4d5-a55c0853e7f1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="55e58efc-72a5-4319-a165-56118de380f8" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="5b2a3ee7-10bc-47d1-af5c-ec583232d691" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="5aaa41d8-0631-428e-bb95-ccf4d6135cd4" version="1" />
+					<attribute id="Stats" type="FixedString" value="OBJ_ContainersExtended_ArmsChest" />
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_Chest_Rich_B" />
 					<children>
 						<node id="InventoryList">
 							<children>

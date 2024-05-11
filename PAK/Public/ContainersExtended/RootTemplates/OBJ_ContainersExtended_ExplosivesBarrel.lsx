@@ -4,7 +4,7 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>        
-                <!-- Container for books -->
+                <!-- Container for different barrels, mostly explosive -->
 				<node id="GameObjects">
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
 					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('BARREL') and not IsStoryItem()" />
