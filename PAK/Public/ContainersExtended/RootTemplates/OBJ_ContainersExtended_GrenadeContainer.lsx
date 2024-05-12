@@ -4,7 +4,7 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>        
-                <!-- Container for books -->
+                <!-- Container for items to throw -->
 				<node id="GameObjects">
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
 					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('GRENADE') or Tagged('ALCH_SOLUTION_GRENADE') and not IsStoryItem()" />

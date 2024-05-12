@@ -28,11 +28,21 @@ add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BagOfHolding"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_BookBag"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoatingsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_DyeRack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ExplosivesBarrel"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
@@ -45,6 +55,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Wardrobe"
 
 new equipment "EQP_CC_Bard"
 add initialweaponset "Melee"
@@ -73,11 +85,21 @@ add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BagOfHolding"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_BookBag"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoatingsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_DyeRack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ExplosivesBarrel"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
@@ -90,6 +112,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Wardrobe"
 
 new equipment "EQP_CC_Cleric"
 add initialweaponset "Melee"
@@ -120,11 +144,21 @@ add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BagOfHolding"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_BookBag"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoatingsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_DyeRack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ExplosivesBarrel"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
@@ -137,6 +171,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Wardrobe"
 
 new equipment "EQP_CC_Druid"
 add initialweaponset "Melee"
@@ -163,11 +199,21 @@ add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BagOfHolding"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_BookBag"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoatingsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_DyeRack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ExplosivesBarrel"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
@@ -180,6 +226,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Wardrobe"
 
 new equipment "EQP_CC_Fighter"
 add initialweaponset "Melee"
@@ -208,11 +256,21 @@ add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BagOfHolding"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_BookBag"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoatingsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_DyeRack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ExplosivesBarrel"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
@@ -225,6 +283,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Wardrobe"
 
 new equipment "EQP_CC_Paladin"
 add initialweaponset "Melee"
@@ -259,11 +319,21 @@ add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BagOfHolding"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_BookBag"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoatingsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_DyeRack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ExplosivesBarrel"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
@@ -276,6 +346,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Wardrobe"
 
 new equipment "EQP_CC_Paladin_Ancients"
 add initialweaponset "Melee"
@@ -310,11 +382,21 @@ add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BagOfHolding"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_BookBag"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoatingsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_DyeRack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ExplosivesBarrel"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
@@ -327,6 +409,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Wardrobe"
 
 new equipment "EQP_CC_Paladin_Devotion"
 add initialweaponset "Melee"
@@ -361,11 +445,21 @@ add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BagOfHolding"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_BookBag"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoatingsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_DyeRack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ExplosivesBarrel"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
@@ -378,6 +472,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Wardrobe"
 
 new equipment "EQP_CC_Ranger"
 add initialweaponset "Ranged"
@@ -408,11 +504,21 @@ add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BagOfHolding"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_BookBag"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoatingsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_DyeRack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ExplosivesBarrel"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
@@ -425,6 +531,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Wardrobe"
 
 new equipment "EQP_CC_Rogue"
 add initialweaponset "Ranged"
@@ -459,11 +567,21 @@ add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BagOfHolding"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_BookBag"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoatingsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_DyeRack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ExplosivesBarrel"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
@@ -476,6 +594,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Wardrobe"
 
 new equipment "EQP_CC_Sorcerer"
 add initialweaponset "Melee"
@@ -502,11 +622,21 @@ add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BagOfHolding"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_BookBag"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoatingsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_DyeRack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ExplosivesBarrel"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
@@ -519,6 +649,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Wardrobe"
 
 new equipment "EQP_CC_Sorcerer_DraconicAncestry"
 add initialweaponset "Melee"
@@ -545,11 +677,21 @@ add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BagOfHolding"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_BookBag"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoatingsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_DyeRack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ExplosivesBarrel"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
@@ -562,6 +704,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Wardrobe"
 
 new equipment "EQP_CC_Sorcerer_StormSorcery"
 add initialweaponset "Melee"
@@ -588,11 +732,21 @@ add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BagOfHolding"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_BookBag"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoatingsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_DyeRack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ExplosivesBarrel"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
@@ -605,6 +759,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Wardrobe"
 
 new equipment "EQP_CC_Warlock"
 add initialweaponset "Melee"
@@ -631,11 +787,21 @@ add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BagOfHolding"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_BookBag"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoatingsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_DyeRack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ExplosivesBarrel"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
@@ -648,6 +814,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Wardrobe"
 
 new equipment "EQP_CC_Wizard"
 add initialweaponset "Melee"
@@ -674,11 +842,21 @@ add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BagOfHolding"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_BookBag"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoatingsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_DyeRack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ExplosivesBarrel"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
@@ -691,6 +869,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Wardrobe"
 
 new equipment "EQ_Laezel"
 add initialweaponset "Melee"
@@ -721,11 +901,21 @@ add equipment entry "ARM_Camp_Shoes_Wyll"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BagOfHolding"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_BookBag"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoatingsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_DyeRack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ExplosivesBarrel"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
@@ -738,6 +928,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Wardrobe"
 add equipmentgroup
 add equipment entry "ARM_Underwear_Laezel"
 
@@ -766,11 +958,21 @@ add equipment entry "ARM_Camp_Shoes_Wyll"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BagOfHolding"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_BookBag"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoatingsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_DyeRack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ExplosivesBarrel"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
@@ -783,6 +985,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Wardrobe"
 add equipmentgroup
 add equipment entry "ARM_Underwear_Wyll"
 add equipmentgroup
@@ -817,11 +1021,21 @@ add equipment entry "ARM_Camp_Shoes_Shadowheart"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BagOfHolding"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_BookBag"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoatingsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_DyeRack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ExplosivesBarrel"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
@@ -834,6 +1048,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Wardrobe"
 add equipmentgroup
 add equipment entry "ARM_Underwear_Shadowheart"
 add equipmentgroup
@@ -872,11 +1088,21 @@ add equipment entry "ARM_Camp_Shoes_Astarion"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BagOfHolding"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_BookBag"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoatingsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_DyeRack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ExplosivesBarrel"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
@@ -889,6 +1115,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Wardrobe"
 add equipmentgroup
 add equipment entry "ARM_Underwear_Astarion"
 add equipmentgroup
@@ -919,11 +1147,21 @@ add equipment entry "ARM_Camp_Shoes_Gale"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BagOfHolding"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_BookBag"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoatingsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_DyeRack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ExplosivesBarrel"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
@@ -936,6 +1174,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Wardrobe"
 add equipmentgroup
 add equipment entry "ARM_Underwear_Gale"
 add equipmentgroup
@@ -962,11 +1202,21 @@ add equipment entry "ARM_Camp_Shoes_Karlach"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BagOfHolding"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_BookBag"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoatingsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_DyeRack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ExplosivesBarrel"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
@@ -979,6 +1229,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Wardrobe"
 add equipmentgroup
 add equipment entry "UNI_Karlach_Gloves"
 add equipmentgroup
@@ -1013,11 +1265,21 @@ add equipment entry "ARM_Camp_Shoes_Halsin"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BagOfHolding"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_BookBag"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoatingsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_DyeRack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ExplosivesBarrel"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
@@ -1030,6 +1292,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Wardrobe"
 add equipmentgroup
 add equipment entry "ARM_Underwear_Halsin"
 
@@ -1049,11 +1313,21 @@ add equipment entry "ARM_Camp_Shoes_Minthara"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
 add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BagOfHolding"
+add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_BookBag"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoatingsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_DyeRack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ExplosivesBarrel"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
 add equipmentgroup
@@ -1066,6 +1340,8 @@ add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_StoryItems"
 add equipmentgroup
 add equipment entry "OBJ_ContainersExtended_Quiver"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Wardrobe"
 add equipmentgroup
 add equipment entry "OBJ_Bag_AlchemyPouch"
 add equipmentgroup

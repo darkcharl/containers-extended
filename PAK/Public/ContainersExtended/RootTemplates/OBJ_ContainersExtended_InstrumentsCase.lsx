@@ -4,7 +4,7 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>        
-                <!-- Container for toys -->
+                <!-- Container for instruments, for the traveling bard! -->
 				<node id="GameObjects">
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
 					<attribute id="ContainerContentFilterCondition" type="LSString" value="IsOfProficiencyGroup('MusicalInstrument') and not IsStoryItem()" />
