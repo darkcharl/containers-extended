@@ -13,7 +13,9 @@
 					<attribute id="InventoryType" type="uint8" value="11" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="ParentTemplateId" type="FixedString" value="c97f9697-6480-4204-94d1-628b1c49aa89" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ea8cc72a-e078-4ce7-bd63-14bcf1851f46" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="c1eb5be6-2301-c811-63c6-8bf13969e1df" />
+					<attribute id="VisualTemplate" type="FixedString" value="fc7af13f-1529-c70e-8c21-46efa059b11c" />
 					<attribute id="DisplayName" type="TranslatedString" handle="a14cbbd5-bb6a-445b-b0b1-2bd1f729a111" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="182dfdf3-c467-490c-8cea-d3bd8dae7c37" version="1" />
 					<attribute id="TechnicalDescription" type="TranslatedString" handle="98a600ed-86ca-421a-beb1-e1c36713cc6f" version="1" />
