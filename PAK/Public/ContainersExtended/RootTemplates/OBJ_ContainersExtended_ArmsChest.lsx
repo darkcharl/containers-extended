@@ -8,7 +8,7 @@
 				<node id="GameObjects">
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
 					<attribute id="ContainerContentFilterCondition" type="LSString" value="IsWeapon() or IsOfProficiencyGroup('Shields') and not IsStoryItem()" />
-					<attribute id="InventoryType" type="uint8" value="11" />
+					<attribute id="InventoryType" type="uint8" value="4" />
 					<attribute id="MapKey" type="FixedString" value="2e850e24-0c13-49ff-bf51-29948baaf7f4" />
 					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_ArmsChest" />
 					<attribute id="LevelName" type="FixedString" value="" />
