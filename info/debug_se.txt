@@ -1,0 +1,415 @@
+shield = Ext.Stats.Get("ARM_Shield")
+_D(shield)
+_P(shield.DefaultBoosts)
+
+bow = Ext.Stats.Get("WPN_Goblin_Shortbow")
+_D(bow)
+_P(bow.DefaultBoosts)
+
+armor = Ext.Stats.Get("ARM_Leather_Body")
+_D(armor)
+_P(armor.DefaultBoosts)
+
+_P(Ext.Template.GetRootTemplate("2e850e24-0c13-49ff-bf51-29948baaf7f4").ContainerContentFilterCondition)
+_P(Ext.Template.GetRootTemplate("8c3d8b21-0fb9-44be-ad00-ef0531fa2f1d").ContainerContentFilterCondition)
+
+armor = Ext.Entity.Get("02ae5d88-8044-43df-8363-02a2900776db")
+
+
+
+
+
+
+
+// Example:
+
+S >> _D(Ext.Template.GetRootTemplate("00544958-4656-4e69-8feb-282cb11a6c9e"))
+{
+        "AIBounds" :
+        [
+                {
+                        "AiType" : 1,
+                        "Height" : 0.16519448161125183,
+                        "Max" :
+                        [
+                                0.16557420790195465,
+                                0.16387014091014862,
+                                0.28654941916465759
+                        ],
+                        "Min" :
+                        [
+                                -0.16557417809963226,
+                                -0.0013243407011032104,
+                                -0.1709848940372467
+                        ],
+                        "Radius" : 0.14270143210887909,
+                        "Radius2" : 0.0,
+                        "Type" : 0,
+                        "field_28" : 0,
+                        "field_2A" : 0
+                },
+                {
+                        "AiType" : 1,
+                        "Height" : 0.16519448161125183,
+                        "Max" :
+                        [
+                                0.3311484158039093,
+                                0.16387014091014862,
+                                0.57309883832931519
+                        ],
+                        "Min" :
+                        [
+                                -0.33114835619926453,
+                                -0.0013243407011032104,
+                                -0.34196978807449341
+                        ],
+                        "Radius" : 0.28540286421775818,
+                        "Radius2" : 0.0,
+                        "Type" : 0,
+                        "field_28" : 1,
+                        "field_2A" : 0
+                },
+                {
+                        "AiType" : 1,
+                        "Height" : 0.16519448161125183,
+                        "Max" :
+                        [
+                                0.3311484158039093,
+                                0.16387014091014862,
+                                0.57309883832931519
+                        ],
+                        "Min" :
+                        [
+                                -0.33114835619926453,
+                                -0.0013243407011032104,
+                                -0.34196978807449341
+                        ],
+                        "Radius" : 0.28540286421775818,
+                        "Radius2" : 0.0,
+                        "Type" : 0,
+                        "field_28" : 2,
+                        "field_2A" : 0
+                }
+        ],
+        "ActivationGroupId" : "",
+        "AllowCameraMovement" : false,
+        "AllowReceiveDecalWhenAnimated" : false,
+        "AllowSummonGenericUse" : false,
+        "Amount" : 1,
+        "AnubisConfigName" : "",
+        "AttackableWhenClickThrough" : false,
+        "BlockAoEDamage" : false,
+        "BloodSurfaceType" : 0,
+        "BloodType" : "",
+        "BookType" : 0,
+        "CameraOffset" :
+        [
+                0.0,
+                0.0,
+                0.0
+        ],
+        "CanBeImprovisedWeapon" : false,
+        "CanBeMoved" : true,
+        "CanBePickedUp" : true,
+        "CanBePickpocketed" : true,
+        "CanClickThrough" : false,
+        "CanClimbOn" : false,
+        "CanShineThrough" : false,
+        "CanShootThrough" : true,
+        "CastShadow" : true,
+        "CinematicArenaFlags" : 0,
+        "CollideWithCamera" : false,
+        "ColorPreset" : "00000000-0000-0000-0000-000000000000",
+        "CombatComponent" :
+        {
+                "AiHint" : "00000000-0000-0000-0000-000000000000",
+                "AiUseCombatHelper" : "",
+                "Archetype" : "base",
+                "CanFight" : false,
+                "CanJoinCombat" : true,
+                "CombatGroupID" : "",
+                "Faction" : "376e33c4-dd15-4c46-a586-87d8b421a0c7",
+                "IsBoss" : false,
+                "IsInspector" : true,
+                "ProxyAttachment" : "",
+                "ProxyOwner" : "00000000-0000-0000-0000-000000000000",
+                "StartCombatRange" : -1.0,
+                "StayInAiHints" : false,
+                "SwarmGroup" : "",
+                "Unknown" : 0,
+                "Unknown2" : 0
+        },
+        "ConstellationConfigName" : "",
+        "ContainerAutoAddOnPickup" : false,
+        "ContainerContentFilterCondition" : "",
+        "CoverAmount" : false,
+        "CriticalHitType" : "",
+        "DefaultState" : "",
+        "Description" :
+        {
+                "ArgumentString" :
+                {
+                        "Handle" : "ls::TranslatedStringRepository::s_HandleUnknown",
+                        "Version" : 0
+                },
+                "Handle" :
+                {
+                        "Handle" : "ls::TranslatedStringRepository::s_HandleUnknown",
+                        "Version" : 0
+                }
+        },
+        "DestroyWithStack" : false,
+        "Destroyed" : false,
+        "DisarmDifficultyClassID" : "00000000-0000-0000-0000-000000000000",
+        "DisplayName" :
+        {
+                "ArgumentString" :
+                {
+                        "Handle" : "ls::TranslatedStringRepository::s_HandleUnknown",
+                        "Version" : 0
+                },
+                "Handle" :
+                {
+                        "Handle" : "h2020ac34gc4bbg4bedg8406g1a12c83637d2",
+                        "Version" : 2
+                }
+        },
+        "DisplayNameAlchemy" :
+        {
+                "ArgumentString" :
+                {
+                        "Handle" : "ls::TranslatedStringRepository::s_HandleUnknown",
+                        "Version" : 0
+                },
+                "Handle" :
+                {
+                        "Handle" : "ls::TranslatedStringRepository::s_HandleUnknown",
+                        "Version" : 0
+                }
+        },
+        "DropSound" : "f55dc72a-13b8-6e3d-7500-559a5d1f3031",
+        "EquipSound" : "da469251-95cf-5387-6295-5b1d5ce5a41f",
+        "Equipment" : null,
+        "EquipmentTypeID" : "edda8fbb-6456-4514-b3cc-36a2bc674c31",
+        "ExamineRotation" :
+        [
+                -35.0,
+                0.0,
+                0.0
+        ],
+        "ExcludeInDifficulty" : [],
+        "FadeChildren" : [],
+        "FadeGroup" : "",
+        "Fadeable" : true,
+        "FileName" : "E:/GOG/Baldurs Gate 3/Data/Public/Shared/RootTemplates/_merged.lsf",
+        "ForceAffectedByAura" : false,
+        "FreezeGravity" : 0,
+        "GlobalDeletedFlag" : 4,
+        "GravityType" : 0,
+        "GroupID" : 0,
+        "HLOD" : "00000000-0000-0000-0000-000000000000",
+        "HierarchyOnlyFade" : true,
+        "Hostile" : false,
+        "Icon" : "WPN_HUM_HeavyCrossbow_A_0",
+        "Id" : "00544958-4656-4e69-8feb-282cb11a6c9e",
+        "IgnoreGenerics" : false,
+        "ImpactSound" : "f55dc72a-13b8-6e3d-7500-559a5d1f3031",
+        "InteractionFilterList" : [],
+        "InteractionFilterRequirement" : 0,
+        "InteractionFilterType" : 0,
+        "InventoryList" :
+        [
+                "Empty"
+        ],
+        "InventoryMoveSound" : "f55dc72a-13b8-6e3d-7500-559a5d1f3031",
+        "InventoryType" : 0,
+        "IsBlocker" : false,
+        "IsBlueprintDisabledByDefault" : true,
+        "IsDecorative" : false,
+        "IsDroppedOnDeath" : true,
+        "IsInteractionDisabled" : false,
+        "IsKey" : false,
+        "IsPlatformOwner" : false,
+        "IsPointerBlocker" : false,
+        "IsPortal" : false,
+        "IsPortalProhibitedToPlayers" : false,
+        "IsPublicDomain" : false,
+        "IsReflecting" : false,
+        "IsShadowProxy" : false,
+        "IsSourceContainer" : false,
+        "IsSurfaceBlocker" : false,
+        "IsSurfaceCloudBlocker" : false,
+        "IsTrap" : false,
+        "Key" : "",
+        "LevelName" : "",
+        "LevelOverride" : -1,
+        "LightChannel" : 0,
+        "LockDifficultyClassID" : "00000000-0000-0000-0000-000000000000",
+        "LoopSound" : "",
+        "MapMarkerStyle" : "",
+        "MaterialPreset" : "00000000-0000-0000-0000-000000000000",
+        "MaxStackAmount" : 1,
+        "Name" : "BASE_WEAPON_HeavyCrossbows",
+        "OnUseDescription" :
+        {
+                "ArgumentString" :
+                {
+                        "Handle" : "ls::TranslatedStringRepository::s_HandleUnknown",
+                        "Version" : 0
+                },
+                "Handle" :
+                {
+                        "Handle" : "ls::TranslatedStringRepository::s_HandleUnknown",
+                        "Version" : 0
+                }
+        },
+        "OnlyInDifficulty" : [],
+        "Owner" : "",
+        "ParentTemplateFlags" : 0,
+        "ParentTemplateId" : "f44c9c6f-bc71-42ad-9cad-2dae306e750e",
+        "PermanentWarnings" : "",
+        "PhysicsCollisionSound" : "0c130d61-2b03-3abb-2d1d-3ea22eb35034",
+        "PhysicsFollowAnimation" : false,
+        "PhysicsOpenTemplate" : "",
+        "PhysicsTemplate" : "c4ea7ee4-38c9-4ced-a086-3aff9345cb9a",
+        "PickupSound" : "28ea7a9f-b66a-3410-7985-d7cd5cb896f0",
+        "ReceiveDecal" : false,
+        "ReferencedInTimeline" : false,
+        "RenderChannel" : 4,
+        "SeeThrough" : false,
+        "ShadowPhysicsProxy" : "",
+        "ShootThroughType" : 6,
+        "ShortDescription" :
+        {
+                "ArgumentString" :
+                {
+                        "Handle" : "ls::TranslatedStringRepository::s_HandleUnknown",
+                        "Version" : 0
+                },
+                "Handle" :
+                {
+                        "Handle" : "ls::TranslatedStringRepository::s_HandleUnknown",
+                        "Version" : 0
+                }
+        },
+        "ShortDescriptionParams" : "",
+        "ShowAttachedSpellDescriptions" : false,
+        "SoundAttenuation" : -1,
+        "SoundInitEvent" : "",
+        "SpeakerGroups" : [],
+        "Stats" : "WPN_HeavyCrossbow",
+        "StatusList" : [],
+        "StoryItem" : false,
+        "TechnicalDescription" :
+        {
+                "ArgumentString" :
+                {
+                        "Handle" : "ls::TranslatedStringRepository::s_HandleUnknown",
+                        "Version" : 0
+                },
+                "Handle" :
+                {
+                        "Handle" : "ls::TranslatedStringRepository::s_HandleUnknown",
+                        "Version" : 0
+                }
+        },
+        "TechnicalDescriptionParams" : "",
+        "TemplateName" : "",
+        "TemplateType" : "item",
+        "TimelineCameraRigOverride" : "00000000-0000-0000-0000-000000000000",
+        "Tooltip" : 2,
+        "Transform" :
+        {
+                "Scale" :
+                [
+                        1.0,
+                        1.0,
+                        1.0
+                ],
+                "Translate" :
+                [
+                        0.0,
+                        0.0,
+                        0.0
+                ]
+        },
+        "TreasureLevel" : -1,
+        "TreasureOnDestroy" : false,
+        "UnequipSound" : "503428af-9061-40a7-b9c4-64c8ec78fff3",
+        "Unimportant" : false,
+        "UnknownDescription" :
+        {
+                "ArgumentString" :
+                {
+                        "Handle" : "ls::TranslatedStringRepository::s_HandleUnknown",
+                        "Version" : 0
+                },
+                "Handle" :
+                {
+                        "Handle" : "ls::TranslatedStringRepository::s_HandleUnknown",
+                        "Version" : 0
+                }
+        },
+        "UnknownDisplayName" :
+        {
+                "ArgumentString" :
+                {
+                        "Handle" : "ls::TranslatedStringRepository::s_HandleUnknown",
+                        "Version" : 0
+                },
+                "Handle" :
+                {
+                        "Handle" : "ls::TranslatedStringRepository::s_HandleUnknown",
+                        "Version" : 0
+                }
+        },
+        "UseOcclusion" : true,
+        "UseOnDistance" : false,
+        "UsePartyLevelForTreasureLevel" : false,
+        "UseRemotely" : false,
+        "UseSound" : "",
+        "VisualTemplate" : "508acbcc-316d-c5ce-c7ff-7833fd909fc6",
+        "Wadable" : false,
+        "WadableSurfaceType" : 13,
+        "WalkOn" : false,
+        "WalkThrough" : true,
+        "field_8" : 2394969863472
+}
+
+
+// snippet
+
+---@param object Guid
+---@return {Tags:table<string, string>, OsirisTags:table<string, string>, TemplateTags:table<string, string>}
+function GetTags(object)
+    local tags = {
+        Tags = {},
+        OsirisTags = {},
+        TemplateTags = {},
+    }
+    local esvObject = Ext.Entity.Get(object)
+    if object ~= nil then
+        for _, tag in pairs(esvObject.Tag.Tags) do
+            local tagData = Ext.StaticData.Get(tag, "Tag")
+            if tagData ~= nil then
+                tags.Tags[tagData.Name] = tag
+            end
+        end
+
+        for _, tag in pairs(esvObject.ServerOsirisTag.Tags) do
+            local tagData = Ext.StaticData.Get(tag, "Tag")
+            if tagData ~= nil then
+                tags.OsirisTags[tagData.Name] = tag
+            end
+        end
+
+        for _, tag in pairs(esvObject.ServerTemplateTag.Tags) do
+            local tagData = Ext.StaticData.Get(tag, "Tag")
+            if tagData ~= nil then
+                tags.TemplateTags[tagData.Name] = tag
+            end
+        end
+    end
+    _D(tags)
+    return tags
+end
