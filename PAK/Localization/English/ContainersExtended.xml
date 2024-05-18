@@ -60,17 +60,24 @@
 	<content contentuid="297718fb-42e9-4f13-b467-7d4d7ae23ba3" version="1">Made of mahogany, this formidable wardrobe is spacious to hold all the armors, cloaks, gloves, robes and undergarments that you have.</content>
 	<content contentuid="0f168c89-2b2f-480d-9325-72d98cf78ec0" version="1">Stores clothing and armor.</content>
 	
-	<content contentuid="aaafd505-ba04-482e-8ef0-6169d1141e47" version="1">DYE</content>
-	<content contentuid="779bff58-2508-4f1f-b73a-6dca642913ea" version="1">DYE tooltip</content>
-	
+	<content contentuid="ef4ce6b4-6b38-4048-bf1c-1aa79c9442a6" version="1">BARREL</content>
+	<content contentuid="f834d692-28b8-4ff8-9112-23339ed79614" version="1">BARREL tooltip</content>
+
 	<content contentuid="4f14214f-2fa5-4f5f-96d4-99d54f27caf7" version="1">CLOTHING</content>
 	<content contentuid="fbe89b73-e913-49ee-b936-650a453ce3a9" version="1">CLOTHING tooltip</content>
-	
+
+	<content contentuid="aaafd505-ba04-482e-8ef0-6169d1141e47" version="1">DYE</content>
+	<content contentuid="779bff58-2508-4f1f-b73a-6dca642913ea" version="1">DYE tooltip</content>
+
 	<content contentuid="6cef480d-d55e-4fa9-bc3d-7147bbbab9dd" version="1">GEM</content>
 	<content contentuid="04466289-a024-42c7-9457-6b3c0628d0bd" version="1">GEM tooltip</content>
 	
 	<content contentuid="795d3085-bb01-4962-a1df-ebf748cf5a26" version="1">JEWELRY</content>
 	<content contentuid="9bc1f829-754d-4f0e-85d0-90cef3cd4bdf" version="1">JEWELRY tooltip</content>
+
+	<content contentuid="26733ca2-4369-495e-bec8-52efbb7375dc" version="1">VALUABLES</content>
+	<content contentuid="722b9135-e09b-4ddb-a5aa-51abf9094a07" version="1">VALUABLES tooltip</content>
+
 
 	<!-- Deprecated Entries START -->
 

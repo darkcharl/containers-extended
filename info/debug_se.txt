@@ -14,7 +14,7 @@ _P(Ext.Template.GetRootTemplate("2e850e24-0c13-49ff-bf51-29948baaf7f4").Containe
 _P(Ext.Template.GetRootTemplate("8c3d8b21-0fb9-44be-ad00-ef0531fa2f1d").ContainerContentFilterCondition)
 
 armor = Ext.Entity.Get("02ae5d88-8044-43df-8363-02a2900776db")
-
+_D(armor:GetAllComponents())
 
 
 

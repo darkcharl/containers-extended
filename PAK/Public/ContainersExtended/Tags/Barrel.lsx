@@ -8,7 +8,7 @@
 			<attribute id="DisplayName" type="TranslatedString" handle="ef4ce6b4-6b38-4048-bf1c-1aa79c9442a6" version="0" />
 			<attribute id="Icon" type="FixedString" value="" />
 			<attribute id="Name" type="FixedString" value="BARREL" />
-			<attribute id="UUID" type="guid" value="e6c6fbc8-96c1-4369-9998-73dd04ddddb8" />
+			<attribute id="UUID" type="guid" value="70044544-72b7-4340-bf32-37bb9c2a8314" />
 			<children>
 				<node id="Categories">
 					<children>
