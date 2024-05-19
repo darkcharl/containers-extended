@@ -63,9 +63,6 @@
 	<content contentuid="ef4ce6b4-6b38-4048-bf1c-1aa79c9442a6" version="1">BARREL</content>
 	<content contentuid="f834d692-28b8-4ff8-9112-23339ed79614" version="1">BARREL tooltip</content>
 
-	<content contentuid="4f14214f-2fa5-4f5f-96d4-99d54f27caf7" version="1">CLOTHING</content>
-	<content contentuid="fbe89b73-e913-49ee-b936-650a453ce3a9" version="1">CLOTHING tooltip</content>
-
 	<content contentuid="aaafd505-ba04-482e-8ef0-6169d1141e47" version="1">DYE</content>
 	<content contentuid="779bff58-2508-4f1f-b73a-6dca642913ea" version="1">DYE tooltip</content>
 
@@ -78,6 +75,8 @@
 	<content contentuid="26733ca2-4369-495e-bec8-52efbb7375dc" version="1">VALUABLES</content>
 	<content contentuid="722b9135-e09b-4ddb-a5aa-51abf9094a07" version="1">VALUABLES tooltip</content>
 
+	<content contentuid="4f14214f-2fa5-4f5f-96d4-99d54f27caf7" version="1">WARDROBE</content>
+	<content contentuid="fbe89b73-e913-49ee-b936-650a453ce3a9" version="1">WARDROBE tooltip</content>
 
 	<!-- Deprecated Entries START -->
 
