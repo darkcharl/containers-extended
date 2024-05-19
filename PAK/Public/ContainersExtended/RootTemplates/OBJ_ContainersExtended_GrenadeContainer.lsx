@@ -26,18 +26,6 @@
 								</node>
 							</children>
 						</node>
-						<node id="Tags">
-							<children>
-								<!-- GRENADE -->
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="fe0d86c3-a562-430e-a633-d8bf9bb27284" />
-								</node>
-								<!-- ALCH_SOLUTION_GRENADE -->
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="f87b203d-75ad-4527-b717-137044bc2ea1" />
-								</node>
-							</children>
-						</node>
 					</children>
 				</node>
 			</children>
