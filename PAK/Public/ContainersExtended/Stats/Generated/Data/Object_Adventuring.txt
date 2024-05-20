@@ -1,0 +1,14 @@
+
+new entry "OBJ_ContainersExtended_BookBag_Jergal"
+type "Object"
+using "OBJ_Backpack"
+data "RootTemplate" "cf42021a-d89e-4ecb-b434-4b34fb62b2d4"
+data "Weight" "0.5"
+data "Vitality" "-1"
+
+new entry "OBJ_ContainersExtended_ScrollCase_Jergal"
+type "Object"
+using "OBJ_Bag"
+data "RootTemplate" "728c5544-83d6-4528-9901-c2a68d5f5950"
+data "Weight" "0.1"
+data "Vitality" "-1"

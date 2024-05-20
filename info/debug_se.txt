@@ -16,7 +16,7 @@ _P(Ext.Template.GetRootTemplate("8c3d8b21-0fb9-44be-ad00-ef0531fa2f1d").Containe
 armor = Ext.Entity.Get("02ae5d88-8044-43df-8363-02a2900776db")
 _D(armor:GetAllComponents())
 
-
+_P(Osi.GetPosition("OBJ_ContainersExtended_ScrollCase_6261bff2-25c1-4028-bc91-7b0ff0f313ed"))
 
 
 
