@@ -5,21 +5,28 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<attribute id="DisplayName" type="TranslatedString" handle="a14cbbd5-bb6a-445b-b0b1-2bd1f729a111" version="1" />
-					<attribute id="Description" type="TranslatedString" handle="182dfdf3-c467-490c-8cea-d3bd8dae7c37" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="55e58efc-72a5-4319-a165-56118de380f8" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="5b2a3ee7-10bc-47d1-af5c-ec583232d691" version="1" />
 					<attribute id="FadeGroup" type="FixedString" value="" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="GravityType" type="uint8" value="2" />
 					<attribute id="CanBePickedUp" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
-					<attribute id="MapKey" type="FixedString" value="728c5544-83d6-4528-9901-c2a68d5f5950" />
-					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_ScrollCase_Jergal" />
-					<attribute id="TemplateName" type="FixedString" value="e6ae8c31-f079-4aea-8e87-3b35463518cc" />
+					<attribute id="MapKey" type="FixedString" value="ce2e74c5-bdc0-4406-97bb-f42d1b004db5" />
+					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_ArmamentsChest_Blacksmith" />
+					<attribute id="TemplateName" type="FixedString" value="2e850e24-0c13-49ff-bf51-29948baaf7f4" />
 					<attribute id="Tooltip" type="uint8" value="2" />
 					<attribute id="TreasureOnDestroy" type="bool" value="True" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="ST_SimpleMeleeWeapons" />
+								</node>
+							</children>
+						</node>
 						<node id="LayerList">
 							<children>
 								<node id="Layers">
@@ -28,13 +35,10 @@
 											<attribute id="MapKey" type="FixedString" value="WLD_Main_A" />
 											<children>
 												<node id="Layer">
-													<attribute id="Object" type="guid" value="0d1b3e0e-930a-23a0-d92a-f3f0bade0b21" />
+													<attribute id="Object" type="guid" value="d092dace-9f6c-2013-c7da-de91e13f5974" />
 												</node>
 												<node id="Layer">
-													<attribute id="Object" type="guid" value="784e0a2b-908e-edcc-dd02-aae6345c6cdc" />
-												</node>
-												<node id="Layer">
-													<attribute id="Object" type="guid" value="0d1dc9cd-dfbd-d553-90c1-b07e05e89ee7" />
+													<attribute id="Object" type="guid" value="9e25b06a-7d29-4bfc-7013-4f50d09b2c8e" />
 												</node>
 											</children>
 										</node>
@@ -43,8 +47,8 @@
 							</children>
 						</node>
 						<node id="Transform">
-							<attribute id="Position" type="fvec3" value="-292.13345336914 19.897117614746 -237.85302734375" />
-							<attribute id="RotationQuat" type="fvec4" value="-0.04383415 -0.5523928 -0.04313926 0.8313113" />
+							<attribute id="Position" type="fvec3" value="-430.93441772461 15.713316917419 -370.67230224609" />
+							<attribute id="RotationQuat" type="fvec4" value="0 -0.9331453 0 0.3594994" />
 						</node>
 					</children>
 				</node>
