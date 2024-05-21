@@ -3,6 +3,11 @@ type "Object"
 using "OBJ_ContainersExtended_ArmsChest"
 data "RootTemplate" "ce2e74c5-bdc0-4406-97bb-f42d1b004db5"
 
+new entry "OBJ_ContainersExtended_BagOfHolding_Vault"
+type "Object"
+using "OBJ_ContainersExtended_BagOfHolding"
+data "RootTemplate" "40f70d03-85d0-4f37-86d3-4f50f42c4032"
+
 new entry "OBJ_ContainersExtended_BookBag_Jergal"
 type "Object"
 using "OBJ_ContainersExtended_BookBag"
