@@ -18,6 +18,11 @@ type "Object"
 using "OBJ_Backpack_CampSupplies"
 data "RootTemplate" "ed3b1bde-f416-4ff7-a97a-b6cff37e93fa"
 
+new entry "OBJ_ContainersExtended_CoatingsCase_Thayan"
+type "Object"
+using "OBJ_ContainersExtended_CoatingsCase"
+data "RootTemplate" "6d80eeb9-638f-4bb4-b526-ec29c5aa1a0b"
+
 new entry "OBJ_ContainersExtended_CoinSack_Tollhouse"
 type "Object"
 using "OBJ_ContainersExtended_CoinSack"
