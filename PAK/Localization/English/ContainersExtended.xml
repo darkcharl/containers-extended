@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
+	<content contentuid="c5f0e48f-68b7-40f1-b06b-63e1de37b32d" version="1">Adventuring Tools</content>
+	<content contentuid="50dcfac0-2c6b-4583-9bb5-b4b126ec475c" version="1">A simple bag, loosely tied. In it you will find various kits and handy tools used during adventuring.</content>
+	<content contentuid="553fcb98-ba21-4411-9de7-b70bf5b09de7" version="1">Stores select adventuring tools.</content>
+
 	<content contentuid="55e58efc-72a5-4319-a165-56118de380f8" version="1">Armaments Chest</content>
 	<content contentuid="5b2a3ee7-10bc-47d1-af5c-ec583232d691" version="1">Built to accommodate armaments such as weapons and shields. Enhanced with a bit of magic for weight reduction and resilience.</content>
 	<content contentuid="5aaa41d8-0631-428e-bb95-ccf4d6135cd4" version="1">Stores your weapons and shields.</content>

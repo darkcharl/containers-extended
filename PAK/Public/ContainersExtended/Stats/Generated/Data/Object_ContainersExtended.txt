@@ -37,6 +37,13 @@ data "GameSize" "Small"
 data "Weight" "0.1"
 data "Vitality" "-1"
 
+new entry "OBJ_ContainersExtended_AdventuringTools"
+type "Object"
+using "OBJ_Backpack"
+data "RootTemplate" "c37f6372-be2c-4a27-9d62-0cfe15e0dae0"
+data "Weight" "0.1"
+data "Vitality" "-1"
+
 new entry "OBJ_ContainersExtended_ArmsChest"
 type "Object"
 using "OBJ_Chest_Wood"
