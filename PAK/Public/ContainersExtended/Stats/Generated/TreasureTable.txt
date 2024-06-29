@@ -1,33 +1,37 @@
 new treasuretable "ContainersExtended_PlayerContainers"
 CanMerge 1
-new subtable "1,1"
-object category "I_OBJ_ContainersExtended_ArmsChest",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_ContainersExtended_BookBag",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_ContainersExtended_CoatingsCase",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_ContainersExtended_CoinSack",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_ContainersExtended_DyeRack",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_ContainersExtended_ExplosivesBarrel",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_ContainersExtended_InstrumentsCase",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_ContainersExtended_GrenadeContainer",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_ContainersExtended_JewelryBox",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_ContainersExtended_Quiver",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_ContainersExtended_PotionCase",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_ContainersExtended_ScrollCase",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_ContainersExtended_StoryItems",1,0,0,0,0,0,0,0
-new subtable "1,1"
-object category "I_OBJ_ContainersExtended_Wardrobe",1,0,0,0,0,0,0,0
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_AdventuringTools"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ArmsChest"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BagOfHolding"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_BookBag"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoatingsCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_CoinSack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_DyeRack"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ExplosivesBarrel"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_InstrumentsCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_GrenadeContainer"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_JewelryBox"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_PotionCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_ScrollCase"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_StoryItems"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Quiver"
+add equipmentgroup
+add equipment entry "OBJ_ContainersExtended_Wardrobe"
 
 new treasuretable "ContainersExtended_Full"
 CanMerge 1
