@@ -6,13 +6,6 @@ data "RootTemplate" "13adf152-2273-4dd8-a5f6-a9c4e00d6f40"
 data "Weight" "5"
 data "Vitality" "-1"
 
-new entry "OBJ_ContainersExtended_Coffin"
-type "Object"
-using "OBJ_Chest_Wood"
-data "RootTemplate" "ef5f3356-c1ca-4a24-a28a-2fce0e699e57"
-data "Weight" "30"
-data "Vitality" "-1"
-
 new entry "OBJ_ContainersExtended_ShieldsCrate"
 type "Object"
 using "OBJ_Chest_Wood"
