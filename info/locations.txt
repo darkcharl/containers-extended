@@ -1,4 +1,5 @@
 Thayan Cellar:
+- coffin
 - potion case
 - coatings case
 

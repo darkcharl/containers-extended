@@ -28,6 +28,11 @@ type "Object"
 using "OBJ_ContainersExtended_CoinSack"
 data "RootTemplate" "c2cfdacb-3eb8-4eba-8ea7-8727c37716a4"
 
+new entry "OBJ_ContainersExtended_Coffin_Thayan"
+type "Object"
+using "OBJ_ContainersExtended_CoinSack"
+data "RootTemplate" "5b66f00f-4b0e-485e-be1c-ee653cea5c00"
+
 new entry "OBJ_ContainersExtended_JewelryBox_Tollhouse"
 type "Object"
 using "OBJ_ContainersExtended_JewelryBox"

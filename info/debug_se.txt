@@ -1,3 +1,6 @@
+ print(GetPosition(GetHostCharacter()))
+-650.05401611328        2.5517578125    -328.58599853516
+
 shield = Ext.Stats.Get("ARM_Shield")
 _D(shield)
 _P(shield.DefaultBoosts)
@@ -18,7 +21,7 @@ _D(armor:GetAllComponents())
 
 _P(Osi.GetPosition("OBJ_ContainersExtended_ScrollCase_6261bff2-25c1-4028-bc91-7b0ff0f313ed"))
 
-
+_P(Osi.GetRotation("OBJ_ContainersExtended_Coffin_Thayan_5b66f00f-4b0e-485e-be1c-ee653cea5c00"))
 
 
 // Example:
