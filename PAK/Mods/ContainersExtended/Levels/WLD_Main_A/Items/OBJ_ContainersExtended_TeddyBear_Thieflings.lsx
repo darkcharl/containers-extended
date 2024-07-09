@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="602" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="7712a567-2887-4d56-a752-4e7595b78485" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="ec93792c-769f-41c0-bf22-c81e8ec72068" version="1" />
+					<attribute id="FadeGroup" type="FixedString" value="" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="GravityType" type="uint8" value="2" />
+					<attribute id="CanBePickedUp" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
+					<attribute id="MapKey" type="FixedString" value="4af5ae53-7a6c-4a2d-a196-1b9c5efa00d1" />
+					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_TeddyBear_Thieflings" />
+					<attribute id="TemplateName" type="FixedString" value="2062cd5f-3725-46b0-8f12-75e7dad9078a" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="TreasureOnDestroy" type="bool" value="True" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="WLD_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="46bf2460-7de1-6bba-0d14-12dddb3871e6" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="1209925e-ff0e-cd70-42ee-2388b3de397d" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="ff6fe67d-2bc5-40e6-8199-09d925a564dc" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="42.435401916504 15.978515625 67.629501342773" />
+							<attribute id="RotationQuat" type="fvec4" value="-0.04383415 -0.5523928 -0.04313926 0.8313113" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

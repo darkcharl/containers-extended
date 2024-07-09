@@ -30,7 +30,7 @@ data "RootTemplate" "c2cfdacb-3eb8-4eba-8ea7-8727c37716a4"
 
 new entry "OBJ_ContainersExtended_Coffin_Thayan"
 type "Object"
-using "OBJ_ContainersExtended_CoinSack"
+using "OBJ_ContainersExtended_Coffin"
 data "RootTemplate" "5b66f00f-4b0e-485e-be1c-ee653cea5c00"
 
 new entry "OBJ_ContainersExtended_JewelryBox_Tollhouse"
@@ -52,3 +52,8 @@ new entry "OBJ_ContainersExtended_StoryItems_Jergal"
 type "Object"
 using "OBJ_ContainersExtended_StoryItems"
 data "RootTemplate" "54a8ff0f-b26b-4248-b48f-ea7423714c4a"
+
+new entry "OBJ_ContainersExtended_TeddyBear_Thieflings"
+type "Object"
+using "OBJ_ContainersExtended_TeddyBear"
+data "RootTemplate" "4af5ae53-7a6c-4a2d-a196-1b9c5efa00d1"
