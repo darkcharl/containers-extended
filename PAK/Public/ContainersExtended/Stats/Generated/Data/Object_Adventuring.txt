@@ -29,6 +29,13 @@ data "RootTemplate" "22c74b5e-bef2-41b1-b9ed-f4acc766d4ee"
 data "UseCosts" "ActionPoint:1"
 data "DefaultBoosts" "Tag(ADVENTURING)"
 
+new entry "OBJ_Generic_Light"
+type "Object"
+using "_Destructible"
+data "Weight" "0.1"
+data "Vitality" "10"
+data "DefaultBoosts" "Tag(ADVENTURING)"
+
 new entry "OBJ_Soap"
 type "Object"
 using "OBJ_Generic_Light"
