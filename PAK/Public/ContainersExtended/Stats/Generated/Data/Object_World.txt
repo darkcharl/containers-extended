@@ -33,6 +33,11 @@ type "Object"
 using "OBJ_ContainersExtended_Coffin"
 data "RootTemplate" "5b66f00f-4b0e-485e-be1c-ee653cea5c00"
 
+new entry "OBJ_ContainersExtended_ExplosivesBarrel_GoblinCamp"
+type "Object"
+using "OBJ_Chest_Wood"
+data "RootTemplate" "62f17379-c160-4c26-9d1e-88fa5e8a931a"
+
 new entry "OBJ_ContainersExtended_JewelryBox_Tollhouse"
 type "Object"
 using "OBJ_ContainersExtended_JewelryBox"
