@@ -1,18 +1,3 @@
-
-new entry "OBJ_ContainersExtended_ArmorCrate"
-type "Object"
-using "OBJ_Chest_Wood"
-data "RootTemplate" "13adf152-2273-4dd8-a5f6-a9c4e00d6f40"
-data "Weight" "5"
-data "Vitality" "-1"
-
-new entry "OBJ_ContainersExtended_ShieldsCrate"
-type "Object"
-using "OBJ_Chest_Wood"
-data "RootTemplate" "c56debec-7e08-4efd-8a75-3841ec448033"
-data "Weight" "5"
-data "Vitality" "-1"
-
 new entry "OBJ_ContainersExtended_WeaponsCrate"
 type "Object"
 using "OBJ_Chest_Wood"

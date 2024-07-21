@@ -4,18 +4,30 @@
 	<content contentuid="50dcfac0-2c6b-4583-9bb5-b4b126ec475c" version="1">A simple bag, loosely tied. In it you will find various kits and handy tools used during adventuring.</content>
 	<content contentuid="553fcb98-ba21-4411-9de7-b70bf5b09de7" version="1">Stores select adventuring tools.</content>
 
-	<content contentuid="55e58efc-72a5-4319-a165-56118de380f8" version="1">Armaments Chest</content>
-	<content contentuid="5b2a3ee7-10bc-47d1-af5c-ec583232d691" version="1">Built to accommodate armaments such as weapons and shields. Enhanced with a bit of magic for weight reduction and resilience.</content>
-	<content contentuid="5aaa41d8-0631-428e-bb95-ccf4d6135cd4" version="1">Stores your weapons and shields.</content>
+	<content contentuid="a74dfc09-de3d-4511-bd04-b0215f3a2b16" version="1">Archery Weapons Chest</content>
+	<content contentuid="f46d978d-566d-49e4-a56b-7bcd17d01cb5" version="1">Rich carvings decorate the experior of this beech wood chest, built to accommodate archery armaments. Enhanced with a bit of magic, it weights less and is significantly more spacious than expected.</content>
+	<content contentuid="f3c9b867-1d26-4f4d-b764-ea047afebfee" version="1">Stores your archery weapons.</content>
+
+	<content contentuid="1b6de193-d786-478b-8197-2901ae7eb956" version="1">Armor Chest</content>
+	<content contentuid="cb80460a-7586-42c9-87f7-3eaf8b1410ef" version="1">A reinforced walnut wood chest built to accommodate various size armors. Humming with magic, its interior appears unrealisticly spacious.</content>
+    <content contentuid="c9dc909e-cc92-455b-98a7-2b3061a53a4d" version="1">Stores your armor.</content>
 
 	<content contentuid="1cc3bf80-f153-4dfc-9340-e198ef7cc3dc" version="1">Bag of Holding</content>
 	<content contentuid="667613cc-452f-4155-ab8e-f82fc5b415c5" version="1">This bag hums with magic and has an interior space considerably larger than its outside dimensions.</content>
 	<content contentuid="9cd2be63-67bc-4080-a033-7c4b4fdb8c3a" version="1">Stores miscellaneous items.</content>
 
+	<content contentuid="379d8fb5-2f42-4a1c-8d92-fd08804e111d" version="1">Barrels</content>
+	<content contentuid="105f6ceb-a267-4191-9359-1d9063375675" version="1">A strong sulphurous smell emanates from this container, packed to the brim with smokepowder and other volatile elements.</content>
+	<content contentuid="c96920c9-d3c8-483c-8daf-1ec358de73da" version="1">Stores barrels.</content>
+
 	<content contentuid="e4948cf4-5360-46b7-8cf4-1ae8362dd596" version="1">Book Bag</content>
 	<content contentuid="e3cc3864-3b6c-41d7-9be5-3feb145ed7b0" version="1">The musty yellow smell of old paper and crumbling scrolls wafts glumly from this bag.</content>
 	<content contentuid="b4401175-9b76-4347-806b-0f5828aac514" version="1">Stores your books.</content>
 	
+	<content contentuid="dafd11f7-f51e-49aa-b0bd-5308dece74ae" version="1">Cloak Box</content>
+	<content contentuid="a743e035-9c8f-42a1-ad6a-10e0634e5f03" version="1">Formerly part of a wardrobe, this yew box has several compartments for storing rolled up cloaks in a convenient way.</content>
+	<content contentuid="5eaa2956-08cf-42ab-8746-0c50ba82c5ea" version="1">Stores cloaks.</content>
+
 	<content contentuid="ae3e464e-584c-4fde-bbdc-14e673b5896a" version="1">Coatings Case</content>
 	<content contentuid="469c4a74-c42c-4596-a4ae-eed61b55c70c" version="1">This leather pouch is filled with vials of toxins, powders, and extracts, as well as spoons for measuring correct dosages.</content>
 	<content contentuid="55947bff-4109-47c9-9029-710f9175a7de" version="1">Stores your coatings.</content>
@@ -24,26 +36,42 @@
 	<content contentuid="9d5bfc6e-1ac6-47eb-8f19-0245cd1407f0" version="1">This small leather sack keeps valuables such as coins and gems protected from the elements during travel.</content>
 	<content contentuid="4d665dd2-04a5-407a-abf1-5915daf5d044" version="1">Stores your coins and gems.</content>
 	
+    <content contentuid="f21f4308-e5ec-44b3-95b5-c930fcc9f696" version="1">Coffin</content>
+	<content contentuid="353ee050-b3d9-46ff-8cf7-ea3490faf599" version="1">This richly decorated rosewood casket allows for the dignified storage of dead bodies, preserving them for a long time.</content>
+	<content contentuid="b9f236f9-d013-486d-b610-d44d19dd2d92" version="1">Stores dead bodies.</content>
+
 	<content contentuid="49367541-6602-4f7e-b362-a06421b437b3" version="1">Dye Rack</content>
 	<content contentuid="77f4ba8d-c732-4601-b146-d0d61fc8e242" version="1">A neat little organizer, equipped with velvet pillows and leather straps to protect and store dyes.</content>
 	<content contentuid="dac10480-1424-4898-902f-39e4e65b9cce" version="1">Stores your dyes.</content>
 	
-	<content contentuid="379d8fb5-2f42-4a1c-8d92-fd08804e111d" version="1">Barrels</content>
-	<content contentuid="105f6ceb-a267-4191-9359-1d9063375675" version="1">A strong sulphurous smell emanates from this container, packed to the brim with smokepowder and other volatile elements.</content>
-	<content contentuid="c96920c9-d3c8-483c-8daf-1ec358de73da" version="1">Stores barrels.</content>
-	
+	<content contentuid="9f5d3b4a-95e1-46ed-b0bf-3e88f09891e0" version="1">Footwear Box</content>
+	<content contentuid="17da26c5-a86a-4279-87f9-d36fb2095905" version="1">This small wooden chest has intricate carvings symbolizing different kinds of footwear. Opening it reveals several smaller sections that are perfect for storing various sized shoes and boots.</content>
+	<content contentuid="2d1beb9e-a19e-4acd-a5eb-64a54b5f89a7" version="1">Stores footwear.</content>
+
+	<content contentuid="b59de455-609d-41ea-a1df-f323d01c0d41" version="1">Glove Box</content>
+	<content contentuid="05c8fbed-ee58-44f1-9462-2143fc89a32f" version="1">A small box made out of teak. Inside there are several drawers perfect to host various sizes of gloves and bracers.</content>
+	<content contentuid="9b1d86ae-d80f-4d16-bbb8-31375222b519" version="1">Stores gloves and bracers.</content>
+
 	<content contentuid="950d53ae-436a-4ba7-89a7-66852e30f36b" version="1">Grenade Container</content>
 	<content contentuid="69f7abc1-aed5-4cdd-b93d-6b7728d1be45" version="1">This metal container is crammed with items that can be lobbed at others. Given the volatility of its contents, this box ought to be handled carefully.</content>
 	<content contentuid="a649b96d-5079-4489-a892-727f47fcfb24" version="1">Stores grenades.</content>
+
+	<content contentuid="9b879644-893f-4ae6-92a2-074933d187e4" version="1">Headwear Box</content>
+	<content contentuid="f084b812-a9ce-4191-85c1-f4abd3428576" version="1">This rounded wooden box contains several padded sticks to store various sized headwear, ranging from hats to helmets. Its modest external dimensions masquerade the vast space encountered on opening.</content>
+	<content contentuid="feec5def-7895-4fda-9539-f7bea3f96ffc" version="1">Stores headwear.</content>
 	
 	<content contentuid="bf1d65de-1c2a-44fd-bd61-447700896ee2" version="1">Instruments Case</content>
-	<content contentuid="3c650c9a-223f-4ca2-b6e3-a25de2de7c78" version="1">This exquisitely-crafted chest, ornamented with gems and lined with cushioned velvet, is fit for storing the finest instruments of Faerun securely. Enhanced with a bit of magic for better weight reduction.</content>
+	<content contentuid="3c650c9a-223f-4ca2-b6e3-a25de2de7c78" version="1">This exquisitely-crafted chest, ornamented with gems and lined with cushioned velvet, is fit for storing the finest instruments of Faerun securely. Enhanced with a bit of magic for weight reduction.</content>
 	<content contentuid="5fff972f-a659-4dfe-856f-43d1393e1e58" version="1">Stores playable instruments.</content>
 	
 	<content contentuid="f3aaee67-6333-4735-a37e-00c5d0a02d9e" version="1">Jewelry Box</content>
 	<content contentuid="dbe1e4bc-c21b-4f96-8c44-b97611c80972" version="1">Made of precious stone and covered in gold, this chest is both sturdy and pleasing to the eye. There is enough space in it to hold several precious items such as necklaces and rings.</content>
 	<content contentuid="32c9bc74-a404-4a9b-b189-37f0af612a6a" version="1">Stores wearable jewelry.</content>
 	
+	<content contentuid="55e58efc-72a5-4319-a165-56118de380f8" version="1">Melee Weapons Chest</content>
+	<content contentuid="5b2a3ee7-10bc-47d1-af5c-ec583232d691" version="1">This chest's fire-hardened wood and thick iron reinforcements offer exceptional protection for your melee armaments. Enchanted to protect its contents from rusting and expand storage space significantly.</content>
+	<content contentuid="5aaa41d8-0631-428e-bb95-ccf4d6135cd4" version="1">Stores your melee weapons.</content>
+
 	<content contentuid="c5703fa8-930d-4174-a344-bcef1ac38c60" version="1">Potion Case</content>
 	<content contentuid="87f81d30-4146-4934-9e9e-66440534824c" version="1">Typically carried by traveling healers, this case allows the user to strap delicate potion bottles to its cushioned side with numerous leather thongs for safe storage during travel.</content>
 	<content contentuid="39643efb-1776-49c8-8d56-ea093c982d4f" version="1">Stores potions.</content>
@@ -55,24 +83,48 @@
 	<content contentuid="a14cbbd5-bb6a-445b-b0b1-2bd1f729a111" version="1">Scroll Case</content>
 	<content contentuid="182dfdf3-c467-490c-8cea-d3bd8dae7c37" version="1">This sturdy container allows dozens of scrolls to be placed in it, safe from exposure to fire, rain, or lighting; common hazards faced by any adventuring wizard.</content>
 	<content contentuid="98a600ed-86ca-421a-beb1-e1c36713cc6f" version="1">Stores magic scrolls.</content>
-	
+   
+    <content contentuid="a469abb5-2e3f-47b5-94f7-28518f66b666" version="1">Shields Chest</content>
+	<content contentuid="5810fb8b-2f71-499b-9016-aa5c7679ada4" version="1">A large chest made of oak that has multiple horizontal compartments, padded to store shields. Magic on the chest expand storage space and keep its items free of rust or other harm.</content>
+	<content contentuid="4cb5f2f8-d8b9-41c3-96d2-8643ea15fb1d" version="1">Stores shields.</content>
+
+	<content contentuid="7712a567-2887-4d56-a752-4e7595b78485" version="1">Stuffed Teddy</content>
+	<content contentuid="ec93792c-769f-41c0-bf22-c81e8ec72068" version="1">A cushioned teddy bear with seemingly endless stuffing, wearable with hands that fold around your body. Huggable!</content>
+	<content contentuid="7690a3ca-588b-44fa-974a-ab10e257c49c" version="1">Stores toys.</content>
+
 	<content contentuid="456dea93-e621-4dfe-8595-bc6daaac6881" version="1">Story Items</content>
 	<content contentuid="79465a2a-f44b-41a4-812d-51cd3314ce08" version="1">An odd shaped container is said to be a remnant portal to the astral that has been repurposed as a container for relevant memorabilia and items.</content>
 	<content contentuid="d05b511e-8343-4659-b72a-f28c654e811d" version="1">Stores story items.</content>
 	
+	<content contentuid="e602827c-9e4f-4398-ac84-af23f944d88b" version="1">Thrown Weapons Chest</content>
+	<content contentuid="c69ef987-29d0-418e-b785-557656f84d67" version="1">A seemingly bottomless chest, constructed from large planks of acacia. Careful hands have created long compartments ideal for the storage of various thrown weapons, such as spears and javelins.</content>
+	<content contentuid="161e6c89-37ba-4787-800e-1fcf425f9f76" version="1">Stores your thrown weapons.</content>
+
 	<content contentuid="76c5404d-cc8a-4c59-a780-2d61509d2bfe" version="1">Wardrobe</content>
-	<content contentuid="297718fb-42e9-4f13-b467-7d4d7ae23ba3" version="1">Made of mahogany, this formidable wardrobe is spacious to hold all the armors, cloaks, gloves, robes and undergarments that you have.</content>
+	<content contentuid="297718fb-42e9-4f13-b467-7d4d7ae23ba3" version="1">Made of mahogany, this formidable wardrobe is spacious enough to hold several sets of shirts, robes and undergarments with ease.</content>
 	<content contentuid="0f168c89-2b2f-480d-9325-72d98cf78ec0" version="1">Stores clothing and armor.</content>
 	
 	<content contentuid="ef4ce6b4-6b38-4048-bf1c-1aa79c9442a6" version="1">BARREL</content>
 	<content contentuid="f834d692-28b8-4ff8-9112-23339ed79614" version="1">BARREL tooltip</content>
 
+	<content contentuid="30939248-5b4e-4d77-a120-4b160ac46177" version="1">CLOAK</content>
+	<content contentuid="7415a086-27f7-4a7e-a618-5f001cba1eca" version="1">CLOAK tooltip</content>
+
 	<content contentuid="aaafd505-ba04-482e-8ef0-6169d1141e47" version="1">DYE</content>
 	<content contentuid="779bff58-2508-4f1f-b73a-6dca642913ea" version="1">DYE tooltip</content>
 
+	<content contentuid="7ac9c2ea-962b-4ee2-934f-cc8880310bc1" version="1">FOOTWEAR</content>
+	<content contentuid="ea73a893-b833-4f6d-96e1-21892cfdf428" version="1">FOOTWEAR tooltip</content>
+	
 	<content contentuid="6cef480d-d55e-4fa9-bc3d-7147bbbab9dd" version="1">GEM</content>
 	<content contentuid="04466289-a024-42c7-9457-6b3c0628d0bd" version="1">GEM tooltip</content>
 	
+	<content contentuid="2f30d112-b430-4715-9dd3-29a66655848b" version="1">GLOVE</content>
+	<content contentuid="c89002bd-73ba-478d-ac0c-777ffad782fa" version="1">GLOVE tooltip</content>
+
+	<content contentuid="6edc0b06-182e-404e-bf5c-1ed60f7b88d3" version="1">HEADWEAR</content>
+	<content contentuid="9396730b-6a29-4853-b8e3-89c79083f7ac" version="1">HEADWEAR tooltip</content>
+
 	<content contentuid="795d3085-bb01-4962-a1df-ebf748cf5a26" version="1">JEWELRY</content>
 	<content contentuid="9bc1f829-754d-4f0e-85d0-90cef3cd4bdf" version="1">JEWELRY tooltip</content>
 
@@ -83,27 +135,10 @@
 	<content contentuid="fbe89b73-e913-49ee-b936-650a453ce3a9" version="1">WARDROBE tooltip</content>
 
 	<!-- Deprecated Entries START -->
-
-	<content contentuid="1b6de193-d786-478b-8197-2901ae7eb956" version="1">Armor Crate</content>
-	<content contentuid="cb80460a-7586-42c9-87f7-3eaf8b1410ef" version="1">Built to accommodate items too large for a standard crate. Reinforced with a bit of magic to withstand frequent travels.</content>
-    <content contentuid="c9dc909e-cc92-455b-98a7-2b3061a53a4d" version="1">Stores your armor.</content>
-    
-    <content contentuid="f21f4308-e5ec-44b3-95b5-c930fcc9f696" version="1">Coffin</content>
-	<content contentuid="353ee050-b3d9-46ff-8cf7-ea3490faf599" version="1">This richly decorated rosewood casket allows for the dignified storage of dead bodies, preserving them for a long time.</content>
-	<content contentuid="b9f236f9-d013-486d-b610-d44d19dd2d92" version="1">Stores dead bodies.</content>
 	
     <content contentuid="7ea07650-d104-403e-a75e-f0879ffbb26f" version="1">Weapons Crate</content>
 	<content contentuid="6167d229-c12d-4d67-ac88-8edafcd3d2c6" version="1">Built to accommodate items too large for a standard crate. Reinforced with a bit of magic to withstand frequent travels</content>
 	<content contentuid="26a4059b-35a9-4a32-ba82-db41d67d5bfb" version="1">Stores weapons.</content>
-    
-    <content contentuid="a469abb5-2e3f-47b5-94f7-28518f66b666" version="1">Shields Crate</content>
-	<content contentuid="5810fb8b-2f71-499b-9016-aa5c7679ada4" version="1">Built to accommodate items too large for a standard crate. Reinforced with a bit of magic to withstand frequent travels.</content>
-	<content contentuid="4cb5f2f8-d8b9-41c3-96d2-8643ea15fb1d" version="1">Stores shields.</content>
-	
-    <content contentuid="7712a567-2887-4d56-a752-4e7595b78485" version="1">Stuffed Teddy</content>
-	<content contentuid="ec93792c-769f-41c0-bf22-c81e8ec72068" version="1">A cushioned teddy bear with seemingly endless stuffing, wearable with hands that fold around your body. Huggable!</content>
-	<content contentuid="7690a3ca-588b-44fa-974a-ab10e257c49c" version="1">Stores toys.</content>
-	
 
     <content contentuid="8bf29c59-5939-4e76-a4ab-e9b2175291d9" version="1">MAGICAL</content>
 	<content contentuid="6dfd5be3-8c63-42c0-85ce-794ac01f76bd" version="1">MAGICAL tooltip</content>

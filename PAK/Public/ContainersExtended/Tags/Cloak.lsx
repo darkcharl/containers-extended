@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="16" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="Cloak" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="7415a086-27f7-4a7e-a618-5f001cba1eca" version="0" />
+			<attribute id="DisplayName" type="TranslatedString" handle="30939248-5b4e-4d77-a120-4b160ac46177" version="0" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="CLOAK" />
+			<attribute id="UUID" type="guid" value="6de7409e-eef8-402f-955c-5a8198b6480a" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -4,21 +4,23 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>        
-                <!-- Container for toys -->
+                <!-- Container for jewelry -->
 				<node id="GameObjects">
+					<attribute id="CanBeMoved" type="bool" value="True" />
+					<attribute id="CanBePickedUp" type="bool" value="True" />
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="IsOfProficiencyGroup('LightArmor') or IsOfProficiencyGroup('MediumArmor') or IsOfProficiencyGroup('HeavyArmor') and not IsStoryItem()" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('FOOTWEAR') and not IsStoryItem()" />
 					<attribute id="InventoryType" type="uint8" value="11" />
-					<attribute id="MapKey" type="FixedString" value="13adf152-2273-4dd8-a5f6-a9c4e00d6f40" />
-					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_ArmorCrate" />
+					<attribute id="MapKey" type="FixedString" value="5159664a-4998-4ade-ac73-93da44cb2d6f" />
+					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_FootwearBox" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="ParentTemplateId" type="FixedString" value="f403ec67-ba4b-4320-983a-60a8de9e3492" />
-					<attribute id="DisplayName" type="TranslatedString" handle="1b6de193-d786-478b-8197-2901ae7eb956" version="1" />
-					<attribute id="Description" type="TranslatedString" handle="cb80460a-7586-42c9-87f7-3eaf8b1410ef" version="1" />
-					<attribute id="TechnicalDescription" type="TranslatedString" handle="c9dc909e-cc92-455b-98a7-2b3061a53a4d" version="1" />
-					<attribute id="Stats" type="FixedString" value="OBJ_ContainersExtended_ArmorCrate" />
-					<attribute id="Icon" type="FixedString" value="Item_ARM_Breastplate" />
+					<attribute id="ParentTemplateId" type="FixedString" value="65ad4dbc-74b2-47b6-bad4-1a109cfc9639" />
+					<attribute id="DisplayName" type="TranslatedString" handle="9f5d3b4a-95e1-46ed-b0bf-3e88f09891e0" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="17da26c5-a86a-4279-87f9-d36fb2095905" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="2d1beb9e-a19e-4acd-a5eb-64a54b5f89a7" version="1" />
+					<attribute id="Stats" type="FixedString" value="OBJ_ContainersExtended_FootwearBox" />
+					<attribute id="Icon" type="FixedString" value="GEN_Armor" />
 					<children>
 						<node id="InventoryList">
 							<children>
