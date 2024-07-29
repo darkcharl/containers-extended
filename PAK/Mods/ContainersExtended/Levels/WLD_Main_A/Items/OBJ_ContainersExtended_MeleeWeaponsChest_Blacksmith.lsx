@@ -13,7 +13,7 @@
 					<attribute id="CanBePickedUp" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
 					<attribute id="MapKey" type="FixedString" value="ce2e74c5-bdc0-4406-97bb-f42d1b004db5" />
-					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_ArmamentsChest_Blacksmith" />
+					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_MeleeWeaponsChest_Blacksmith" />
 					<attribute id="TemplateName" type="FixedString" value="2e850e24-0c13-49ff-bf51-29948baaf7f4" />
 					<attribute id="Tooltip" type="uint8" value="2" />
 					<attribute id="TreasureOnDestroy" type="bool" value="True" />
