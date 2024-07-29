@@ -79,7 +79,7 @@ data "RootTemplate" "e3dedb5c-571a-4e98-8ff6-47de32e73dd7"
 data "Weight" "0.5"
 data "Vitality" "-1"
 
-new entry "OBJ_ContinersExtended_CoatingsCase"
+new entry "OBJ_ContainersExtended_CoatingsCase"
 type "Object"
 using "OBJ_Bag"
 data "RootTemplate" "bc5558b7-1ff8-482b-aa07-f067b78a944e"
