@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="602" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>        
+                <!-- Container for dyes -->
+				<node id="GameObjects">
+					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('DYE') and not IsStoryItem()" />
+					<attribute id="MapKey" type="FixedString" value="6333d107-fc3d-43d3-a2bb-b29f76d434d8" />
+					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_DyeRack" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="43adcbd6-1473-42f9-86f8-9e8037a4ab68" />
+					<attribute id="DisplayName" type="TranslatedString" handle="49367541-6602-4f7e-b362-a06421b437b3" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="77f4ba8d-c732-4601-b146-d0d61fc8e242" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="dac10480-1424-4898-902f-39e4e65b9cce" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_Laboratory_Flask_Glass_C" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

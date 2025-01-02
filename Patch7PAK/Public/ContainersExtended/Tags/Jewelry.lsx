@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="16" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="Jewelry" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="9bc1f829-754d-4f0e-85d0-90cef3cd4bdf" version="0" />
+			<attribute id="DisplayName" type="TranslatedString" handle="795d3085-bb01-4962-a1df-ebf748cf5a26" version="0" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="JEWELRY" />
+			<attribute id="UUID" type="guid" value="69d067e4-6c41-4812-92d8-aab0eb8ef2ac" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="602" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>        
+                <!-- Container for jewelry -->
+				<node id="GameObjects">
+					<attribute id="CanBeMoved" type="bool" value="True" />
+					<attribute id="CanBePickedUp" type="bool" value="True" />
+					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('HEADWEAR') and not IsStoryItem()" />
+					<attribute id="InventoryType" type="uint8" value="11" />
+					<attribute id="MapKey" type="FixedString" value="c05b14ba-ac1f-4282-8ccc-ccd05af9ecaa" />
+					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_HeadwearBox" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="65ad4dbc-74b2-47b6-bad4-1a109cfc9639" />
+					<attribute id="DisplayName" type="TranslatedString" handle="9b879644-893f-4ae6-92a2-074933d187e4" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="f084b812-a9ce-4191-85c1-f4abd3428576" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="feec5def-7895-4fda-9539-f7bea3f96ffc" version="1" />
+					<attribute id="Stats" type="FixedString" value="OBJ_ContainersExtended_HeadwearBox" />
+					<attribute id="Icon" type="FixedString" value="Item_ARM_Helmet_Metal_FlamingFist_C" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="1" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>a
+			</children>
+		</node>
+	</region>
+</save>

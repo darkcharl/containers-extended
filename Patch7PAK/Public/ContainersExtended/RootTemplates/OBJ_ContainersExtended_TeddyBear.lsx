@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="602" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>        
+                <!-- Container for toys -->
+				<node id="GameObjects">
+					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('TOY') and not IsStoryItem()" />
+					<attribute id="InventoryType" type="uint8" value="11" />
+					<attribute id="MapKey" type="FixedString" value="2062cd5f-3725-46b0-8f12-75e7dad9078a" />
+					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_TeddyBear" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="1ac45157-d063-4314-8832-c50062a885dd" />
+					<attribute id="DisplayName" type="TranslatedString" handle="7712a567-2887-4d56-a752-4e7595b78485" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="ec93792c-769f-41c0-bf22-c81e8ec72068" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="7690a3ca-588b-44fa-974a-ab10e257c49c" version="1" />
+					<attribute id="Stats" type="FixedString" value="OBJ_ContainersExtended_TeddyBear" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Toy_TeddyBear_A_Clean" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="1" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="602" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>        
+                <!-- Container for jewelry -->
+				<node id="GameObjects">
+					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('JEWELRY') and not IsStoryItem()" />
+					<attribute id="InventoryType" type="uint8" value="11" />
+					<attribute id="MapKey" type="FixedString" value="a5c85fc6-c7bf-49a8-b74b-5832d7e39d42" />
+					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_JewelryBox" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="9f61d4c0-92f0-48f5-97bc-e4b8a5482a03" />
+					<attribute id="DisplayName" type="TranslatedString" handle="f3aaee67-6333-4735-a37e-00c5d0a02d9e" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="dbe1e4bc-c21b-4f96-8c44-b97611c80972" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="32c9bc74-a404-4a9b-b189-37f0af612a6a" version="1" />
+					<attribute id="Stats" type="FixedString" value="OBJ_ContainersExtended_JewelryBox" />
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_Chest_Jewel_A" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Empty" />
+								</node>
+							</children>
+						</node>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="1" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

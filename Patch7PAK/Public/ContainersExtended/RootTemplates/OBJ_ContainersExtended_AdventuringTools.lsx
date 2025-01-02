@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="602" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>        
+                <!-- Container for adventuring items like Candle (dipping), Shovel (digging), Thieves Tools or Trap Disarm Kit -->
+				<node id="GameObjects">
+					<attribute id="CanBePickedUp" type="bool" value="True" />
+					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('ADVENTURING') and not IsStoryItem()" />
+					<attribute id="MapKey" type="FixedString" value="c37f6372-be2c-4a27-9d62-0cfe15e0dae0" />
+					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_AdventuringTools" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ed2bfb63-358b-427d-a783-3a9d4aedbee7" />
+					<attribute id="DisplayName" type="TranslatedString" handle="c5f0e48f-68b7-40f1-b06b-63e1de37b32d" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="50dcfac0-2c6b-4583-9bb5-b4b126ec475c" version="1" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="553fcb98-ba21-4411-9de7-b70bf5b09de7" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_Burlap_Sack_E" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

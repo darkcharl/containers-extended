@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="16" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="Wardrobe" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="fbe89b73-e913-49ee-b936-650a453ce3a9" version="0" />
+			<attribute id="DisplayName" type="TranslatedString" handle="4f14214f-2fa5-4f5f-96d4-99d54f27caf7" version="0" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="WARDROBE" />
+			<attribute id="UUID" type="guid" value="74c4425e-edf0-417b-95af-cf3fe2cb7446" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
