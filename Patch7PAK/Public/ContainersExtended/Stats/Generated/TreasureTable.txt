@@ -21,7 +21,7 @@ object category "I_OBJ_ContainersExtended_DyeRack",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_ContainersExtended_ExplosivesBarrel",1,0,0,0,0,0,0,0
 new subtable "1,1"
-object category "I_OBJ_ContainersExtended_FootwareBox",1,0,0,0,0,0,0,0
+object category "I_OBJ_ContainersExtended_FootwearBox",1,0,0,0,0,0,0,0
 new subtable "1,1"
 object category "I_OBJ_ContainersExtended_GloveBox",1,0,0,0,0,0,0,0
 new subtable "1,1"
