@@ -53,6 +53,11 @@ type "Object"
 using "OBJ_ContainersExtended_PotionCase"
 data "RootTemplate" "7ca1362b-4d37-457a-9ab4-cece4beb8900"
 
+new entry "OBJ_ContainersExtended_Quiver_Harpers"
+type "Object"
+using "OBJ_ContainersExtended_Quiver"
+data "RootTemplate" "a8cb5b99-dbcf-475d-b046-a568f6246fb0"
+
 new entry "OBJ_ContainersExtended_ScrollCase_Grove"
 type "Object"
 using "OBJ_ContainersExtended_ScrollCase"

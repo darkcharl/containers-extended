@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="602" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="9c1660a3-50c5-4933-b9e4-adce318d15cc" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="a5619cb2-ca72-42c4-bdcb-ff4910ab01d5" version="1" />
+					<attribute id="FadeGroup" type="FixedString" value="" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="GravityType" type="uint8" value="2" />
+					<attribute id="CanBePickedUp" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
+					<attribute id="MapKey" type="FixedString" value="a8cb5b99-dbcf-475d-b046-a568f6246fb0" />
+					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_Quiver_Harpers" />
+					<attribute id="TemplateName" type="FixedString" value="ec028adf-be8e-468d-81d6-e3a5ea85eae1" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="TreasureOnDestroy" type="bool" value="True" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+					<children>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="WLD_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="46bf2460-7de1-6bba-0d14-12dddb3871e6" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="55c2d272-9e1b-bf29-8204-40b6d6bfdffc" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="d470bbd6-9d20-22ae-ad99-0392f3bbe9b8" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="-8.75 23.6435546875 498.75" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0 0 1" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
