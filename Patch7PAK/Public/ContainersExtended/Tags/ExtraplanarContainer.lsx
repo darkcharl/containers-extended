@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="16" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="ExtraplanarContainer" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="EXTRAPLANARCONTAINER" />
+			<attribute id="UUID" type="guid" value="8bbc5e54-e381-4526-b082-4d85fc510d15" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
