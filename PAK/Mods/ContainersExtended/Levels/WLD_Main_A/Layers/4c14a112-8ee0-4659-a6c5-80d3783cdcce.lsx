@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="17"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" type="guid" value="4c14a112-8ee0-4659-a6c5-80d3783cdcce"/>
+            <attribute id="LayerColor" type="int32" value="0"/>
+            <attribute id="Name" type="LSString" value="Containers Extended"/>
+        </node>
+    </region>
+</save>

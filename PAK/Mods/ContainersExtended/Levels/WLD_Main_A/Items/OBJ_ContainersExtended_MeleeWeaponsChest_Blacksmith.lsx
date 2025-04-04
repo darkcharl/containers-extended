@@ -35,10 +35,7 @@
 											<attribute id="MapKey" type="FixedString" value="WLD_Main_A" />
 											<children>
 												<node id="Layer">
-													<attribute id="Object" type="guid" value="d092dace-9f6c-2013-c7da-de91e13f5974" />
-												</node>
-												<node id="Layer">
-													<attribute id="Object" type="guid" value="9e25b06a-7d29-4bfc-7013-4f50d09b2c8e" />
+													<attribute id="Object" type="guid" value="4c14a112-8ee0-4659-a6c5-80d3783cdcce" />
 												</node>
 											</children>
 										</node>
