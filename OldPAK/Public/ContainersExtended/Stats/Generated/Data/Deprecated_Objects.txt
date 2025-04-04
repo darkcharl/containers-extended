@@ -1,6 +1,0 @@
-new entry "OBJ_ContainersExtended_WeaponsCrate"
-type "Object"
-using "OBJ_Chest_Wood"
-data "RootTemplate" "dcff4f7d-aae1-4c2f-ad95-5fd9c4bb0b79"
-data "Weight" "5"
-data "Vitality" "-1"
