@@ -23,7 +23,7 @@
 						<node id="InventoryList">
 							<children>
 								<node id="InventoryItem">
-									<attribute id="Object" type="FixedString" value="ST_Tools" />
+									<attribute id="Object" type="FixedString" value="ST_MartialRangedWeapons" />
 								</node>
 							</children>
 						</node>
@@ -47,8 +47,8 @@
 							</children>
 						</node>
 						<node id="Transform">
-							<attribute id="Position" type="fvec3" value="165 35 507" />
-							<attribute id="RotationQuat" type="fvec4" value="0 0 0 0" />
+							<attribute id="Position" type="fvec3" value="166 18.22 560.7" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.8433915 0 0.5372996" />
 						</node>
 					</children>
 				</node>
