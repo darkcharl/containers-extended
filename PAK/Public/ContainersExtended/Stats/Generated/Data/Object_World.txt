@@ -1,3 +1,8 @@
+new entry "OBJ_ContainersExtended_AdventuringTools_Grove"
+type "Object"
+using "OBJ_ContainersExtended_AdventuringTools"
+data "RootTemplate" "c37f6372-be2c-4a27-9d62-0cfe15e0dae0"
+
 new entry "OBJ_ContainersExtended_BagOfHolding_Vault"
 type "Object"
 using "OBJ_ContainersExtended_BagOfHolding"
