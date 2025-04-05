@@ -5,16 +5,16 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<attribute id="DisplayName" type="TranslatedString" handle="c5703fa8-930d-4174-a344-bcef1ac38c60" version="1" />
-					<attribute id="Description" type="TranslatedString" handle="87f81d30-4146-4934-9e9e-66440534824c" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="c5f0e48f-68b7-40f1-b06b-63e1de37b32d" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="50dcfac0-2c6b-4583-9bb5-b4b126ec475c" version="1" />
 					<attribute id="FadeGroup" type="FixedString" value="" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="GravityType" type="uint8" value="2" />
 					<attribute id="CanBePickedUp" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
-					<attribute id="MapKey" type="FixedString" value="7ca1362b-4d37-457a-9ab4-cece4beb8900" />
-					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_PotionCase_Thayan" />
-					<attribute id="TemplateName" type="FixedString" value="9624d2e7-ab93-49df-9f34-90dcead9e5d7" />
+					<attribute id="MapKey" type="FixedString" value="4f6ee7d4-3607-4f23-8d9f-a650b4f4398b" />
+					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_AdventuringTools_Grove" />
+					<attribute id="TemplateName" type="FixedString" value="c37f6372-be2c-4a27-9d62-0cfe15e0dae0" />
 					<attribute id="Tooltip" type="uint8" value="2" />
 					<attribute id="TreasureOnDestroy" type="bool" value="True" />
 					<attribute id="Type" type="FixedString" value="item" />
@@ -23,7 +23,7 @@
 						<node id="InventoryList">
 							<children>
 								<node id="InventoryItem">
-									<attribute id="Object" type="FixedString" value="Supply_Potions" />
+									<attribute id="Object" type="FixedString" value="ST_Tools" />
 								</node>
 							</children>
 						</node>
@@ -38,7 +38,7 @@
 													<attribute id="Object" type="guid" value="4c14a112-8ee0-4659-a6c5-80d3783cdcce" />
 												</node>
 												<node id="Layer">
-													<attribute id="Object" type="guid" value="b63ae3e4-14cb-46d7-9c8e-dceea1c8912f" />
+													<attribute id="Object" type="guid" value="a89a1ebc-8682-4f5c-83cb-24388f538a21" />
 												</node>
 											</children>
 										</node>
@@ -47,8 +47,8 @@
 							</children>
 						</node>
 						<node id="Transform">
-							<attribute id="Position" type="fvec3" value="-678.45355224609 0.56707882881165 -348.63568115234" />
-							<attribute id="RotationQuat" type="fvec4" value="0 0.9802957 0 0.1975356" />
+							<attribute id="Position" type="fvec3" value="163 19.792 539.5" />
+							<attribute id="RotationQuat" type="fvec4" value="-0.04383415 -0.5523928 -0.04313926 0.8313113" />
 						</node>
 					</children>
 				</node>

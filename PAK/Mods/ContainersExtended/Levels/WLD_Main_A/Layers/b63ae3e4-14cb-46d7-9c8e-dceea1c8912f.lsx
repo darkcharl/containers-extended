@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="17"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" type="guid" value="b63ae3e4-14cb-46d7-9c8e-dceea1c8912f"/>
+            <attribute id="LayerColor" type="int32" value="0"/>
+            <attribute id="Name" type="LSString" value="Thayan Secret Lab"/>
+        </node>
+    </region>
+</save>

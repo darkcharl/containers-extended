@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="17"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" type="guid" value="a89a1ebc-8682-4f5c-83cb-24388f538a21"/>
+            <attribute id="LayerColor" type="int32" value="0"/>
+            <attribute id="Name" type="LSString" value="Druid Grove"/>
+        </node>
+    </region>
+</save>
