@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="602" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="b59de455-609d-41ea-a1df-f323d01c0d41" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="05c8fbed-ee58-44f1-9462-2143fc89a32f" version="1" />
+					<attribute id="FadeGroup" type="FixedString" value="" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="GravityType" type="uint8" value="2" />
+					<attribute id="CanBePickedUp" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
+					<attribute id="MapKey" type="FixedString" value="035cbe7d-914c-480b-ad34-ed86bf5143b8" />
+					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_GloveBox_Tavern" />
+					<attribute id="TemplateName" type="FixedString" value="59adcda4-0efa-4697-8aba-48063e6d7481" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="TreasureOnDestroy" type="bool" value="True" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="I_ARM_Gloves_Leather" />
+								</node>
+							</children>
+						</node>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="WLD_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="4c14a112-8ee0-4659-a6c5-80d3783cdcce" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="8e0077d6-12ca-4c73-a99f-3416ce9ce71d" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="-55.7 45.1 621.1" />
+							<attribute id="RotationQuat" type="fvec4" value="0 -0.7071068 0 0.7071068" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
