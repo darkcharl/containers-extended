@@ -5,8 +5,8 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<attribute id="DisplayName" type="TranslatedString" handle="e4948cf4-5360-46b7-8cf4-1ae8362dd596" version="1" />
-					<attribute id="Description" type="TranslatedString" handle="e3cc3864-3b6c-41d7-9be5-3feb145ed7b0" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="dafd11f7-f51e-49aa-b0bd-5308dece74ae" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="a743e035-9c8f-42a1-ad6a-10e0634e5f03" version="1" />
 					<attribute id="FadeGroup" type="FixedString" value="" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="GravityType" type="uint8" value="2" />
