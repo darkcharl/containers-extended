@@ -48,6 +48,11 @@ type "Object"
 using "OBJ_ContainersExtended_ExplosivesBarrel"
 data "RootTemplate" "62f17379-c160-4c26-9d1e-88fa5e8a931a"
 
+new entry "OBJ_ContainersExtended_FootwearBox_Tavern"
+type "Object"
+using "OBJ_ContainersExtended_FootwearBox"
+data "RootTemplate" "7dcd339e-b798-429b-a774-93d60b43ed30"
+
 new entry "OBJ_ContainersExtended_GrenadeContainer_GoblinCamp"
 type "Object"
 using "OBJ_ContainersExtended_GrenadeContainer"
