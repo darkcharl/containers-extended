@@ -43,6 +43,11 @@ type "Object"
 using "OBJ_ContainersExtended_Coffin"
 data "RootTemplate" "5b66f00f-4b0e-485e-be1c-ee653cea5c00"
 
+new entry "OBJ_ContainersExtended_DyeRack_Zhentarim"
+type "Object"
+using "OBJ_ContainersExtended_DyeRack"
+data "RootTemplate" "c0236570-9d44-4cd9-acaa-8c926c8fd3fc"
+
 new entry "OBJ_ContainersExtended_ExplosivesBarrel_GoblinCamp"
 type "Object"
 using "OBJ_ContainersExtended_ExplosivesBarrel"
