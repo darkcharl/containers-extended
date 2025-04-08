@@ -5,7 +5,7 @@
         <node id="root">
             <attribute id="ID" type="guid" value="08fb9139-d371-4de7-9590-7ba6a9077735"/>
             <attribute id="LayerColor" type="int32" value="0"/>
-            <attribute id="Name" type="LSString" value="Zhentarim Lair"/>
+            <attribute id="Name" type="LSString" value="Zhentarim Hideout"/>
         </node>
     </region>
 </save>
