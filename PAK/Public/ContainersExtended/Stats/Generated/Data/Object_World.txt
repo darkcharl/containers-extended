@@ -23,6 +23,11 @@ type "Object"
 using "OBJ_Backpack_CampSupplies"
 data "RootTemplate" "ed3b1bde-f416-4ff7-a97a-b6cff37e93fa"
 
+new entry "OBJ_ContainersExtended_CloakBox_Tavern"
+type "Object"
+using "OBJ_ContainersExtended_CloakBox"
+data "RootTemplate" "926aeb80-711e-477c-b4e5-91967a10535b"
+
 new entry "OBJ_ContainersExtended_CoatingsCase_Thayan"
 type "Object"
 using "OBJ_ContainersExtended_CoatingsCase"

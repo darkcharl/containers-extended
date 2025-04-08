@@ -30,6 +30,9 @@
 												<node id="Layer">
 													<attribute id="Object" type="guid" value="4c14a112-8ee0-4659-a6c5-80d3783cdcce" />
 												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="7dcd339e-b798-429b-a774-93d60b43ed30" />
+												</node>
 											</children>
 										</node>
 									</children>

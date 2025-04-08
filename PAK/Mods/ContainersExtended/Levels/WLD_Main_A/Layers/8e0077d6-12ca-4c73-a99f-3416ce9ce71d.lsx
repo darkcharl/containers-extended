@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="0" build="17"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="ID" type="guid" value="8e0077d6-12ca-4c73-a99f-3416ce9ce71d"/>
+            <attribute id="LayerColor" type="int32" value="0"/>
+            <attribute id="Name" type="LSString" value="Waukeens Rest Tavern"/>
+        </node>
+    </region>
+</save>

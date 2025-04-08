@@ -5,21 +5,28 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<attribute id="DisplayName" type="TranslatedString" handle="456dea93-e621-4dfe-8595-bc6daaac6881" version="1" />
-					<attribute id="Description" type="TranslatedString" handle="79465a2a-f44b-41a4-812d-51cd3314ce08" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="e4948cf4-5360-46b7-8cf4-1ae8362dd596" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="e3cc3864-3b6c-41d7-9be5-3feb145ed7b0" version="1" />
 					<attribute id="FadeGroup" type="FixedString" value="" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="GravityType" type="uint8" value="2" />
 					<attribute id="CanBePickedUp" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
-					<attribute id="MapKey" type="FixedString" value="54a8ff0f-b26b-4248-b48f-ea7423714c4a" />
-					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_StoryItems_Jergal" />
-					<attribute id="TemplateName" type="FixedString" value="4ad1445d-dafc-456e-84e9-4c71c1ca03a9" />
+					<attribute id="MapKey" type="FixedString" value="926aeb80-711e-477c-b4e5-91967a10535b" />
+					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_CloakBox_Tavern" />
+					<attribute id="TemplateName" type="FixedString" value="e3dedb5c-571a-4e98-8ff6-47de32e73dd7" />
 					<attribute id="Tooltip" type="uint8" value="2" />
 					<attribute id="TreasureOnDestroy" type="bool" value="True" />
 					<attribute id="Type" type="FixedString" value="item" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
 					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="I_ARM_Cloak" />
+								</node>
+							</children>
+						</node>
 						<node id="LayerList">
 							<children>
 								<node id="Layers">
@@ -31,7 +38,7 @@
 													<attribute id="Object" type="guid" value="4c14a112-8ee0-4659-a6c5-80d3783cdcce" />
 												</node>
 												<node id="Layer">
-													<attribute id="Object" type="guid" value="7dcd339e-b798-429b-a774-93d60b43ed30" />
+													<attribute id="Object" type="guid" value="8e0077d6-12ca-4c73-a99f-3416ce9ce71d" />
 												</node>
 											</children>
 										</node>
@@ -40,8 +47,8 @@
 							</children>
 						</node>
 						<node id="Transform">
-							<attribute id="Position" type="fvec3" value="-292.13345336914 19.897117614746 -237.85302734375" />
-							<attribute id="RotationQuat" type="fvec4" value="-0.04383415 -0.5523928 -0.04313926 0.8313113" />
+							<attribute id="Position" type="fvec3" value="-51.7 43 623.2" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0 0 0" />
 						</node>
 					</children>
 				</node>
