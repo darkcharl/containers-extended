@@ -112,7 +112,7 @@ new entry "OBJ_ContainersExtended_Coffin"
 type "Object"
 using "OBJ_Chest_Wood"
 data "RootTemplate" "ef5f3356-c1ca-4a24-a28a-2fce0e699e57"
-data "Weight" "30"
+data "Weight" "1"
 data "Vitality" "-1"
 data "DefaultBoosts" "Tag(EXTRAPLANARCONTAINER)"
 
