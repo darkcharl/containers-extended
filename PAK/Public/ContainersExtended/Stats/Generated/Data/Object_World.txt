@@ -118,6 +118,11 @@ type "Object"
 using "OBJ_ContainersExtended_TeddyBear"
 data "RootTemplate" "4af5ae53-7a6c-4a2d-a196-1b9c5efa00d1"
 
+new entry "OBJ_ContainersExtended_ThrownWeaponsChest_Moonhaven"
+type "Object"
+using "OBJ_ContainersExtended_ThrownWeaponsChest"
+data "RootTemplate" "4bb2b325-0426-4fe8-a686-e35fc3daf26a"
+
 new entry "OBJ_ContainersExtended_Wardrobe_Zhentarim"
 type "Object"
 using "OBJ_ContainersExtended_Wardrobe"

@@ -5,16 +5,16 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<attribute id="DisplayName" type="TranslatedString" handle="1b6de193-d786-478b-8197-2901ae7eb956" version="1" />
-					<attribute id="Description" type="TranslatedString" handle="cb80460a-7586-42c9-87f7-3eaf8b1410ef" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="e602827c-9e4f-4398-ac84-af23f944d88b" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="c69ef987-29d0-418e-b785-557656f84d67" version="1" />
 					<attribute id="FadeGroup" type="FixedString" value="" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="GravityType" type="uint8" value="2" />
 					<attribute id="CanBePickedUp" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
-					<attribute id="MapKey" type="FixedString" value="105ab7aa-7725-47a3-8ee3-b9863048dd1e" />
-					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_ArmorChest_Blacksmith" />
-					<attribute id="TemplateName" type="FixedString" value="13adf152-2273-4dd8-a5f6-a9c4e00d6f40" />
+					<attribute id="MapKey" type="FixedString" value="4bb2b325-0426-4fe8-a686-e35fc3daf26a" />
+					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_ThrownWeaponsChest_Moonhaven" />
+					<attribute id="TemplateName" type="FixedString" value="3552b5eb-b261-4f9e-bd46-8830d3f898d1" />
 					<attribute id="Tooltip" type="uint8" value="2" />
 					<attribute id="TreasureOnDestroy" type="bool" value="True" />
 					<attribute id="Type" type="FixedString" value="item" />
@@ -23,7 +23,7 @@
 						<node id="InventoryList">
 							<children>
 								<node id="InventoryItem">
-									<attribute id="Object" type="FixedString" value="I_ARM_HalfPlate_Body" />
+									<attribute id="Object" type="FixedString" value="I_WPN_Javelin" />
 								</node>
 							</children>
 						</node>
@@ -38,7 +38,7 @@
 													<attribute id="Object" type="guid" value="4c14a112-8ee0-4659-a6c5-80d3783cdcce" />
 												</node>
 												<node id="Layer">
-													<attribute id="Object" type="guid" value="48316540-7daa-439e-81e6-b1bf62536bfc" />
+													<attribute id="Object" type="guid" value="d9d0c560-cf1d-4318-9f0c-ab00f0d03b80" />
 												</node>
 											</children>
 										</node>
@@ -47,8 +47,8 @@
 							</children>
 						</node>
 						<node id="Transform">
-							<attribute id="Position" type="fvec3" value="-432 16 -370.5" />
-							<attribute id="RotationQuat" type="fvec4" value="0 0.3826834 0 0.9238795" />
+							<attribute id="Position" type="fvec3" value="52 34 431" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.7071068 0 0.7071068" />
 						</node>
 					</children>
 				</node>
