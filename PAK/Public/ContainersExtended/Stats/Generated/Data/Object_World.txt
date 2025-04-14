@@ -78,7 +78,12 @@ type "Object"
 using "OBJ_ContainersExtended_GrenadeContainer"
 data "RootTemplate" "06f3aa65-bc54-4fc0-b2e6-1e42d77de9b2"
 
-new entry "OBJ_ContainersExtended_InstrumentsCase_Tavern"
+new entry "OBJ_ContainersExtended_HeadwearBox_Tavern"
+type "Object"
+using "OBJ_ContainersExtended_HeadwearBox"
+data "RootTemplate" "45a17fac-6e5e-4408-918c-5a9e7f1538d4"
+
+new entry "OBJ_ContainersExtended_InstrumentsCase_Grove"
 type "Object"
 using "OBJ_ContainersExtended_InstrumentsCase"
 data "RootTemplate" "1ab2fe0b-fc68-4d4d-93f5-5f0f2b65c902"

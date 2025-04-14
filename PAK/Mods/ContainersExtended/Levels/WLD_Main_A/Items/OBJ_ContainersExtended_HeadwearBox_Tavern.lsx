@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="4" build="602" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="9b879644-893f-4ae6-92a2-074933d187e4" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="f084b812-a9ce-4191-85c1-f4abd3428576" version="1" />
+					<attribute id="FadeGroup" type="FixedString" value="" />
+					<attribute id="Flag" type="int32" value="1" />
+					<attribute id="GravityType" type="uint8" value="2" />
+					<attribute id="CanBePickedUp" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
+					<attribute id="MapKey" type="FixedString" value="45a17fac-6e5e-4408-918c-5a9e7f1538d4" />
+					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_HeadwearBox_Tavern" />
+					<attribute id="TemplateName" type="FixedString" value="c05b14ba-ac1f-4282-8ccc-ccd05af9ecaa" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="TreasureOnDestroy" type="bool" value="True" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
+					<children>
+						<node id="InventoryList">
+							<children>
+								<node id="InventoryItem">
+									<attribute id="Object" type="FixedString" value="Clothes_Wizard_Hat" />
+								</node>
+							</children>
+						</node>
+						<node id="LayerList">
+							<children>
+								<node id="Layers">
+									<children>
+										<node id="Object">
+											<attribute id="MapKey" type="FixedString" value="WLD_Main_A" />
+											<children>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="4c14a112-8ee0-4659-a6c5-80d3783cdcce" />
+												</node>
+												<node id="Layer">
+													<attribute id="Object" type="guid" value="8e0077d6-12ca-4c73-a99f-3416ce9ce71d" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Transform">
+							<attribute id="Position" type="fvec3" value="-55.25 45.15 614.5" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.1564345 0 0.9876883" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
