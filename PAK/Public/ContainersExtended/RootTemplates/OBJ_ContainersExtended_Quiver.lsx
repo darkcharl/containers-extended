@@ -18,6 +18,22 @@
 					<attribute id="TechnicalDescription" type="TranslatedString" handle="d47d4b48-c398-466c-a237-37a2f5fc8840" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_PUZ_TeleporterHole_Tiny_D" />
 					<!-- alternative: Item_UNI_TWN_Bone_Of_Contention -->
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8bbc5e54-e381-4526-b082-4d85fc510d15" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8bbc5e54-e381-4526-b082-4d85fc510d15" />
+								</node>
+							</children>
+						</node>
+					</children>
 				</node>
 			</children>
 		</node>

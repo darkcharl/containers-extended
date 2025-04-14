@@ -17,6 +17,15 @@
 					<attribute id="Description" type="TranslatedString" handle="77f4ba8d-c732-4601-b146-d0d61fc8e242" version="1" />
 					<attribute id="TechnicalDescription" type="TranslatedString" handle="dac10480-1424-4898-902f-39e4e65b9cce" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_Laboratory_Flask_Glass_C" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8bbc5e54-e381-4526-b082-4d85fc510d15" />
+								</node>
+							</children>
+						</node>
+					</children>
 				</node>
 			</children>
 		</node>

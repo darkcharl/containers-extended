@@ -17,6 +17,22 @@
 					<attribute id="Description" type="TranslatedString" handle="87f81d30-4146-4934-9e9e-66440534824c" version="1" />
 					<attribute id="TechnicalDescription" type="TranslatedString" handle="39643efb-1776-49c8-8d56-ea093c982d4f" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_LAB_GEN_Bottle_Rack_C" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8bbc5e54-e381-4526-b082-4d85fc510d15" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8bbc5e54-e381-4526-b082-4d85fc510d15" />
+								</node>
+							</children>
+						</node>
+					</children>
 				</node>
 			</children>
 		</node>

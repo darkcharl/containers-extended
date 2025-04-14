@@ -18,6 +18,15 @@
 					<attribute id="Description" type="TranslatedString" handle="50dcfac0-2c6b-4583-9bb5-b4b126ec475c" version="1" />
 					<attribute id="TechnicalDescription" type="TranslatedString" handle="553fcb98-ba21-4411-9de7-b70bf5b09de7" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_Burlap_Sack_E" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8bbc5e54-e381-4526-b082-4d85fc510d15" />
+								</node>
+							</children>
+						</node>
+					</children>
 				</node>
 			</children>
 		</node>

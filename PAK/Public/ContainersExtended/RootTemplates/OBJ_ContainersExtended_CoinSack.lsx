@@ -17,6 +17,15 @@
 					<attribute id="Description" type="TranslatedString" handle="9d5bfc6e-1ac6-47eb-8f19-0245cd1407f0" version="1" />
 					<attribute id="TechnicalDescription" type="TranslatedString" handle="4d665dd2-04a5-407a-abf1-5915daf5d044" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_CONT_GEN_Pouch_Leather_A" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8bbc5e54-e381-4526-b082-4d85fc510d15" />
+								</node>
+							</children>
+						</node>
+					</children>
 				</node>
 			</children>
 		</node>

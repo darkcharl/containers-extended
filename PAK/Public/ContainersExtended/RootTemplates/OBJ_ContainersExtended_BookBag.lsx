@@ -17,6 +17,15 @@
 					<attribute id="Description" type="TranslatedString" handle="e3cc3864-3b6c-41d7-9be5-3feb145ed7b0" version="1" />
 					<attribute id="TechnicalDescription" type="TranslatedString" handle="b4401175-9b76-4347-806b-0f5828aac514" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_BOOK_GEN_Books_Row_Multiple_D" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8bbc5e54-e381-4526-b082-4d85fc510d15" />
+								</node>
+							</children>
+						</node>
+					</children>
 				</node>
 			</children>
 		</node>

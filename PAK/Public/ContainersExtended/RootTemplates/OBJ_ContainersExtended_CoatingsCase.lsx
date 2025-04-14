@@ -17,6 +17,15 @@
 					<attribute id="Description" type="TranslatedString" handle="469c4a74-c42c-4596-a4ae-eed61b55c70c" version="1" />
 					<attribute id="TechnicalDescription" type="TranslatedString" handle="55947bff-4109-47c9-9029-710f9175a7de" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_CONS_Poison_Basic" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8bbc5e54-e381-4526-b082-4d85fc510d15" />
+								</node>
+							</children>
+						</node>
+					</children>
 				</node>
 			</children>
 		</node>

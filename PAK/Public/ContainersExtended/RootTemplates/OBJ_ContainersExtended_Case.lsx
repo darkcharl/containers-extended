@@ -95,6 +95,13 @@
 								</node>
 							</children>
 						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8bbc5e54-e381-4526-b082-4d85fc510d15" />
+								</node>
+							</children>
+						</node>
 					</children>
 				</node>
 
@@ -181,6 +188,13 @@
 								</node>
 							</children>
 						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8bbc5e54-e381-4526-b082-4d85fc510d15" />
+								</node>
+							</children>
+						</node>
 					</children>
 				</node>
 
@@ -260,6 +274,13 @@
 											<attribute id="visualDestruction" type="FixedString" value="" />
 										</node>
 									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8bbc5e54-e381-4526-b082-4d85fc510d15" />
 								</node>
 							</children>
 						</node>
@@ -362,6 +383,13 @@
 								</node>
 							</children>
 						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8bbc5e54-e381-4526-b082-4d85fc510d15" />
+								</node>
+							</children>
+						</node>
 					</children>
 				</node>
 
@@ -457,6 +485,13 @@
 											<attribute id="PlayOnHUD" type="bool" value="False" />
 										</node>
 									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8bbc5e54-e381-4526-b082-4d85fc510d15" />
 								</node>
 							</children>
 						</node>

@@ -15,6 +15,15 @@
 					<attribute id="Description" type="TranslatedString" handle="667613cc-452f-4155-ab8e-f82fc5b415c5" version="1" />
 					<attribute id="TechnicalDescription" type="TranslatedString" handle="9cd2be63-67bc-4080-a033-7c4b4fdb8c3a" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_UNI_ORI_Gale_DeathPouch" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8bbc5e54-e381-4526-b082-4d85fc510d15" />
+								</node>
+							</children>
+						</node>
+					</children>
 				</node>
 			</children>
 		</node>
