@@ -5,16 +5,16 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
-					<attribute id="DisplayName" type="TranslatedString" handle="55e58efc-72a5-4319-a165-56118de380f8" version="1" />
-					<attribute id="Description" type="TranslatedString" handle="5b2a3ee7-10bc-47d1-af5c-ec583232d691" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="1b6de193-d786-478b-8197-2901ae7eb956" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="cb80460a-7586-42c9-87f7-3eaf8b1410ef" version="1" />
 					<attribute id="FadeGroup" type="FixedString" value="" />
 					<attribute id="Flag" type="int32" value="1" />
 					<attribute id="GravityType" type="uint8" value="2" />
 					<attribute id="CanBePickedUp" type="bool" value="True" />
 					<attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
-					<attribute id="MapKey" type="FixedString" value="ce2e74c5-bdc0-4406-97bb-f42d1b004db5" />
-					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_MeleeWeaponsChest_Blacksmith" />
-					<attribute id="TemplateName" type="FixedString" value="2e850e24-0c13-49ff-bf51-29948baaf7f4" />
+					<attribute id="MapKey" type="FixedString" value="105ab7aa-7725-47a3-8ee3-b9863048dd1e" />
+					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_ArmorChest_Blacksmith" />
+					<attribute id="TemplateName" type="FixedString" value="13adf152-2273-4dd8-a5f6-a9c4e00d6f40" />
 					<attribute id="Tooltip" type="uint8" value="2" />
 					<attribute id="TreasureOnDestroy" type="bool" value="True" />
 					<attribute id="Type" type="FixedString" value="item" />
@@ -23,7 +23,7 @@
 						<node id="InventoryList">
 							<children>
 								<node id="InventoryItem">
-									<attribute id="Object" type="FixedString" value="ST_SimpleMeleeWeapons" />
+									<attribute id="Object" type="FixedString" value="EquipmentTrader_BodyArmor" />
 								</node>
 							</children>
 						</node>
@@ -47,8 +47,8 @@
 							</children>
 						</node>
 						<node id="Transform">
-							<attribute id="Position" type="fvec3" value="-430.93441772461 15.713316917419 -370.67230224609" />
-							<attribute id="RotationQuat" type="fvec4" value="0 -0.9331453 0 0.3594994" />
+							<attribute id="Position" type="fvec3" value="-429.3 16 -372.5" />
+							<attribute id="RotationQuat" type="fvec4" value="0 0.4617486 0 0.8870108" />
 						</node>
 					</children>
 				</node>

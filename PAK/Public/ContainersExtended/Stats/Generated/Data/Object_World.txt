@@ -8,6 +8,11 @@ type "Object"
 using "OBJ_ContainersExtended_ArcheryWeaponsChest"
 data "RootTemplate" "50fc1435-5a94-4d39-87e9-57d63285be52"
 
+new entry "OBJ_ContainersExtended_ArmorChest_Blacksmith"
+type "Object"
+using "OBJ_ContainersExtended_ArmorChest"
+data "RootTemplate" "105ab7aa-7725-47a3-8ee3-b9863048dd1e"
+
 new entry "OBJ_ContainersExtended_BagOfHolding_Nautiloid"
 type "Object"
 using "OBJ_ContainersExtended_BagOfHolding"
