@@ -5,7 +5,7 @@
 		<node id="Templates">
 			<children>
 
-				<!-- BASE_ARMOR_Cloaks -->
+				<!-- BASE_ARMOR_Body -->
 				<node id="GameObjects">
 					<attribute id="ExamineRotation" type="fvec3" value="-35 0 0" />
 					<attribute id="Icon" type="FixedString" value="Item_ARM_Breastplate" />
