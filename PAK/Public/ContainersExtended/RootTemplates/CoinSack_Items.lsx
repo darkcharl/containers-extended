@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+
+				<!-- BASE_LOOT_Valuable -->
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hb0154388g8214g4370g87e9g79b381db04da" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="deb1c368-16c8-4dc4-8bb0-aaa1bd80cda2" />
+					<attribute id="Name" type="LSString" value="BASE_LOOT_Valuable" />
+					<attribute id="ParentTemplateId" type="FixedString" value="c9e45e5a-f089-480b-ab3a-7f5f76dccc3b" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209010" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="b148cfca-53d8-4b73-b052-de08394a235e" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="058af61c-25e7-4f7c-95dd-4a3890d25f48" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+
+            </children>
+        </node>
+    </region>
+</save>

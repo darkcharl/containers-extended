@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+
+				<!-- CONS_DRINK_Oil -->
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h66cee9c8gc091g48b9g8895ge0135287f875" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h9a3e7f32g6656g4118gbbf7g19dc6c1c9edc" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_(ITEM)CONS_GEN_Drink_Cup_Metal_A_Oil" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="cbbfb594-d3ba-4519-8c15-5c35df5892e0" />
+					<attribute id="Name" type="LSString" value="CONS_GEN_Drink_Cup_Metal_A_Oil" />
+					<attribute id="Opacity" type="float" value="0.5" />
+					<attribute id="ParentTemplateId" type="FixedString" value="35bcfb10-ba86-4195-9de5-2d57b4e209f9" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="f7283d25-de93-a836-2bb1-f2b6b49161ef" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="CONS_DRINK_Oil" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="UseSound" type="FixedString" value="34b720c0-303a-ef4c-32a0-7fdb8f1c3c22" />
+					<attribute id="VisualTemplate" type="FixedString" value="d4a083c4-b982-0c54-1df7-47fe9cad24eb" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855901" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.218319" />
+									<attribute id="Max" type="fvec3" value="0.071670406 0.16837972 0.07208798" />
+									<attribute id="Min" type="fvec3" value="-0.07218286 0.002608627 -0.07176528" />
+									<attribute id="Radius" type="float" value="0.0767232" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.218319" />
+									<attribute id="Max" type="fvec3" value="0.071670406 0.16837972 0.07208798" />
+									<attribute id="Min" type="fvec3" value="-0.07218286 0.002608627 -0.07176528" />
+									<attribute id="Radius" type="float" value="0.0767232" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.218319" />
+									<attribute id="Max" type="fvec3" value="0.071670406 0.16837972 0.07208798" />
+									<attribute id="Min" type="fvec3" value="-0.07218286 0.002608627 -0.07176528" />
+									<attribute id="Radius" type="float" value="0.0767232" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+							</children>
+						</node>
+						<node id="GameMaster">
+							<attribute id="GameMasterSpawnSection" type="int32" value="12" />
+							<attribute id="GameMasterSpawnSubSection" type="TranslatedString" handle="hda8b3186gaf1ag471fg9308g32eba84c280b" version="1" />
+						</node>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="7" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="StatsId" type="FixedString" value="DRINK_OIL" />
+											<attribute id="StatusDuration" type="int32" value="1" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="fe0d86c3-a562-430e-a633-d8bf9bb27284" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+
+				<!-- CONS_DRINK_Water_Bottle -->
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h0f308db9g32b8g4465g9a06g60bf0144c484" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hd3bd0fd9g9a92g4783gbce8g7ca4aba813ae" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_CONS_Drink_Water_Bottle_A" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="d8fff9cf-05b9-4aeb-b5b4-0f6bb98b7f2c" />
+					<attribute id="Name" type="LSString" value="CONS_Drink_Water_Bottle_A" />
+					<attribute id="ParentTemplateId" type="FixedString" value="640302a8-d841-44d6-996d-2addda644306" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="b955403d-9d72-f4f2-f73c-fe984387ccf5" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="Stats" type="FixedString" value="CONS_DRINK_Water_Bottle" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="UseSound" type="FixedString" value="ba3a74f8-c087-3b5a-870c-d62c4c3367bb" />
+					<attribute id="VisualTemplate" type="FixedString" value="a4e1836e-f977-5f4a-03f4-05013f40daa0" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725060" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.418184" />
+									<attribute id="Max" type="fvec3" value="0.15440899 0.4182462 0.15440905" />
+									<attribute id="Min" type="fvec3" value="-0.1702506 -1.0430813E-07 -0.15440893" />
+									<attribute id="Radius" type="float" value="0.114147" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.418184" />
+									<attribute id="Max" type="fvec3" value="0.15440899 0.4182462 0.15440905" />
+									<attribute id="Min" type="fvec3" value="-0.1702506 -1.0430813E-07 -0.15440893" />
+									<attribute id="Radius" type="float" value="0.114147" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.418184" />
+									<attribute id="Max" type="fvec3" value="0.15440899 0.4182462 0.15440905" />
+									<attribute id="Min" type="fvec3" value="-0.1702506 -1.0430813E-07 -0.15440893" />
+									<attribute id="Radius" type="float" value="0.114147" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="ff6d7d1f-094f-432e-a117-fdc3a0ab7ac1" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="fe0d86c3-a562-430e-a633-d8bf9bb27284" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+
+				<!-- CONS_Oil_Of_The_Basilisk -->
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="h8681c7f2g7fd7g4ec8g82c9g70c95544e862" version="2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h9ff676fagc7f6g4c6fg8483gc4b37acacde2" version="1" />
+					<attribute id="DropSound" type="FixedString" value="299dcdc3-c9c9-5ba3-2e87-60800daf6ef6" />
+					<attribute id="Icon" type="FixedString" value="Item_CONS_Oil_Of_The_Basilisk" />
+					<attribute id="InventoryMoveSound" type="FixedString" value="299dcdc3-c9c9-5ba3-2e87-60800daf6ef6" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="212ca846-4766-4370-8847-454e59751598" />
+					<attribute id="Name" type="LSString" value="CONS_Oil_Of_The_Basilisk" />
+					<attribute id="OnUseDescription" type="TranslatedString" handle="hd32c8648gc96eg4ea0g987eg15213bc01bf2" version="1" />
+					<attribute id="ParentTemplateId" type="FixedString" value="cdd2941e-aef8-4cc6-a58b-ccb1d73060e8" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="a75a8374-b616-e38f-12b9-629d6a9bc898" />
+					<attribute id="PickupSound" type="FixedString" value="c07d7d7b-78c1-3173-4250-df729da5276a" />
+					<attribute id="ShowAttachedSpellDescriptions" type="bool" value="True" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Oil_Of_The_Basilisk" />
+					<attribute id="TechnicalDescription" type="TranslatedString" handle="" version="0" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="3720b8d6-55cb-332e-2f9e-7542569a0587" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<attribute id="maxStackAmount" type="int32" value="20" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.5651214" />
+									<attribute id="Max" type="fvec3" value="0.11335507 0.560785 0.17812976" />
+									<attribute id="Min" type="fvec3" value="-0.1274766 -0.0043364167 -0.28281924" />
+									<attribute id="Radius" type="float" value="0.2304745" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.5651214" />
+									<attribute id="Max" type="fvec3" value="0.11335507 0.560785 0.17812976" />
+									<attribute id="Min" type="fvec3" value="-0.1274766 -0.0043364167 -0.28281924" />
+									<attribute id="Radius" type="float" value="0.2304745" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+							</children>
+						</node>
+						<node id="OnDestroyActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="5" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="ExplodeFX" type="FixedString" value="" />
+											<attribute id="FadeOutDelay" type="float" value="0" />
+											<attribute id="FadeOutFX" type="FixedString" value="" />
+											<attribute id="SnapToGround" type="bool" value="True" />
+											<attribute id="TargetItemState" type="uint8" value="0" />
+											<attribute id="VisualWithDynamicPhysics" type="FixedString" value="" />
+											<attribute id="templateAfterDestruction" type="FixedString" value="" />
+											<attribute id="visualDestruction" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="ClassId" type="guid" value="00000000-0000-0000-0000-000000000000" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="Target_Oil_Of_The_Basilisk" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Scripts">
+							<children>
+								<node id="Script">
+									<attribute id="UUID" type="FixedString" value="a557ab71-77f3-4b0c-8174-f605e51c90c7" />
+									<children>
+										<node id="Parameters">
+											<children>
+												<node id="Parameter">
+													<attribute id="MapKey" type="FixedString" value="HardcoreOnly" />
+													<attribute id="Type" type="int32" value="1" />
+													<attribute id="Value" type="LSString" value="0" />
+												</node>
+												<node id="Parameter">
+													<attribute id="MapKey" type="FixedString" value="LifeTime" />
+													<attribute id="Type" type="int32" value="2" />
+													<attribute id="Value" type="LSString" value="0" />
+												</node>
+												<node id="Parameter">
+													<attribute id="MapKey" type="FixedString" value="ProjectileSpell" />
+													<attribute id="Type" type="int32" value="9" />
+													<attribute id="Value" type="LSString" value="Projectile_Potion_Destroy_Oil_Of_The_Basilisk" />
+												</node>
+											</children>
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="4d79b277-97f0-4227-a780-7a14fb9827fc" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="fe0d86c3-a562-430e-a633-d8bf9bb27284" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+
+            </children>
+        </node>
+    </region>
+</save>

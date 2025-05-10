@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+
+				<!-- BASE_ARMOR_Cloaks -->
+				<node id="GameObjects">
+					<attribute id="CanClickThrough" type="bool" value="False" />
+					<attribute id="CanClimbOn" type="bool" value="False" />
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="CoverAmount" type="uint8" value="0" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hc78a5a1cg68f8g466egba64gfde4b8299fcf" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_ARM_Cloak" />
+					<attribute id="IsPointerBlocker" type="bool" value="False" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LoopSound" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="465340b0-523f-48ac-a832-4db4a1183c74" />
+					<attribute id="Name" type="LSString" value="BASE_ARMOR_Cloaks" />
+					<attribute id="ParentTemplateId" type="FixedString" value="a09273ba-6549-4cf9-ba47-615a962baf9f" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="f3110b5c-f53e-c1f0-72b1-6fdcd3c68a42" />
+					<attribute id="SoundAttenuation" type="int16" value="-1" />
+					<attribute id="SoundInitEvent" type="FixedString" value="" />
+					<attribute id="Stats" type="FixedString" value="ARM_Cloak" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="c3be556c-1c9e-c359-afa9-f93c911f60b9" />
+					<attribute id="Wadable" type="bool" value="False" />
+					<attribute id="WalkOn" type="bool" value="False" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.05652854" />
+									<attribute id="Max" type="fvec3" value="0.38805217 0.057498988 0.22669238" />
+									<attribute id="Min" type="fvec3" value="-0.38805217 0.0009704493 -0.22759116" />
+									<attribute id="Radius" type="float" value="0.38805217" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.05652854" />
+									<attribute id="Max" type="fvec3" value="0.38805217 0.057498988 0.22669238" />
+									<attribute id="Min" type="fvec3" value="-0.38805217 0.0009704493 -0.22759116" />
+									<attribute id="Radius" type="float" value="0.38805217" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.05652854" />
+									<attribute id="Max" type="fvec3" value="0.38805217 0.057498988 0.22669238" />
+									<attribute id="Min" type="fvec3" value="-0.38805217 0.0009704493 -0.22759116" />
+									<attribute id="Radius" type="float" value="0.38805217" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="6de7409e-eef8-402f-955c-5a8198b6480a" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+
+            </children>
+        </node>
+    </region>
+</save>

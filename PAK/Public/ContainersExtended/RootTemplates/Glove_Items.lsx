@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+
+				<!-- BASE_ARMOR_Gloves -->
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hb57a3b6cg599ag4856g8558g951d2064313a" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_ARM_Gloves_Leather" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="1ab3e355-c1ed-4035-8c17-4ec2a8e8850f" />
+					<attribute id="Name" type="LSString" value="BASE_ARMOR_Gloves" />
+					<attribute id="ParentTemplateId" type="FixedString" value="a09273ba-6549-4cf9-ba47-615a962baf9f" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144678138029277384" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="874d2efb-77ad-45ef-9cd3-2a114e9f3610" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+
+            </children>
+        </node>
+    </region>
+</save>
