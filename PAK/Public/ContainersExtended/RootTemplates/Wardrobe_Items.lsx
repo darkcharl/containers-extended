@@ -330,6 +330,29 @@
 					</children>
 				</node>
 
+				<!-- ARM_Robe_Body -->
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hc9d38183g9de7g42c5ga1a1ge1a43683aa8f" version="2" />
+					<attribute id="Icon" type="FixedString" value="Generated_ARM_Civilian_Body" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="686a3c43-b494-4fcd-bda7-acb399cdee5a" />
+					<attribute id="Name" type="LSString" value="ARM_Cloth" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0985f767-4256-4f15-aabe-364e002f913f" />
+					<attribute id="Stats" type="FixedString" value="ARM_Robe_Body" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="d5522450-68f2-ce13-3118-99b27321cba8" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209030" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="74c4425e-edf0-417b-95af-cf3fe2cb7446" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+
             </children>
         </node>
     </region>
