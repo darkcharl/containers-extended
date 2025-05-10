@@ -4,6 +4,8 @@
 	<region id="Templates">
 		<node id="Templates">
 			<children>
+
+				<!-- BASE_ARMOR_Headwear -->
 				<node id="GameObjects">
 					<attribute id="DropSound" type="FixedString" value="a77249ac-7929-43de-b1a2-9690a7a71024" />
 					<attribute id="EquipSound" type="FixedString" value="51a08eb0-1f0d-559e-fa60-099129b4d81a" />
