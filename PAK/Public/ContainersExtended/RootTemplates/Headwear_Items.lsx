@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="DropSound" type="FixedString" value="a77249ac-7929-43de-b1a2-9690a7a71024" />
+					<attribute id="EquipSound" type="FixedString" value="51a08eb0-1f0d-559e-fa60-099129b4d81a" />
+					<attribute id="Icon" type="FixedString" value="Item_ARM_Helmet_Leather" />
+					<attribute id="ImpactSound" type="FixedString" value="439fcec3-6032-f489-6e80-260d26fab23d" />
+					<attribute id="InventoryMoveSound" type="FixedString" value="a77249ac-7929-43de-b1a2-9690a7a71024" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="1e694935-3625-4781-8a6e-a91ba7f5876d" />
+					<attribute id="Name" type="LSString" value="BASE_ARMOR_Headwear" />
+					<attribute id="ParentTemplateId" type="FixedString" value="a09273ba-6549-4cf9-ba47-615a962baf9f" />
+					<attribute id="PickupSound" type="FixedString" value="92550df7-e13e-4474-8a7e-a59825eaa805" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="UnequipSound" type="FixedString" value="a89414ed-c481-d18d-5a54-b0d6c1d2fd04" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="d4058e67-954f-46d8-9b0d-4dbc4087a44d" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+
+            </children>
+        </node>
+    </region>
+</save>
