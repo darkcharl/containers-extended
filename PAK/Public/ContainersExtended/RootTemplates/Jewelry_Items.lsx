@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+
+				<!-- BASE_LOOT_Ring -->
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h18e9e45dgeb5cg4b03g9cd9gaa739a7f5ce8" version="2" />
+					<attribute id="DropSound" type="FixedString" value="8891f42c-f66e-b87a-d0b7-6f2de68489a8" />
+					<attribute id="EquipSound" type="FixedString" value="8891f42c-f66e-b87a-d0b7-6f2de68489a8" />
+					<attribute id="ExamineRotation" type="fvec3" value="0 -25 0" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Ring_A_Simple_Gold" />
+					<attribute id="ImpactSound" type="FixedString" value="fa6145a3-f95d-60a9-9583-ba601bc3a583" />
+					<attribute id="InventoryMoveSound" type="FixedString" value="8891f42c-f66e-b87a-d0b7-6f2de68489a8" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="0af630e0-82eb-4b83-baa2-e296f97a7a4e" />
+					<attribute id="Name" type="LSString" value="BASE_LOOT_Ring" />
+					<attribute id="ParentTemplateId" type="FixedString" value="c9e45e5a-f089-480b-ab3a-7f5f76dccc3b" />
+					<attribute id="PickupSound" type="FixedString" value="0c6e22db-8de7-919a-88c3-79532bca7898" />
+					<attribute id="Stats" type="FixedString" value="ARM_Ring" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="UnequipSound" type="FixedString" value="0c6e22db-8de7-919a-88c3-79532bca7898" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<attribute id="maxStackAmount" type="int32" value="1" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="1" />
+									<attribute id="Max" type="fvec3" value="0.033773907 0.051772833 0.042064518" />
+									<attribute id="Min" type="fvec3" value="-0.032622464 0.0003451109 -0.059418082" />
+									<attribute id="Radius" type="float" value="0.433013" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="1" />
+									<attribute id="Max" type="fvec3" value="0.033773907 0.051772833 0.042064518" />
+									<attribute id="Min" type="fvec3" value="-0.032622464 0.0003451109 -0.059418082" />
+									<attribute id="Radius" type="float" value="0.433013" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="1" />
+									<attribute id="Max" type="fvec3" value="0.033773877 0.051772833 0.042064503" />
+									<attribute id="Min" type="fvec3" value="-0.032622494 0.0003451109 -0.059418097" />
+									<attribute id="Radius" type="float" value="0.2165065" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="b148cfca-53d8-4b73-b052-de08394a235e" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="69d067e4-6c41-4812-92d8-aab0eb8ef2ac" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+
+				<!-- BASE_LOOT_Necklace -->
+				<node id="GameObjects">
+					<attribute id="Description" type="TranslatedString" handle="ha5cebb79g762cg4649g9009g7fd881d04c7c" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h517e1f21gb0a4g48dbgb689g74b6880d6087" version="1" />
+					<attribute id="DropSound" type="FixedString" value="6132ebd3-6630-dbc4-06f2-f8c13e87a67b" />
+					<attribute id="EquipSound" type="FixedString" value="6132ebd3-6630-dbc4-06f2-f8c13e87a67b" />
+					<attribute id="ExamineRotation" type="fvec3" value="-35 0 0" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Amulet_Necklace_Magic_A_Blue" />
+					<attribute id="ImpactSound" type="FixedString" value="ba721fba-33ff-c38d-246c-f30767d22102" />
+					<attribute id="InventoryMoveSound" type="FixedString" value="6132ebd3-6630-dbc4-06f2-f8c13e87a67b" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="303990e3-5546-44a3-9c5a-f9aa1702ad51" />
+					<attribute id="Name" type="LSString" value="BASE_LOOT_Necklace" />
+					<attribute id="ParentTemplateId" type="FixedString" value="c9e45e5a-f089-480b-ab3a-7f5f76dccc3b" />
+					<attribute id="PickupSound" type="FixedString" value="868df30d-1f40-3331-f0d0-1b09457cd1d8" />
+					<attribute id="Stats" type="FixedString" value="ARM_Amulet" />
+					<attribute id="Tooltip" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="UnequipSound" type="FixedString" value="868df30d-1f40-3331-f0d0-1b09457cd1d8" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144818875517633012" />
+					<attribute id="maxStackAmount" type="int32" value="1" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="1" />
+									<attribute id="Max" type="fvec3" value="0.5 1 0.5" />
+									<attribute id="Min" type="fvec3" value="-0.5 0 -0.5" />
+									<attribute id="Radius" type="float" value="0.433013" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="1" />
+									<attribute id="Max" type="fvec3" value="0.5 1 0.5" />
+									<attribute id="Min" type="fvec3" value="-0.5 0 -0.5" />
+									<attribute id="Radius" type="float" value="0.433013" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="1" />
+									<attribute id="Max" type="fvec3" value="0.25 1 0.25" />
+									<attribute id="Min" type="fvec3" value="-0.25 0 -0.25" />
+									<attribute id="Radius" type="float" value="0.2165065" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="b148cfca-53d8-4b73-b052-de08394a235e" />
+								</node>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="69d067e4-6c41-4812-92d8-aab0eb8ef2ac" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+
+            </children>
+        </node>
+    </region>
+</save>
