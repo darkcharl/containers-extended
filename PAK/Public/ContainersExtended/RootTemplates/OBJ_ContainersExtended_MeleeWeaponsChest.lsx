@@ -7,7 +7,7 @@
                 <!-- Container for melee weapons -->
 				<node id="GameObjects">
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="IsWeaponOfProficiencyGroup('Battleaxes|Clubs|Flails|Glaives|Greataxes|Greatclubs|Greatswords|Halberds|Longswords|Maces|Mauls|Morningstars|Pikes|Quarterstaffs|Rapiers|Scimitars|Shortswords|Sickles|Warhammers|Warpicks') and not IsStoryItem() and not HasAttribute('InventoryBound')" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="IsWeaponOfProficiencyGroup('Battleaxes|Clubs|Flails|Glaives|Greataxes|Greatclubs|Greatswords|Halberds|Longswords|Maces|Mauls|Morningstars|Pikes|Quarterstaffs|Rapiers|Scimitars|Shortswords|Sickles|Warhammers|Warpicks') or Tagged('MELEEWEAPON') and not IsStoryItem() and not HasAttribute('InventoryBound')" />
 					<attribute id="InventoryType" type="uint8" value="4" />
 					<attribute id="MapKey" type="FixedString" value="2e850e24-0c13-49ff-bf51-29948baaf7f4" />
 					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_MeleeWeaponsChest" />

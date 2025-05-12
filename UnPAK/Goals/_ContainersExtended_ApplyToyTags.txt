@@ -1,0 +1,35 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+DB_ContainersExtended_ToyTemplates((GUIDSTRING)Toy_SmallBall_530fd43f-4587-47ec-868d-e9120d6610f8);
+DB_ContainersExtended_ToyTemplates((GUIDSTRING)Toy_TeddyBear_Clean_1ac45157-d063-4314-8832-c50062a885dd);
+DB_ContainersExtended_ToyTemplates((GUIDSTRING)WYR_ExplosiveToy_e077ef28-5de9-439d-bbaf-59536585c938);
+DB_ContainersExtended_ToyTemplates((GUIDSTRING)Toy_TeddyBear_Worn_62bc283a-9919-4f7c-b468-5303e0f97175);
+DB_ContainersExtended_ToyTemplates((GUIDSTRING)Toy_WoodenBlock_A_b0f10499-4e01-462f-894f-5b0fe9043b25);
+DB_ContainersExtended_ToyTemplates((GUIDSTRING)Toy_WoodenBlock_B_56738b6b-07de-472a-8b9f-d26262a96741);
+DB_ContainersExtended_ToyTemplates((GUIDSTRING)Toy_WoodenBlock_C_2e88f468-b34c-439e-b488-5d10715885c3);
+DB_ContainersExtended_ToyTemplates((GUIDSTRING)Toy_WoodenBlock_D_d40903a5-1b2d-4422-8868-d64e6f709988);
+
+
+KBSECTION
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+GetTemplate(_Item, _Template)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+DB_ContainersExtended_ToyTemplates(_Template)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_TeddyBear_2062cd5f-3725-46b0-8f12-75e7dad9078a, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)TOY_454d69b9-11c3-4d79-95f6-607b88bbef75);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+
+EXITSECTION
+
+ENDEXITSECTION

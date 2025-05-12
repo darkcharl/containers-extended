@@ -1,0 +1,4 @@
+new entry "_Hand"
+type "Armor"
+using "_Hand"
+data "DefaultBoosts" "Tag(GLOVE)"

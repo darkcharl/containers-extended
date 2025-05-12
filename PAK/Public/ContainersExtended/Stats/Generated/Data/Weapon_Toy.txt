@@ -1,0 +1,4 @@
+new entry "WPN_ToySword"
+type "Weapon"
+using "WPN_ToySword"
+data "DefaultBoosts" "Tag(TOY)"

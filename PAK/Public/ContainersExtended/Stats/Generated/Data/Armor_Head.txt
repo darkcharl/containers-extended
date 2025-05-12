@@ -1,0 +1,4 @@
+new entry "_Head"
+type "Armor"
+using "_Head"
+data "DefaultBoosts" "Tag(HEADWEAR)"

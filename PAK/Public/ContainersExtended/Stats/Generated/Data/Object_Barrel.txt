@@ -1,0 +1,9 @@
+new entry "OBJ_Barrel_Filled"
+type "Object"
+using "OBJ_Barrel_Filled"
+data "DefaultBoosts" "Tag(BARREL)"
+
+new entry "OBJ_VolatileBladder"
+type "Object"
+using "OBJ_VolatileBladder"
+data "DefaultBoosts" "Tag(BARREL)"

@@ -1,0 +1,4 @@
+new entry "ARM_Toy_Shield"
+type "Armor"
+using "ARM_Toy_Shield"
+data "DefaultBoosts" "Tag(TOY)"

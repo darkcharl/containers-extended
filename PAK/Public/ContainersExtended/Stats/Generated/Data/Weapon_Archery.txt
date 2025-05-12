@@ -1,0 +1,24 @@
+new entry "WPN_HandCrossbow"
+type "Weapon"
+using "WPN_HandCrossbow"
+data "DefaultBoosts" "Tag(ARCHERYWEAPON)"
+
+new entry "WPN_HeavyCrossbow"
+type "Weapon"
+using "WPN_HeavyCrossbow"
+data "DefaultBoosts" "Tag(ARCHERYWEAPON)"
+
+new entry "WPN_LightCrossbow"
+type "Weapon"
+using "WPN_LightCrossbow"
+data "DefaultBoosts" "Tag(ARCHERYWEAPON)"
+
+new entry "WPN_Longbow"
+type "Weapon"
+using "WPN_Longbow"
+data "DefaultBoosts" "Tag(ARCHERYWEAPON)"
+
+new entry "WPN_Shortbow"
+type "Weapon"
+using "WPN_Shortbow"
+data "DefaultBoosts" "Tag(ARCHERYWEAPON)"

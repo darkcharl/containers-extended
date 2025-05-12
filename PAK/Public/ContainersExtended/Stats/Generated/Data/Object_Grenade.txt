@@ -1,0 +1,19 @@
+new entry "CONS_DRINK_Oil"
+type "Object"
+using "CONS_DRINK_Oil"
+data "DefaultBoosts" "Tag(GRENADE)"
+
+new entry "CONS_DRINK_Water_Bottle"
+type "Object"
+using "CONS_DRINK_Water_Bottle"
+data "DefaultBoosts" "Tag(GRENADE)"
+
+new entry "OBJ_Oil_Of_The_Basilisk"
+type "Object"
+using "OBJ_Oil_Of_The_Basilisk"
+data "DefaultBoosts" "Tag(GRENADE)"
+
+new entry "OBJ_Bag_BlackPowder"
+type "Object"
+using "OBJ_Bag_BlackPowder"
+data "DefaultBoosts" "Tag(GRENADE)"

@@ -1,0 +1,8 @@
+new entry "CONTAINERSEXTENDED_TEST"
+type "StatusData"
+data "StatusType" "BOOST"
+data "DisplayName" "67f5cf76-ae38-4649-98e8-a918ba58cac1;1"
+data "Description" "64e16068-67fc-44d0-8fce-40aef9b98573;1"
+data "Icon" "Shout_ActionSurge"
+data "StatusPropertyFlags" "ApplyToDead;IgnoreResting"
+data "Boosts" ""

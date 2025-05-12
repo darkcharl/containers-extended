@@ -1,0 +1,9 @@
+new entry "ARM_Robe_Body"
+type "Armor"
+using "ARM_Robe_Body"
+data "DefaultBoosts" "Tag(WARDROBE)"
+
+new entry "_Underwear"
+type "Armor"
+using "_Underwear"
+data "DefaultBoosts" "Tag(WARDROBE)"

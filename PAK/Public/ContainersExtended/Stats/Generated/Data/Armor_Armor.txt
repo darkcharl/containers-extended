@@ -1,0 +1,59 @@
+new entry "ARM_Padded_Body"
+type "Armor"
+using "ARM_Padded_Body"
+data "DefaultBoosts" "Tag(ARMOR)"
+
+new entry "ARM_Leather_Body"
+type "Armor"
+using "ARM_Leather_Body"
+data "DefaultBoosts" "Tag(ARMOR)"
+
+new entry "ARM_StuddedLeather_Body"
+type "Armor"
+using "ARM_StuddedLeather_Body"
+data "DefaultBoosts" "Tag(ARMOR)"
+
+new entry "ARM_Hide_Body"
+type "Armor"
+using "ARM_Hide_Body"
+data "DefaultBoosts" "Tag(ARMOR)"
+
+new entry "ARM_ChainShirt_Body"
+type "Armor"
+using "ARM_ChainShirt_Body"
+data "DefaultBoosts" "Tag(ARMOR)"
+
+new entry "ARM_ScaleMail_Body"
+type "Armor"
+using "ARM_ScaleMail_Body"
+data "DefaultBoosts" "Tag(ARMOR)"
+
+new entry "ARM_Breastplate_Body"
+type "Armor"
+using "ARM_Breastplate_Body"
+data "DefaultBoosts" "Tag(ARMOR)"
+
+new entry "ARM_HalfPlate_Body"
+type "Armor"
+using "ARM_HalfPlate_Body"
+data "DefaultBoosts" "Tag(ARMOR)"
+
+new entry "ARM_RingMail_Body"
+type "Armor"
+using "ARM_RingMail_Body"
+data "DefaultBoosts" "Tag(ARMOR)"
+
+new entry "ARM_ChainMail_Body"
+type "Armor"
+using "ARM_ChainMail_Body"
+data "DefaultBoosts" "Tag(ARMOR)"
+
+new entry "ARM_Splint_Body"
+type "Armor"
+using "ARM_Splint_Body"
+data "DefaultBoosts" "Tag(ARMOR)"
+
+new entry "ARM_Plate_Body"
+type "Armor"
+using "ARM_Plate_Body"
+data "DefaultBoosts" "Tag(ARMOR)"

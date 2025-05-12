@@ -1,0 +1,4 @@
+new entry "_Back"
+type "Armor"
+using "_Back"
+data "DefaultBoosts" "Tag(CLOAK)"

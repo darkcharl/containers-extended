@@ -1,0 +1,4 @@
+new entry "_Shield"
+type "Armor"
+using "_Shield"
+data "DefaultBoosts" "Tag(SHIELD)"

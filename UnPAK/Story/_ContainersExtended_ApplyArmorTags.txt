@@ -1,0 +1,71 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_Breastplate_4814825e-23ee-41ed-9784-d9963434150d);
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_BreastPlate_1_ad912cef-8bfb-4bf3-98f0-f2c5e3b45915);
+
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_HalfPlate_34a71679-0ab5-4fd4-bba8-d6ad341ee490);
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_ARM_HalfPlate_2_15338da1-c4f8-4b43-912c-c14e7d9a8579);
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)UNI_DarkJusticiarArmor_HalfPlate_dd3f1c98-cdf7-46f3-bb8b-5489dc3433ca);
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)UNI_SHA_Shadowheart_JusticiarArmor_HalfPlate_742d43ff-b74d-4cbe-9554-51773bbccdc2);
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_HalfPlate_EndGame_4a712833-fe5c-4780-bc56-620972336eda);
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_HalfPlate_FlamingFist_4aa373b2-0cb7-4b69-af38-0d1352236a1f);
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_HalfPlate_FlamingFist_B_6fbbe358-8915-4781-b738-098c3e5a3bff);
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_HalfPlate_Githyanki_38c63f49-3c50-46d0-90d3-68b247542c36);
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)UNI_Daisy_Plate_aa0917ea-5f66-4a22-97de-654228484128);
+
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_ChainMail_b973e3cb-c18d-4514-ba01-ebcabbf26968);
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_ChainMail_1_ed7a8055-cf36-42c8-ad77-15a80d19744f);
+
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_ChainShirt_921cd1e1-c39c-44c3-a090-b667322af7f8);
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_ChainShirt_1_eac652ed-ecf7-4505-bf64-0fec29e7d677);
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_ChainShirt_Justiciar_51c2ee09-25e3-4872-ab84-e4d6e4af1246);
+
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_Padded_63cc7723-245d-4b62-b9e6-5a47283cf777);
+
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_Plate_95b4e2c4-759a-4d33-a2d1-4e0ee6ed4f29);
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_Plate_1_dd905194-9a67-4c61-b26d-5b4da4725cde);
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_Ketheric_Body_B_53b3e771-5835-4703-8845-28169b836b8c);
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)MAG_Illithid_Carapace_Armor_ee3c78be-d33b-4d1b-b433-2634a39f50aa);
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)MAG_Lesser_Infernal_Plate_Armor_d76dd47b-e1bf-4e30-b366-6069d9eb9e22);
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_Plate_2_fdb8ce53-51dc-4ccb-9e29-d1d99040e60b);
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_Demon_A_7792eb86-c2cc-4eb6-9968-032b99d0af34);
+
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_RingMail_e3a5099a-397a-4bbc-932c-cd0a00043b79);
+
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_ScaleMail_ca0aafad-0f1e-4d76-8e3b-925397bb436b);
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_ScaleMail_1_dc748177-8590-4a99-a446-feccbd8d8eb4);
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_ScaleMail_2_21f0dd84-6f02-4be9-8654-4cebd00dcbaf);
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_ScaleMail_Paladin_Devotion_a455f1a1-acc6-4fce-a09e-111aceced98a);
+
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_Hide_b78fabcc-d2df-4c74-b5d4-1eda6dc4c071);
+
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_Splint_8ed82f7e-fdd4-4a9f-94b6-f256c599bfdd);
+
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_Leather_02ae5d88-8044-43df-8363-02a2900776db);
+
+DB_ContainersExtended_ArmorTemplates((GUIDSTRING)ARM_StuddedLeather_19451420-13f6-444c-a15b-7abb6dde3f91);
+
+
+KBSECTION
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+GetTemplate(_Item, _Template)
+AND
+DB_ContainersExtended_ArmorTemplates(_Template)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_ArmorChest_13adf152-2273-4dd8-a5f6-a9c4e00d6f40, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)ARMOR_d14e607b-d199-421a-837b-9e5223b2d67c);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+
+EXITSECTION
+
+ENDEXITSECTION

@@ -1,0 +1,99 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+IsEquipmentWithProficiency((ITEM)_Item, "Daggers", 1)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_ThrownWeaponsChest_3552b5eb-b261-4f9e-bd46-8830d3f898d1, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)THROWNWEAPON_a9088b32-1917-46ca-9f08-5b0f46a5936a);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+IsEquipmentWithProficiency((ITEM)_Item, "Handaxes", 1)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_ThrownWeaponsChest_3552b5eb-b261-4f9e-bd46-8830d3f898d1, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)THROWNWEAPON_a9088b32-1917-46ca-9f08-5b0f46a5936a);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+IsEquipmentWithProficiency((ITEM)_Item, "Javelins", 1)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_ThrownWeaponsChest_3552b5eb-b261-4f9e-bd46-8830d3f898d1, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)THROWNWEAPON_a9088b32-1917-46ca-9f08-5b0f46a5936a);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+IsEquipmentWithProficiency((ITEM)_Item, "LightHammers", 1)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_ThrownWeaponsChest_3552b5eb-b261-4f9e-bd46-8830d3f898d1, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)THROWNWEAPON_a9088b32-1917-46ca-9f08-5b0f46a5936a);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+IsEquipmentWithProficiency((ITEM)_Item, "Spears", 1)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_ThrownWeaponsChest_3552b5eb-b261-4f9e-bd46-8830d3f898d1, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)THROWNWEAPON_a9088b32-1917-46ca-9f08-5b0f46a5936a);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+IsEquipmentWithProficiency((ITEM)_Item, "Tridents", 1)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_ThrownWeaponsChest_3552b5eb-b261-4f9e-bd46-8830d3f898d1, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)THROWNWEAPON_a9088b32-1917-46ca-9f08-5b0f46a5936a);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+
+EXITSECTION
+
+ENDEXITSECTION

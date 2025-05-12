@@ -1,0 +1,40 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+DB_ContainersExtended_AdventuringTemplates((GUIDSTRING)OBJ_Kit_ThievesTools_e32a200c-5b63-414d-ae57-00e7b38f125b);
+DB_ContainersExtended_AdventuringTemplates((GUIDSTRING)OBJ_Kit_ThievesTools_08851ac0-3bfa-44f3-80c6-6ab0536f0e10);
+
+DB_ContainersExtended_AdventuringTemplates((GUIDSTRING)OBJ_Kit_TrapDisarm_22c74b5e-bef2-41b1-b9ed-f4acc766d4ee);
+
+DB_ContainersExtended_AdventuringTemplates((GUIDSTRING)OBJ_Candle_34df8770-06c5-4752-a7b6-25d4f64d64dc);
+DB_ContainersExtended_AdventuringTemplates((GUIDSTRING)OBJ_Candle_Gold_3e502732-e3d8-4b93-aea9-05f89a4e4073);
+DB_ContainersExtended_AdventuringTemplates((GUIDSTRING)OBJ_Candle_Gold_Purple_ac805261-e2e4-49fd-b20e-5d89e335ad5e);
+
+DB_ContainersExtended_AdventuringTemplates((GUIDSTRING)OBJ_Soap_d32a68ff-3b6a-4d83-b0c4-0a2c44b93ea9);
+DB_ContainersExtended_AdventuringTemplates((GUIDSTRING)OBJ_Sponge_172603c6-0ee4-40f4-9f60-2727e44544d3);
+
+DB_ContainersExtended_AdventuringTemplates((GUIDSTRING)OBJ_Sponge_Bucket_8e11fada-192f-4042-8c84-dc7b78f32541);
+
+
+KBSECTION
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+GetTemplate(_Item, _Template)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+DB_ContainersExtended_AdventuringTemplates(_Template)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_AventuringTools_c37f6372-be2c-4a27-9d62-0cfe15e0dae0, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)ADVENTURING_92921695-ebb1-4bf3-a455-205dea38629f);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+
+EXITSECTION
+
+ENDEXITSECTION

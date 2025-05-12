@@ -1,0 +1,9 @@
+new entry "_Toys"
+type "Object"
+using "_Toys"
+data "DefaultBoosts" "Tag(TOY)"
+
+new entry "DEC_GEN_Owlbear_Plush_Toy_A"
+type "Object"
+using "DEC_GEN_Owlbear_Plush_Toy_A"
+data "DefaultBoosts" "Tag(TOY)"

@@ -1,0 +1,39 @@
+new entry "OBJ_Candle"
+type "Object"
+using "OBJ_Candle"
+data "DefaultBoosts" "Tag(ADVENTURING)"
+
+new entry "OBJ_Kit_Disguise"
+type "Object"
+using "OBJ_Kit_Disguise"
+data "DefaultBoosts" "Tag(ADVENTURING)"
+
+new entry "OBJ_Kit_ThievesTools"
+type "Object"
+using "OBJ_Kit_ThievesTools"
+data "DefaultBoosts" "Tag(ADVENTURING)"
+
+new entry "OBJ_Kit_TrapDisarm"
+type "Object"
+using "OBJ_Kit_TrapDisarm"
+data "DefaultBoosts" "Tag(ADVENTURING)"
+
+new entry "OBJ_Generic_Light"
+type "Object"
+using "OBJ_Generic_Light"
+data "DefaultBoosts" "Tag(ADVENTURING)"
+
+new entry "OBJ_Soap"
+type "Object"
+using "OBJ_Soap"
+data "DefaultBoosts" "Tag(ADVENTURING)"
+
+new entry "OBJ_Sponge_Bucket"
+type "Object"
+using "OBJ_Sponge_Bucket"
+data "DefaultBoosts" "Tag(ADVENTURING)"
+
+new entry "UNI_WYR_Circus_FacePaint"
+type "Object"
+using "UNI_WYR_Circus_FacePaint"
+data "DefaultBoosts" "Tag(ADVENTURING)"

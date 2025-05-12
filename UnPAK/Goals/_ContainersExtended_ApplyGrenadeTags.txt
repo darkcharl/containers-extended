@@ -1,0 +1,38 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+DB_ContainersExtended_GrenadeTemplates((GUIDSTRING)CONS_DRINK_Oil_cbbfb594-d3ba-4519-8c15-5c35df5892e0);
+
+DB_ContainersExtended_GrenadeTemplates((GUIDSTRING)CONS_DRINK_Water_640302a8-d841-44d6-996d-2addda644306);
+DB_ContainersExtended_GrenadeTemplates((GUIDSTRING)CRA_ShellKid_Cup_957de976-3099-42b0-a429-823b5800e49e);
+DB_ContainersExtended_GrenadeTemplates((GUIDSTRING)CONS_DRINK_Water_Bottle_640302a8-d841-44d6-996d-2addda644306);
+DB_ContainersExtended_GrenadeTemplates((GUIDSTRING)CONS_DRINK_Water_Bottle_Wicker_00253e1b-375c-4ef4-8808-974cab615ff7);
+DB_ContainersExtended_GrenadeTemplates((GUIDSTRING)UNI_HAV_Thiefling_DecanterOfEndlessWater_ac49f3e0-d5d5-448c-b3cf-dd1ad9a96013);
+DB_ContainersExtended_GrenadeTemplates((GUIDSTRING)CONS_DRINK_Water_Bottle_Wicker_00253e1b-375c-4ef4-8808-974cab615ff7);
+DB_ContainersExtended_GrenadeTemplates((GUIDSTRING)CONS_DRINK_Water_Bottle_Wicker_e8e427ac-9078-4471-85f2-4b8bbc3e00b5);
+
+DB_ContainersExtended_GrenadeTemplates((GUIDSTRING)OBJ_Oil_Of_The_Basilisk_212ca846-4766-4370-8847-454e59751598);
+
+
+KBSECTION
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+GetTemplate(_Item, _Template)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+DB_ContainersExtended_GrenadeTemplates(_Template)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_GrenadeContainer_14415b1f-47cf-4672-b2cf-dd8db20a37e4, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)GRENADE_fe0d86c3-a562-430e-a633-d8bf9bb27284);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+
+EXITSECTION
+
+ENDEXITSECTION
