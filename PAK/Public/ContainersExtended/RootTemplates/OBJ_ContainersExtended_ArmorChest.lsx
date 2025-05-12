@@ -6,7 +6,7 @@
 			<children>
 				<node id="GameObjects">
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('ARMOR') and not IsStoryItem()" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="(IsOfProficiencyGroup('LightArmor') or IsOfProficiencyGroup('MediumArmor') or IsOfProficiencyGroup('HeavyArmor')) and not IsStoryItem()" />
 					<attribute id="InventoryType" type="uint8" value="11" />
 					<attribute id="MapKey" type="FixedString" value="13adf152-2273-4dd8-a5f6-a9c4e00d6f40" />
 					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_ArmorChest" />
