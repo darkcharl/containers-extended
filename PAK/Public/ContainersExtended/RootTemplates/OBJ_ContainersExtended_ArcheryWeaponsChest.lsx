@@ -7,7 +7,7 @@
                 <!-- Container for archery weapons -->
 				<node id="GameObjects">
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="IsWeaponOfProficiencyGroup('HandCrossbows|HeavyCrossbows|LightCrossbows|Longbows|Shortbows') and not IsStoryItem()" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="IsWeaponOfProficiencyGroup('HandCrossbows|HeavyCrossbows|LightCrossbows|Longbows|Shortbows') or Tagged('ARCHERYWEAPON') and not IsStoryItem()" />
 					<attribute id="InventoryType" type="uint8" value="4" />
 					<attribute id="MapKey" type="FixedString" value="c92f1609-45d1-4b97-8135-20b4473ddfb3" />
 					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_ArcheryWeaponsChest" />

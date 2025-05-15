@@ -1,0 +1,38 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+DB_ContainersExtended_BarrelTemplates((GUIDSTRING)OBJ_Barrel_Filled_253b6d64-91f4-46a2-b05a-a606b0d7b342);
+DB_ContainersExtended_BarrelTemplates((GUIDSTRING)OBJ_Barrel_Filled_Alcohol_79050068-7ce3-43f9-a9a3-1646f5eb39c3);
+DB_ContainersExtended_BarrelTemplates((GUIDSTRING)OBJ_Barrel_Filled_Oil_72e3f454-5a68-4bb2-acef-7b8d595b5015);
+DB_ContainersExtended_BarrelTemplates((GUIDSTRING)OBJ_Barrel_Filled_Smokepowder_9c875b66-4024-487f-b67c-0c175538eb5c);
+DB_ContainersExtended_BarrelTemplates((GUIDSTRING)UND_OBJ_Runepowder_Barrel_79dfb371-cd87-48f3-b542-26db2d39cfe2);
+DB_ContainersExtended_BarrelTemplates((GUIDSTRING)OBJ_Runepowder_Timebomb_9a711e91-04d0-4300-8ca8-b4cc07529a56);
+
+DB_ContainersExtended_BarrelTemplates((GUIDSTRING)OBJ_VolatileBladder_24e01b77-0a74-410d-869f-919918f20278);
+DB_ContainersExtended_BarrelTemplates((GUIDSTRING)OBJ_VolatileBladder_B_29a36662-ccd9-4599-b2a1-16fb2cb31366);
+
+DB_ContainersExtended_BarrelTemplates((GUIDSTRING)CONT_Barrel_Water_A_253b6d64-91f4-46a2-b05a-a606b0d7b342);
+
+
+KBSECTION
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+GetTemplate(_Item, _Template)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+DB_ContainersExtended_BarrelTemplates(_Template)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_ExplosivesBarrel_224730ad-64e0-4de6-aaec-3668e77dace2, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)BARREL_70044544-72b7-4340-bf32-37bb9c2a8314);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+
+EXITSECTION
+
+ENDEXITSECTION

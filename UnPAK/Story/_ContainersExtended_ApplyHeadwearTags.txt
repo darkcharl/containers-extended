@@ -1,0 +1,39 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+DB_ContainersExtended_HeadwearTemplates((GUIDSTRING)BASE_ARMOR_Headwear_1e694935-3625-4781-8a6e-a91ba7f5876d);
+
+DB_ContainersExtended_HeadwearTemplates((GUIDSTRING)ARM_Circlet_348b0f52-8960-43e0-ae38-c1d3b1974c3f);
+DB_ContainersExtended_HeadwearTemplates((GUIDSTRING)ARM_HeadbandOfIntellect_8779b30f-dc6f-4264-b7af-9dc0eff51bb0);
+DB_ContainersExtended_HeadwearTemplates((GUIDSTRING)ARM_Headwear_Circlet_Githyanki_A_5b2412a1-b8e2-4c09-a5ca-50c5103fd297);
+DB_ContainersExtended_HeadwearTemplates((GUIDSTRING)Cloth_Headwear_Circlet_Leather_A_da6be6d7-5046-45cb-8029-4bb16c95956a);
+DB_ContainersExtended_HeadwearTemplates((GUIDSTRING)DEN_DruidHelmet_Circlet_f4bef44e-57f1-47b5-ab2d-2457ff21c707);
+
+DB_ContainersExtended_HeadwearTemplates((GUIDSTRING)ARM_Hat_4d2e0931-3a01-4759-834b-8ae36749daab);
+DB_ContainersExtended_HeadwearTemplates((GUIDSTRING)ARM_Helmet_Leather_c58a1f91-ec1b-49c8-96ab-d94d4be4b584);
+DB_ContainersExtended_HeadwearTemplates((GUIDSTRING)ARM_Helmet_Metal_67a87879-533e-4f9b-8274-f5bd37748ace);
+
+
+
+KBSECTION
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+GetTemplate(_Item, _Template)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+DB_ContainersExtended_HeadwearTemplates(_Template)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_HeadwearBox_c05b14ba-ac1f-4282-8ccc-ccd05af9ecaa, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)HEADWEAR_d4058e67-954f-46d8-9b0d-4dbc4087a44d);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+
+EXITSECTION
+
+ENDEXITSECTION

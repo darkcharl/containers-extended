@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <save>
-	<version major="4" minor="0" revision="0" build="16" />
+	<version major="4" minor="0" revision="7" build="404" />
 	<region id="Tags">
 		<node id="Tags">
 			<attribute id="Description" type="LSString" value="Glove" />
-			<attribute id="DisplayDescription" type="TranslatedString" handle="c89002bd-73ba-478d-ac0c-777ffad782fa" version="0" />
-			<attribute id="DisplayName" type="TranslatedString" handle="2f30d112-b430-4715-9dd3-29a66655848b" version="0" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="ls::TranslatedStringRepository::s_HandleUnknown" version="0" />
+			<attribute id="DisplayName" type="TranslatedString" handle="ls::TranslatedStringRepository::s_HandleUnknown" version="0" />
 			<attribute id="Icon" type="FixedString" value="" />
 			<attribute id="Name" type="FixedString" value="GLOVE" />
 			<attribute id="UUID" type="guid" value="874d2efb-77ad-45ef-9cd3-2a114e9f3610" />

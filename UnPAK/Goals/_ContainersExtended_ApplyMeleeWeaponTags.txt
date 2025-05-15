@@ -1,0 +1,309 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+IsEquipmentWithProficiency((ITEM)_Item, "Battleaxes", 1)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_MeleeWeaponsChest_2e850e24-0c13-49ff-bf51-29948baaf7f4, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)MELEEWEAPON_c73365d5-38c3-49b4-9542-4f0c1e39c1d8);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+IsEquipmentWithProficiency((ITEM)_Item, "Clubs", 1)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_MeleeWeaponsChest_2e850e24-0c13-49ff-bf51-29948baaf7f4, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)MELEEWEAPON_c73365d5-38c3-49b4-9542-4f0c1e39c1d8);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+IsEquipmentWithProficiency((ITEM)_Item, "Flails", 1)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_MeleeWeaponsChest_2e850e24-0c13-49ff-bf51-29948baaf7f4, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)MELEEWEAPON_c73365d5-38c3-49b4-9542-4f0c1e39c1d8);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+IsEquipmentWithProficiency((ITEM)_Item, "Glaives", 1)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_MeleeWeaponsChest_2e850e24-0c13-49ff-bf51-29948baaf7f4, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)MELEEWEAPON_c73365d5-38c3-49b4-9542-4f0c1e39c1d8);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+IsEquipmentWithProficiency((ITEM)_Item, "Greataxes", 1)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_MeleeWeaponsChest_2e850e24-0c13-49ff-bf51-29948baaf7f4, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)MELEEWEAPON_c73365d5-38c3-49b4-9542-4f0c1e39c1d8);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+IsEquipmentWithProficiency((ITEM)_Item, "Greatclubs", 1)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_MeleeWeaponsChest_2e850e24-0c13-49ff-bf51-29948baaf7f4, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)MELEEWEAPON_c73365d5-38c3-49b4-9542-4f0c1e39c1d8);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+IsEquipmentWithProficiency((ITEM)_Item, "Greatswords", 1)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_MeleeWeaponsChest_2e850e24-0c13-49ff-bf51-29948baaf7f4, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)MELEEWEAPON_c73365d5-38c3-49b4-9542-4f0c1e39c1d8);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+IsEquipmentWithProficiency((ITEM)_Item, "Halberds", 1)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_MeleeWeaponsChest_2e850e24-0c13-49ff-bf51-29948baaf7f4, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)MELEEWEAPON_c73365d5-38c3-49b4-9542-4f0c1e39c1d8);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+IsEquipmentWithProficiency((ITEM)_Item, "Longswords", 1)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_MeleeWeaponsChest_2e850e24-0c13-49ff-bf51-29948baaf7f4, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)MELEEWEAPON_c73365d5-38c3-49b4-9542-4f0c1e39c1d8);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+IsEquipmentWithProficiency((ITEM)_Item, "Maces", 1)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_MeleeWeaponsChest_2e850e24-0c13-49ff-bf51-29948baaf7f4, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)MELEEWEAPON_c73365d5-38c3-49b4-9542-4f0c1e39c1d8);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+IsEquipmentWithProficiency((ITEM)_Item, "Mauls", 1)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_MeleeWeaponsChest_2e850e24-0c13-49ff-bf51-29948baaf7f4, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)MELEEWEAPON_c73365d5-38c3-49b4-9542-4f0c1e39c1d8);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+IsEquipmentWithProficiency((ITEM)_Item, "Morningstars", 1)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_MeleeWeaponsChest_2e850e24-0c13-49ff-bf51-29948baaf7f4, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)MELEEWEAPON_c73365d5-38c3-49b4-9542-4f0c1e39c1d8);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+IsEquipmentWithProficiency((ITEM)_Item, "Pikes", 1)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_MeleeWeaponsChest_2e850e24-0c13-49ff-bf51-29948baaf7f4, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)MELEEWEAPON_c73365d5-38c3-49b4-9542-4f0c1e39c1d8);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+IsEquipmentWithProficiency((ITEM)_Item, "Quarterstaffs", 1)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_MeleeWeaponsChest_2e850e24-0c13-49ff-bf51-29948baaf7f4, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)MELEEWEAPON_c73365d5-38c3-49b4-9542-4f0c1e39c1d8);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+IsEquipmentWithProficiency((ITEM)_Item, "Rapiers", 1)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_MeleeWeaponsChest_2e850e24-0c13-49ff-bf51-29948baaf7f4, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)MELEEWEAPON_c73365d5-38c3-49b4-9542-4f0c1e39c1d8);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+IsEquipmentWithProficiency((ITEM)_Item, "Scimitars", 1)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_MeleeWeaponsChest_2e850e24-0c13-49ff-bf51-29948baaf7f4, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)MELEEWEAPON_c73365d5-38c3-49b4-9542-4f0c1e39c1d8);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+IsEquipmentWithProficiency((ITEM)_Item, "Shortswords", 1)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_MeleeWeaponsChest_2e850e24-0c13-49ff-bf51-29948baaf7f4, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)MELEEWEAPON_c73365d5-38c3-49b4-9542-4f0c1e39c1d8);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+IsEquipmentWithProficiency((ITEM)_Item, "Sickles", 1)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_MeleeWeaponsChest_2e850e24-0c13-49ff-bf51-29948baaf7f4, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)MELEEWEAPON_c73365d5-38c3-49b4-9542-4f0c1e39c1d8);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+IsEquipmentWithProficiency((ITEM)_Item, "Warhammers", 1)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_MeleeWeaponsChest_2e850e24-0c13-49ff-bf51-29948baaf7f4, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)MELEEWEAPON_c73365d5-38c3-49b4-9542-4f0c1e39c1d8);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+IsEquipmentWithProficiency((ITEM)_Item, "Warpicks", 1)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_MeleeWeaponsChest_2e850e24-0c13-49ff-bf51-29948baaf7f4, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)MELEEWEAPON_c73365d5-38c3-49b4-9542-4f0c1e39c1d8);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+
+EXITSECTION
+
+ENDEXITSECTION

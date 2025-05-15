@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <save>
-	<version major="4" minor="0" revision="0" build="16" />
+	<version major="4" minor="0" revision="7" build="404" />
 	<region id="Tags">
 		<node id="Tags">
 			<attribute id="Description" type="LSString" value="Valuables" />
-			<attribute id="DisplayDescription" type="TranslatedString" handle="722b9135-e09b-4ddb-a5aa-51abf9094a07" version="0" />
-			<attribute id="DisplayName" type="TranslatedString" handle="26733ca2-4369-495e-bec8-52efbb7375dc" version="0" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="ls::TranslatedStringRepository::s_HandleUnknown" version="0" />
+			<attribute id="DisplayName" type="TranslatedString" handle="ls::TranslatedStringRepository::s_HandleUnknown" version="0" />
 			<attribute id="Icon" type="FixedString" value="" />
 			<attribute id="Name" type="FixedString" value="VALUABLES" />
 			<attribute id="UUID" type="guid" value="058af61c-25e7-4f7c-95dd-4a3890d25f48" />

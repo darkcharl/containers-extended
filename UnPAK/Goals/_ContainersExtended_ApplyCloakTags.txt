@@ -1,0 +1,51 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+DB_ContainersExtended_CloakTemplates((GUIDSTRING)ARM_Cloak_a1978b4d-3d93-49ec-9a8b-d19171ed35d5);
+DB_ContainersExtended_CloakTemplates((GUIDSTRING)ARM_Cloak_Long_B_8ed92d35-159c-493c-a8da-fba455f181e4);
+DB_ContainersExtended_CloakTemplates((GUIDSTRING)MAG_EndGameCaster_Cloak_58c9bc94-b0ac-4ab9-a005-28cc445186f8);
+DB_ContainersExtended_CloakTemplates((GUIDSTRING)ARM_Cloak_Long_C_a5f5a875-932b-44c4-8b45-88d2ed379787);
+DB_ContainersExtended_CloakTemplates((GUIDSTRING)MAG_Radiant_CrusaderMantle_Cloak_f1fdb8db-e754-4ea9-b6ce-440db6b776ac);
+DB_ContainersExtended_CloakTemplates((GUIDSTRING)ARM_Cloak_Long_C_1_c2f0ea14-9384-4b5e-a0eb-81909ce72d38);
+DB_ContainersExtended_CloakTemplates((GUIDSTRING)ARM_Cloak_Long_D_fc49414b-49d6-4f57-ae92-721d9d912d83);
+DB_ContainersExtended_CloakTemplates((GUIDSTRING)MAG_Toll_Collector_Cloak_c7774285-21b3-44fc-bae0-0b893a6a3549);
+DB_ContainersExtended_CloakTemplates((GUIDSTRING)WYR_Circus_WetCloak_fc9f7223-6b39-4734-b600-820fad6c4a08);
+DB_ContainersExtended_CloakTemplates((GUIDSTRING)DLC_DD_Red_Price_Cloak_be8f2382-576f-426f-ae90-45544b507e07);
+DB_ContainersExtended_CloakTemplates((GUIDSTRING)MAG_Acid_AcidMeleeCounter_Cloak_a927e273-3385-4a11-8941-e952d0ddfd38);
+DB_ContainersExtended_CloakTemplates((GUIDSTRING)MAG_CQCaster_TempHPAfterCast_Cloak_62a89e3a-ef88-457a-8219-0cefae6dec92);
+DB_ContainersExtended_CloakTemplates((GUIDSTRING)MAG_Critical_HidingCritical_Cloak_aff94826-0ea4-42e3-8855-aa2002c01b76);
+DB_ContainersExtended_CloakTemplates((GUIDSTRING)MAG_ElementalGish_AbsorbElements_Cloak_811ab129-2fb2-49ed-af29-5042197022fe);
+DB_ContainersExtended_CloakTemplates((GUIDSTRING)MAG_Fire_BurningOnDamaged_Cloak_8a31c554-1545-4647-b24d-93cf5d81df18);
+DB_ContainersExtended_CloakTemplates((GUIDSTRING)MAG_LC_Nymph_Cloak_6062db99-6719-44e2-9d01-9a99131d1ba7);
+DB_ContainersExtended_CloakTemplates((GUIDSTRING)MAG_LC_Umberlee_Protection_Cape_e36702e9-10e5-4964-b254-7ff0659f9bb5);
+DB_ContainersExtended_CloakTemplates((GUIDSTRING)MAG_PHB_CloakOfDisplacement_Cloak_257aed3e-370d-40b3-b464-de10257dd82b);
+DB_ContainersExtended_CloakTemplates((GUIDSTRING)MAG_PHB_CloakOfProtection_Cloak_602f62dd-0fba-4438-ad68-b846f17ac538);
+DB_ContainersExtended_CloakTemplates((GUIDSTRING)MAG_Poison_InflictPoisonHealSelf_Cloak_857d9a3c-5a40-4dfa-a634-99629095248b);
+DB_ContainersExtended_CloakTemplates((GUIDSTRING)MAG_Psychic_MentalFatigue_Cape_1b4d85b9-eefd-4629-9985-db3cb5365e8f);
+DB_ContainersExtended_CloakTemplates((GUIDSTRING)MAG_Shadow_FogOfCloudDisengage_Cloak_4b8ea38f-d0c0-4c29-a66f-bea71219f8a3);
+DB_ContainersExtended_CloakTemplates((GUIDSTRING)MAG_Thunder_InflictDazeOnReverberatedCreature_Cloak_c4c5150c-0931-4d9e-b7b2-36f40d56c290);
+DB_ContainersExtended_CloakTemplates((GUIDSTRING)UNI_DarkUrge_Bhaal_Cloak_dff731f7-d6da-403d-80cf-7f3d9cc7345b);
+
+
+KBSECTION
+IF
+AddedTo(_Item, _Char, _)
+AND
+DB_Players((CHARACTER)_Char)
+AND
+GetTemplate(_Item, _Template)
+AND
+IsTagged(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c, 0)
+AND
+DB_ContainersExtended_CloakTemplates(_Template)
+AND
+GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_CloakBox_e3dedb5c-571a-4e98-8ff6-47de32e73dd7, (CHARACTER)_Char, _Container)
+THEN
+SetTag(_Item, (TAG)CLOAK_6de7409e-eef8-402f-955c-5a8198b6480a);
+ToInventory((ITEM)_Item, _Container, 1);
+SetTag(_Item, (TAG)ContainersExtended_d0aec9c6-ff91-4b82-b3b0-60d44689955c);
+
+
+EXITSECTION
+
+ENDEXITSECTION

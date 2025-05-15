@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <save>
-	<version major="4" minor="0" revision="0" build="16" />
+	<version major="4" minor="0" revision="7" build="404" />
 	<region id="Tags">
 		<node id="Tags">
 			<attribute id="Description" type="LSString" value="Armor" />

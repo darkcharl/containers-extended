@@ -1,0 +1,9 @@
+new entry "_Amulet"
+type "Armor"
+using "_Amulet"
+data "DefaultBoosts" "Tag(JEWELRY)"
+
+new entry "_Ring"
+type "Armor"
+using "_Ring"
+data "DefaultBoosts" "Tag(JEWELRY)"

@@ -1,0 +1,39 @@
+new entry "_LuxuryItem"
+type "Object"
+using "_LuxuryItem"
+data "DefaultBoosts" "Tag(VALUABLES)"
+
+new entry "OBJ_Metalbar_Bronze"
+type "Object"
+using "OBJ_Metalbar_Bronze"
+data "DefaultBoosts" "Tag(VALUABLES)"
+
+new entry "OBJ_Metalbar_Silver"
+type "Object"
+using "OBJ_Metalbar_Silver"
+data "DefaultBoosts" "Tag(VALUABLES)"
+
+new entry "OBJ_Metalbar_Gold"
+type "Object"
+using "OBJ_Metalbar_Gold"
+data "DefaultBoosts" "Tag(VALUABLES)"
+
+new entry "OBJ_Cup_Rich"
+type "Object"
+using "OBJ_Cup_Rich"
+data "DefaultBoosts" "Tag(VALUABLES)"
+
+new entry "Cup_Silver"
+type "Object"
+using "Cup_Silver"
+data "DefaultBoosts" "Tag(VALUABLES)"
+
+new entry "GLO_SoulCoin"
+type "Object"
+using "GLO_SoulCoin"
+data "DefaultBoosts" "Tag(VALUABLES)"
+
+new entry "OBJ_GemGeneric"
+type "Object"
+using "OBJ_GemGeneric"
+data "DefaultBoosts" "Tag(VALUABLES)"

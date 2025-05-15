@@ -1,0 +1,4 @@
+new entry "_Foot"
+type "Armor"
+using "_Foot"
+data "DefaultBoosts" "Tag(FOOTWEAR)"
