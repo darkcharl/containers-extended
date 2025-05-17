@@ -1,0 +1,9 @@
+new entry "UNI_CONT_DEVIL_PuzzleBox_A"
+type "Object"
+using "UNI_CONT_DEVIL_PuzzleBox_A"
+data "DefaultBoosts" "Tag(EXCLUDEDFROMCONTAINERS)"
+
+new entry "FOR_DangerousBook"
+type "Object"
+using "FOR_DangerousBook"
+data "DefaultBoosts" "Tag(EXCLUDEDFROMCONTAINERS)"

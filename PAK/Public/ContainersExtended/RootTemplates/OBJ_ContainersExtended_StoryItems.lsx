@@ -10,7 +10,7 @@
 					<attribute id="CanBeMoved" type="bool" value="True" />
 					<attribute id="CanBePickedUp" type="bool" value="True" />
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="IsStoryItem()" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="IsStoryItem() and not Tagged('EXCLUDEDFROMCONTAINERS')" />
 					<attribute id="Flag" type="uint32" value="0" />
 					<attribute id="Hostile" type="bool" value="False" />
 					<attribute id="Icon" type="FixedString" value="Item_QUEST_D20" />
