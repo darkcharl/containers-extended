@@ -1,0 +1,24 @@
+new entry "WPN_Dart"
+type "Weapon"
+using "WPN_Dart"
+data "DefaultBoosts" "Tag(MELEEWEAPON)"
+
+new entry "WPN_Dagger"
+type "Weapon"
+using "WPN_Dagger"
+data "DefaultBoosts" "Tag(THROWNWEAPON)"
+
+new entry "WPN_Javelin"
+type "Weapon"
+using "WPN_Javelin"
+data "DefaultBoosts" "Tag(THROWNWEAPON)"
+
+new entry "WPN_Spear"
+type "Weapon"
+using "WPN_Spear"
+data "DefaultBoosts" "Tag(THROWNWEAPON)"
+
+new entry "WPN_Trident"
+type "Weapon"
+using "WPN_Trident"
+data "DefaultBoosts" "Tag(THROWNWEAPON)"

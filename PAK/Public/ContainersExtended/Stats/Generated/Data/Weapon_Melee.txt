@@ -1,0 +1,114 @@
+new entry "WPN_Battleaxe"
+type "Weapon"
+using "WPN_Battleaxe"
+data "DefaultBoosts" "Tag(MELEEWEAPON)"
+
+new entry "WPN_Club"
+type "Weapon"
+using "WPN_Club"
+data "DefaultBoosts" "Tag(MELEEWEAPON)"
+
+new entry "WPN_Flail"
+type "Weapon"
+using "WPN_Flail"
+data "DefaultBoosts" "Tag(MELEEWEAPON)"
+
+new entry "WPN_Glaive"
+type "Weapon"
+using "WPN_Glaive"
+data "DefaultBoosts" "Tag(MELEEWEAPON)"
+
+new entry "WPN_Greataxe"
+type "Weapon"
+using "WPN_Greataxe"
+data "DefaultBoosts" "Tag(MELEEWEAPON)"
+
+new entry "WPN_Greatclub"
+type "Weapon"
+using "WPN_Greatclub"
+data "DefaultBoosts" "Tag(MELEEWEAPON)"
+
+new entry "WPN_Greatsword"
+type "Weapon"
+using "WPN_Greatsword"
+data "DefaultBoosts" "Tag(MELEEWEAPON)"
+
+new entry "WPN_Halberd"
+type "Weapon"
+using "WPN_Halberd"
+data "DefaultBoosts" "Tag(MELEEWEAPON)"
+
+new entry "WPN_Handaxe"
+type "Weapon"
+using "WPN_Handaxe"
+data "DefaultBoosts" "Tag(MELEEWEAPON)"
+
+new entry "WPN_Scimitar"
+type "Weapon"
+using "WPN_Scimitar"
+data "DefaultBoosts" "Tag(MELEEWEAPON)"
+
+new entry "WPN_LightHammer"
+type "Weapon"
+using "WPN_LightHammer"
+data "DefaultBoosts" "Tag(MELEEWEAPON)"
+
+new entry "WPN_Longsword"
+type "Weapon"
+using "WPN_Longsword"
+data "DefaultBoosts" "Tag(MELEEWEAPON)"
+
+new entry "WPN_Mace"
+type "Weapon"
+using "WPN_Mace"
+data "DefaultBoosts" "Tag(MELEEWEAPON)"
+
+new entry "WPN_Maul"
+type "Weapon"
+using "WPN_Maul"
+data "DefaultBoosts" "Tag(MELEEWEAPON)"
+
+new entry "WPN_Morningstar"
+type "Weapon"
+using "WPN_Morningstar"
+data "DefaultBoosts" "Tag(MELEEWEAPON)"
+
+new entry "WPN_Pike"
+type "Weapon"
+using "WPN_Pike"
+data "DefaultBoosts" "Tag(MELEEWEAPON)"
+
+new entry "WPN_Quarterstaff"
+type "Weapon"
+using "WPN_Quarterstaff"
+data "DefaultBoosts" "Tag(MELEEWEAPON)"
+
+new entry "WPN_Rapier"
+type "Weapon"
+using "WPN_Rapier"
+data "DefaultBoosts" "Tag(MELEEWEAPON)"
+
+new entry "WPN_Scimitar"
+type "Weapon"
+using "WPN_Scimitar"
+data "DefaultBoosts" "Tag(MELEEWEAPON)"
+
+new entry "WPN_Shortsword"
+type "Weapon"
+using "WPN_Shortsword"
+data "DefaultBoosts" "Tag(MELEEWEAPON)"
+
+new entry "WPN_Sickle"
+type "Weapon"
+using "WPN_Sickle"
+data "DefaultBoosts" "Tag(MELEEWEAPON)"
+
+new entry "WPN_Warhammer"
+type "Weapon"
+using "WPN_Warhammer"
+data "DefaultBoosts" "Tag(MELEEWEAPON)"
+
+new entry "WPN_WarPick"
+type "Weapon"
+using "WPN_WarPick"
+data "DefaultBoosts" "Tag(MELEEWEAPON)"
