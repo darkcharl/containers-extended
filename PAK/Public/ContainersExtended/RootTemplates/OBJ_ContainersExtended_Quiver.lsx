@@ -7,7 +7,7 @@
                 <!-- Container for ammunition -->
 				<node id="GameObjects">
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('ARROW')" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('ARROW') and not Tagged('EXTRAPLANARCONTAINER') and not IsStoryItem()" />
 					<attribute id="MapKey" type="FixedString" value="ec028adf-be8e-468d-81d6-e3a5ea85eae1" />
 					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_Quiver" />
 					<attribute id="LevelName" type="FixedString" value="" />

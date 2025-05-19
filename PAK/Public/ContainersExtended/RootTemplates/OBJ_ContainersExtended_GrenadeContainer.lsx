@@ -7,7 +7,7 @@
                 <!-- Container for items to throw -->
 				<node id="GameObjects">
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('GRENADE') or Tagged('ALCH_SOLUTION_GRENADE') and not IsStoryItem()" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('GRENADE') or Tagged('ALCH_SOLUTION_GRENADE') and not Tagged('EXTRAPLANARCONTAINER') and not IsStoryItem()" />
 					<attribute id="MapKey" type="FixedString" value="14415b1f-47cf-4672-b2cf-dd8db20a37e4" />
 					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_GrenadeContainer" />
 					<attribute id="LevelName" type="FixedString" value="" />

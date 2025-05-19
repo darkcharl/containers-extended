@@ -9,7 +9,7 @@
 					<attribute id="CanBeMoved" type="bool" value="True" />
 					<attribute id="CanBePickedUp" type="bool" value="True" />
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('CLOAK') and not IsStoryItem()" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('CLOAK') and not Tagged('EXTRAPLANARCONTAINER') and not IsStoryItem()" />
 					<attribute id="InventoryType" type="uint8" value="11" />
 					<attribute id="MapKey" type="FixedString" value="e3dedb5c-571a-4e98-8ff6-47de32e73dd7" />
 					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_CloakBox" />

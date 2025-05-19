@@ -9,7 +9,7 @@
 					<attribute id="CanBeMoved" type="bool" value="True" />
 					<attribute id="CanBePickedUp" type="bool" value="True" />
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('HEADWEAR') and not IsStoryItem()" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('HEADWEAR') and not Tagged('EXTRAPLANARCONTAINER') and not IsStoryItem()" />
 					<attribute id="InventoryType" type="uint8" value="11" />
 					<attribute id="MapKey" type="FixedString" value="c05b14ba-ac1f-4282-8ccc-ccd05af9ecaa" />
 					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_HeadwearBox" />

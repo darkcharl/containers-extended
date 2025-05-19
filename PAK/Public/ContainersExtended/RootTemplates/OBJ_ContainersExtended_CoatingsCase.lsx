@@ -7,7 +7,7 @@
                 <!-- Container for weapon coating -->
 				<node id="GameObjects">
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('COATING') or Tagged('ALCH_SOLUTION_COATING') and not IsStoryItem()" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('COATING') or Tagged('ALCH_SOLUTION_COATING') and not Tagged('EXTRAPLANARCONTAINER') and not IsStoryItem()" />
 					<attribute id="MapKey" type="FixedString" value="bc5558b7-1ff8-482b-aa07-f067b78a944e" />
 					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_CoatingsCase" />
 					<attribute id="LevelName" type="FixedString" value="" />

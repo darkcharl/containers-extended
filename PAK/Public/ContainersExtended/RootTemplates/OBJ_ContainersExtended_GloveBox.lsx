@@ -9,7 +9,7 @@
 					<attribute id="CanBeMoved" type="bool" value="True" />
 					<attribute id="CanBePickedUp" type="bool" value="True" />
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('GLOVE') and not IsStoryItem()" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('GLOVE') and not Tagged('EXTRAPLANARCONTAINER') and not IsStoryItem()" />
 					<attribute id="InventoryType" type="uint8" value="11" />
 					<attribute id="MapKey" type="FixedString" value="59adcda4-0efa-4697-8aba-48063e6d7481" />
 					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_GloveBox" />

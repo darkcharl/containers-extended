@@ -7,7 +7,7 @@
                 <!-- Container for different barrels, mostly explosive -->
 				<node id="GameObjects">
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('BARREL') and not IsStoryItem()" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('BARREL') and not Tagged('EXTRAPLANARCONTAINER') and not IsStoryItem()" />
 					<attribute id="MapKey" type="FixedString" value="224730ad-64e0-4de6-aaec-3668e77dace2" />
 					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_ExplosivesBarrel" />
 					<attribute id="LevelName" type="FixedString" value="" />

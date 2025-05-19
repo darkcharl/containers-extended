@@ -9,7 +9,7 @@
 					<attribute id="CanBeMoved" type="bool" value="True" />
 					<attribute id="CanBePickedUp" type="bool" value="True" />
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('FOOTWEAR') and not IsStoryItem()" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('FOOTWEAR') and not Tagged('EXTRAPLANARCONTAINER') and not IsStoryItem()" />
 					<attribute id="InventoryType" type="uint8" value="11" />
 					<attribute id="MapKey" type="FixedString" value="5159664a-4998-4ade-ac73-93da44cb2d6f" />
 					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_FootwearBox" />

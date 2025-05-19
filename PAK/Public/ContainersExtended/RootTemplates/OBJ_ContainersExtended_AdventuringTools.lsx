@@ -8,7 +8,7 @@
 				<node id="GameObjects">
 					<attribute id="CanBePickedUp" type="bool" value="True" />
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('ADVENTURING') and not IsStoryItem()" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('ADVENTURING') and not Tagged('EXTRAPLANARCONTAINER') and not IsStoryItem()" />
 					<attribute id="MapKey" type="FixedString" value="c37f6372-be2c-4a27-9d62-0cfe15e0dae0" />
 					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_AdventuringTools" />
 					<attribute id="LevelName" type="FixedString" value="" />

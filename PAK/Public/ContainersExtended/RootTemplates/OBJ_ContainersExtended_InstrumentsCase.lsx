@@ -7,7 +7,7 @@
                 <!-- Container for instruments, for the traveling bard! -->
 				<node id="GameObjects">
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="IsOfProficiencyGroup('MusicalInstrument') and not IsStoryItem()" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="IsOfProficiencyGroup('MusicalInstrument') and not Tagged('EXTRAPLANARCONTAINER') and not IsStoryItem()" />
 					<attribute id="InventoryType" type="uint8" value="11" />
 					<attribute id="MapKey" type="FixedString" value="64fbb743-26d2-434a-8a00-d4bac4835da7" />
 					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_InstrumentsCase" />

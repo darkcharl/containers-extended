@@ -9,7 +9,7 @@
 					<attribute id="CanBeMoved" type="bool" value="True" />
 					<attribute id="CanBePickedUp" type="bool" value="True" />
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('WARDROBE') and not IsStoryItem()" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('WARDROBE') and not Tagged('EXTRAPLANARCONTAINER') and not IsStoryItem()" />
 					<attribute id="InventoryType" type="uint8" value="25" />
 					<attribute id="FreezeGravity" type="bool" value="False" />
 					<attribute id="MapKey" type="FixedString" value="8c3d8b21-0fb9-44be-ad00-ef0531fa2f1d" />

@@ -7,7 +7,7 @@
                 <!-- Container for jewelry -->
 				<node id="GameObjects">
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('JEWELRY') and not IsStoryItem()" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('JEWELRY') and not Tagged('EXTRAPLANARCONTAINER') and not IsStoryItem()" />
 					<attribute id="InventoryType" type="uint8" value="11" />
 					<attribute id="MapKey" type="FixedString" value="a5c85fc6-c7bf-49a8-b74b-5832d7e39d42" />
 					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_JewelryBox" />

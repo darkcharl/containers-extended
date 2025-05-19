@@ -7,7 +7,7 @@
                 <!-- Container for thrown weapons -->
 				<node id="GameObjects">
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="IsWeaponOfProficiencyGroup('Daggers|Handaxes|Javelins|LightHammers|Spears|Tridents') or Tagged('THROWNWEAPON') and not IsStoryItem()" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="IsWeaponOfProficiencyGroup('Daggers|Handaxes|Javelins|LightHammers|Spears|Tridents') or Tagged('THROWNWEAPON') and not Tagged('EXTRAPLANARCONTAINER') and not IsStoryItem()" />
 					<attribute id="InventoryType" type="uint8" value="4" />
 					<attribute id="MapKey" type="FixedString" value="3552b5eb-b261-4f9e-bd46-8830d3f898d1" />
 					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_ThrownWeaponsChest" />

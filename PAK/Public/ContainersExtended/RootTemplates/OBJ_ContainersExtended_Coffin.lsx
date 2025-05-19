@@ -9,7 +9,7 @@
 					<attribute id="CanBeMoved" type="bool" value="True" />
 					<attribute id="CanBePickedUp" type="bool" value="True" />
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="Dead()" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Dead() and not Tagged('EXTRAPLANARCONTAINER')" />
 					<attribute id="InventoryType" type="uint8" value="11" />
 					<attribute id="MapKey" type="FixedString" value="ef5f3356-c1ca-4a24-a28a-2fce0e699e57" />
 					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_Coffin" />

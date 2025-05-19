@@ -7,7 +7,7 @@
                 <!-- Container for dyes -->
 				<node id="GameObjects">
 					<attribute id="ContainerAutoAddOnPickup" type="bool" value="True" />
-					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('DYE') and not IsStoryItem()" />
+					<attribute id="ContainerContentFilterCondition" type="LSString" value="Tagged('DYE') and not Tagged('EXTRAPLANARCONTAINER') and not IsStoryItem()" />
 					<attribute id="MapKey" type="FixedString" value="6333d107-fc3d-43d3-a2bb-b29f76d434d8" />
 					<attribute id="Name" type="LSString" value="OBJ_ContainersExtended_DyeRack" />
 					<attribute id="LevelName" type="FixedString" value="" />
