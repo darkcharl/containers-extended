@@ -113,6 +113,12 @@ type "Object"
 using "OBJ_ContainersExtended_ScrollCase"
 data "RootTemplate" "728c5544-83d6-4528-9901-c2a68d5f5950"
 
+
+new entry "OBJ_ContainersExtended_ShieldsChest_Grove"
+type "Object"
+using "OBJ_ContainersExtended_ShieldsChest"
+data "RootTemplate" "5a5d0e15-8ed5-4556-b8ce-071c07ee825f"
+
 new entry "OBJ_ContainersExtended_StoryItems_Jergal"
 type "Object"
 using "OBJ_ContainersExtended_StoryItems"
