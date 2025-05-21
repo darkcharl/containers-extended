@@ -23,7 +23,7 @@
 						<node id="InventoryList">
 							<children>
 								<node id="InventoryItem">
-									<attribute id="Object" type="FixedString" value="ST_Tools" />
+									<attribute id="Object" type="FixedString" value="EquipmentTrader_Shield" />
 								</node>
 							</children>
 						</node>
