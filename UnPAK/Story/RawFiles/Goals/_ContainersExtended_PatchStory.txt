@@ -1,0 +1,43 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+
+KBSECTION
+IF
+SavegameLoaded()
+AND
+DB_Players(_Player)
+AND
+GetOwner(S_GLO_PuzzleBox_326324f9-0920-8f0f-3e85-3781fbf48282, _Owner)
+THEN
+PROC_GLO_InfernalBox_MoveBoxToCharacter((CHARACTER)_Player);
+TemplateAddTo(CONS_Potion_Healing_A_d47006e9-8a51-453d-b200-9e0d42e9bbab, _Player, 1, 1);
+// MoveAllItemsTo(S_GLO_PuzzleBox_326324f9-0920-8f0f-3e85-3781fbf48282, _Owner, 0, 0, 0, 0);
+
+// IF
+// SavegameLoaded()
+// AND
+// DB_Players(_Player)
+// AND
+// GetItemByTemplateInInventory((ITEMROOT)OBJ_ContainersExtended_StoryItems_4ad1445d-dafc-456e-84e9-4c71c1ca03a9, _Player, _Container)
+// AND
+// GetItemByTemplateInInventory((ITEMROOT)S_GLO_PuzzleBox_326324f9-0920-8f0f-3e85-3781fbf48282, _Player, _PuzzleBox)
+// THEN
+// RemoveStatus(S_GLO_PuzzleBox_326324f9-0920-8f0f-3e85-3781fbf48282, "GLO_INFERNALBOX_BOUNDEDTO", NULL_00000000-0000-0000-0000-000000000000);
+// TemplateAddTo(CONS_Potion_Healing_A_d47006e9-8a51-453d-b200-9e0d42e9bbab, _Player, 1, 1);
+// PROC_GLO_InfernalBox_MoveBoxToCharacter
+// MoveAllItemsTo(_Container, _Player);
+// ToInventory(_PuzzleBox, _Player, 1, 1, 1);
+// ApplyStatus(S_GLO_PuzzleBox_326324f9-0920-8f0f-3e85-3781fbf48282, "GLO_INFERNALBOX_BOUNDEDTO", -1.0, 1, NULL_00000000-0000-0000-0000-000000000000);
+
+
+IF
+SavegameLoaded()
+AND
+DB_Players(_Player)
+THEN
+TemplateAddTo(ITEMGUID_CONS_Potion_Healing_A_Greater_e3b95c96-dc26-40fe-bfc0-baa05e1abd20, _Player, 1, 1);
+
+EXITSECTION
+
+ENDEXITSECTION
